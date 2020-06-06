@@ -1,0 +1,31 @@
+[s:30][c:yellow]Legistron[/c][/s]
+Reclamation Center
+Akno Vakjanco
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 21198.89
+<Station Services>
+[c:lime]SUPPLY[/c]
+Plasma Generator
+Avionics Systems Package
+[c:orange]DEMAND[/c]
+Junk
+Junk Support Module
+Junk Flight Module
+Junk Power Module
+Junk Engine Module
+Junk Shield Module
+Junk Thermal Module
+Junk Weapon Module
+
+[c:cyan]SERVICES[/c]
+Ship Garage
+Ship Hangar
+Fabricator
+Offices
+
+
+<Station Market Orders>
+
+
+<Station University Skills>

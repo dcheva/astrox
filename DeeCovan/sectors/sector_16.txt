@@ -1,0 +1,108 @@
+// SECTOR;Variable;Value
+SECTOR;id;16
+SECTOR;name;Entropy
+SECTOR;level;0
+SECTOR;faction;Alpha
+SECTOR;filename;sector_16.txt
+SECTOR;is_explored;False
+SECTOR;energy;20
+SECTOR;population;20
+SECTOR;habitation;20
+SECTOR;farming;20
+SECTOR;economy;20
+SECTOR;production;20
+SECTOR;defense;20
+SECTOR;environment;20
+
+// SECTORXYZ;Variable;Value
+SECTORXYZ;location;689.79;2345.61;842.67
+
+// FOG;Variable;Value
+FOG;foggy;True
+FOG;distance;0.00239845
+FOG;alpha;0.2724332
+FOG;color_1;0.80;0.36;0.17;0.28
+FOG;color_2;0.39;0.40;0.36;1.00
+
+// NEBULA;Variable;Cloud id;Red;Green;Blue;Alpha;Size;Rotation
+NEBULA;cloud_1;1;0.77;0.71;0.43;0.00;50000;5
+NEBULA;cloud_2;2;0.00;0.60;0.00;0.00;50000;3
+NEBULA;cloud_3;3;0.13;0.37;1.00;0.00;50000;2
+NEBULA;cloud_4;4;0.32;1.00;0.27;0.00;50000;5
+NEBULA;cloud_5;5;0.62;1.00;0.67;0.00;50000;5
+NEBULA;cloud_6;6;0.00;0.00;0.00;0.00;50000;5
+NEBULA;cloud_7;7;0.00;0.21;0.18;0.00;50000;5
+NEBULA;cloud_8;8;0.43;0.69;0.91;0.00;50000;0
+NEBULA;cloud_9;9;0.94;0.55;0.30;0.00;50000;4
+NEBULA;cloud_10;10;1.00;0.86;1.00;0.00;50000;2
+NEBULA;cloud_11;11;0.13;0.43;0.76;0.00;50000;3
+NEBULA;cloud_12;12;1.00;1.00;0.98;0.03;50000;5
+
+// LIGHT;Variable;Red;Green;Blue;Alpha
+LIGHT;light_t;0.42;0.68;0.76;0.00
+LIGHT;light_b;0.57;0.07;0.08;0.00
+LIGHT;light_s;0.47;0.04;0.00;0.16
+
+// STAR;Variable;Star id;X position;Y position;Z position;
+STAR;object;1;0;0;10000;1.0;10000
+
+// LIFESUPPORT;type;value
+LIFESUPPORT;food;1.25
+LIFESUPPORT;water;0.75
+LIFESUPPORT;thermal;0.65
+LIFESUPPORT;waste;0.25
+
+// STARLIGHT;Variable;Red;Green;Blue;Alpha
+STARLIGHT;color_1;0.0;1;0.22;1.00;
+STARLIGHT;color_2;0.1;0.48;0.22;0.5;
+STARLIGHT;color_3;0.0;1;0.22;1.00;
+STARLIGHT;color_4;0.2;0.48;0.0;0.5;
+STARLIGHT;color_5;0.0;0.48;0.0;1.00;
+
+// STATION;Sector filename;X poisition;Y position;Z position
+STATION;sector_16_station_0.txt;1037.5;-37.5;1682.3
+
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_energy_gen_1.txt;98 ;-27 ;-49.6;
+STRUCTURE;structure_habitat_1.txt;-716.5;51.0;-624.0
+STRUCTURE;structure_energy_gen_1.txt;-556.6;-188.0;-1462.8
+STRUCTURE;structure_recon_1.txt;1615.7;393.7;-295.4
+STRUCTURE;structure_medical_1.txt;860.3;235.6;5.9
+STRUCTURE;structure_gun_platform_1.txt;1807.0;612.3;322.4
+STRUCTURE;structure_energy_gen_1.txt;1803.8;375.7;-74.5
+STRUCTURE;structure_office_1.txt;2283.0;100.8;253.5
+STRUCTURE;structure_storage_1.txt;2287.3;-83.5;-165.2
+STRUCTURE;structure_farm_1.txt;-646.0;135.8;400.6
+STRUCTURE;structure_recon_1.txt;1673.6;233.2;175.7
+STRUCTURE;structure_medical_1.txt;1965.3;414.9;-608.4
+
+// CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
+CLUSTER;5;50;50;100;4000;0.1;1.9;-2529.3;
+RESOURCE;5;844.8;-284.4;-1056.6;483.1;483.1
+
+
+// RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
+RESOURCE;5;2965.9;390.0;-466.3;1000.0;1000.0
+
+
+// WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
+WARPGATE;1;sector_14.txt;2;2917.3;-40.8;1604.4;0;alpha;-0.8
+WARPGATE;2;sector_19.txt;1;331.6;-18.4;-2071.2;0;alpha;0.1
+WARPGATE;3;sector_20.txt;1;-1727.6;-608.8;1316.3;0;alpha;0.7
+
+// PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
+//PROP;0;0;0;0;0;0;0;lightning 1
+PROP;17;0;0;0;0;0;0;0.15,0.12,0.10,0.2;//fog
+PROP;18;0;0;0;0;0;0;0.15,0.12,0.10,0.2;//fog
+
+// NPC_SHIP;ship_filename;xpos;ypos;zpos;faction_id;level
+NPC_SHIP;npc_ship_data_(pirate_escort_1);-666.47;-286.04;-476.22;5;2
+NPC_SHIP;npc_ship_data_(transport_escort_1);-921.17;470.28;-799.83;1;6
+NPC_SHIP;npc_ship_data_(recon_frigate_1);1076.01;-270.29;113.99;9;3
+NPC_SHIP;npc_ship_data_(recon_utility_1);-190.76;488.49;-861.49;6;9
+NPC_SHIP;npc_ship_data_(support_cruiser_1);1283.92;9.14;-168.23;1;2
+NPC_SHIP;npc_ship_data_(battle_shuttle_1);1167.96;372.18;745.53;17;5
+NPC_SHIP;npc_ship_data_(transport_frigate_1);317.17;192.73;-1139.78;5;4
+NPC_SHIP;npc_ship_data_(pirate_utility_1);-292.80;57.07;71.50;5;7
+NPC_SHIP;npc_ship_data_(recon_escort_raider);988.01;627.71;143.78;9;10
+

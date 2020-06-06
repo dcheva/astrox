@@ -1,0 +1,238 @@
+[s:30][c:yellow]Biomate University[/c][/s]
+Academic University
+Telyoupea Akpi
+Alpha
+[c:lime]Dock fee 0[/c]
+Timestamp: 21626.56
+<Station Services>
+[c:lime]SUPPLY[/c]
+Media Recordings
+Medical Instruments
+Transport Units
+Communication Devices
+Dynex Crystal Resonator
+[c:orange]DEMAND[/c]
+Textile Fabrics
+Sporting Equipment
+Wine
+Storage Tank
+Aluminim Plates
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Low Inventory: (3) Items 
+ (115) x Textile Fabrics
+ (288) x Sporting Equipment
+ (209) x Storage Tank
+Fulfill order for [c:lime]30,382[/c]
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (129) x Textile Fabrics
+ (322) x Sporting Equipment
+ (52) x Wine
+ (53) x Aluminim Plates
+Fulfill order for [c:lime]30,897[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (373) x Storage Tank
+ (213) x Aluminim Plates
+Fulfill order for [c:lime]31,272[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (220) x Textile Fabrics
+ (174) x Sporting Equipment
+ (297) x Wine
+Fulfill order for [c:lime]43,556[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (168) x Textile Fabrics
+ (249) x Sporting Equipment
+ (211) x Wine
+Fulfill order for [c:lime]37,098[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (219) x Sporting Equipment
+ (135) x Aluminim Plates
+Fulfill order for [c:lime]18,688[/c]
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (145) x Sporting Equipment
+ (128) x Wine
+ (116) x Storage Tank
+ (199) x Aluminim Plates
+Fulfill order for [c:lime]33,079[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (158) x Textile Fabrics
+ (394) x Wine
+Fulfill order for [c:lime]37,245[/c]
+[c:green]BUY Order[/c] Market Items Req: (4) Items 
+ (107) x Textile Fabrics
+ (173) x Sporting Equipment
+ (181) x Wine
+ (133) x Storage Tank
+Fulfill order for [c:lime]32,840[/c]
+
+
+<Station Market Items>
+(16) x Advanced Afterburner
+(8) x Advanced Cargo Expansion
+(193) x Advanced Explosive Armor
+(35) x Advanced Impact Armor
+(8) x Advanced Targeting System
+(15) x Advanced Thruster
+(241) x Advanced Warp Drive Fuel
+(8) x Advanced Warp Drive Fuel Specs
+(46) x Aeo Particle X2 Beam
+(32) x Armor Nanobots
+(171) x Assorted Gaskets
+(5) x Assorted Gaskets Specs
+(4788) x Basic 20mm
+(20) x Basic 20mm Specs
+(9012) x Basic 60mm
+(14) x Basic Cargo Expansion
+(1523) x Basic Charged Cell
+(9) x Basic Energy Armor
+(8) x Basic Explosive Armor
+(35) x Basic Filter
+(41) x Basic Mass Reduction
+(5045) x Basic Missile
+(7) x Basic Missile Specs
+(25) x Basic Shield Booster
+(7) x Basic Shield Generator
+(10) x Basic Targeting System
+(553) x Basic Torpedo
+(11) x Basic Warp Drive
+(246) x Basic Warp Drive Fuel
+(134) x Capacitors
+(5241) x Carbon
+(5208) x Cleaning Chemicals
+(697) x Communication Devices
+(33) x Disposables
+(710) x Dynex Crystal Resonator
+(34) x Emergency LS Kit
+(35) x Energy Charge
+(3102) x Explosive 60mm
+(2) x Explosive Missile Specs
+(91) x Fasteners
+(1) x Gemini Active Pulse
+(10) x Generic Active Scanner
+(11) x Generic Construction Platform
+(33) x Generic Default Tractor
+(12) x Generic Dual 20mm Gun
+(10) x Generic Dual Launcher
+(44) x Generic Gatling 20mm Gun
+(62) x Generic Light Beam
+(7) x Generic Light Laser
+(30) x Generic Light Miner
+(45) x Generic Salvager
+(15) x Generic Single 20mm Gun
+(144) x Generic Single 60mm Cannon
+(67) x Generic Single Launcher
+(188) x Generic Small Laser
+(37) x Generic Small Miner
+(23) x Generic Spotlight
+(8) x Generic Torpedo Launcher
+(9) x Generic Triple Launcher
+(2950) x Gradeon Ore
+(7) x Improved Active Scanner
+(4) x Improved Cargo Expansion
+(7) x Improved Energy Capacitor
+(12) x Improved Energy Generator
+(13) x Improved Mining Drone
+(6) x Improved Scan Booster
+(15) x Improved Shield Generator
+(4) x Improved Thruster
+(2) x Improved Turn Thrust
+(250) x Improved Warp Drive Fuel
+(120) x Iron Coring
+(12) x Janca Z2 OreVac
+(2499) x Kinetic 20mm
+(44) x Kinetic Missile Specs
+(30) x Kinetics G-series 20mm Gun
+(9) x Kinetics G-series Dual 20mm
+(10) x Kinetics M-series x1 Launcher
+(3506) x Lighting
+(53) x Liquid Coolant
+(5) x Liquid Coolant Specs
+(621) x Lokken Ore
+(156) x Mechanical Switch
+(723) x Media Recordings
+(712) x Medical Instruments
+(5) x Metal Brackets Specs
+(80) x Nuts And Bolts
+(43) x Nuts And Bolts Specs
+(3750) x Plasite Ore
+(15) x Protein Bar
+(3) x Quantex  x-2 20mm Gun
+(5) x Rubber Tubing Specs
+(2) x SBC LI1 Harvester
+(37) x Shield Charge
+(8) x Small Armor Bomb
+(18) x Small Combat Drone
+(18) x Small Defense Drone
+(52) x Small Energy Bomb
+(9) x Small LS Bomb
+(40) x Small Mining Drone
+(57) x Small Repair Drone
+(18) x Small Salvage Drone
+(9) x Small Shield Bomb
+(1) x Sporting Equipment
+(40) x Steelium Beams Specs
+(58) x Steelium Pipes
+(5) x Steelium Pipes Specs
+(5) x Storage Tank Specs
+(56) x Temperature Genie
+(4) x Thermal Controller
+(65) x Thermal Sensor
+(3034) x Torim Ore
+(689) x Transport Units
+(7) x Vita Lightblade X1 Laser
+(32) x Vita Lightblade X2 Laser
+(6829) x Whiskey
+(5) x Wine
+
+
+<Station University Skills>
+Projectile Basic Operation
+Laser Basic Operation
+Beam Basic Operation
+Launcher Basic Operation
+Torpedo Basic Operation
+Miner Basic Operation
+Escort Ship Operation
+Utility Ship Operation
+Frigate Ship Operation
+Cruiser Ship Operation
+Carrier Ship Operation
+Destroyer Ship Operation
+Battlecruiser Ship Operation
+Dreadnought Ship Operation
+Ship Thruster Systems
+Ship Cargo Stacker
+Max Mission Contracts
+Ship Energy Regeneration
+Ship Energy Systems
+Fleet Commander
+Drone Operation
+Drone Command Systems
+Drone Combat Weapons
+Drone Mining Lasers
+Drone Repair Systems
+Drone Defensive Programing
+Drone Range Signal
+Drone Energy Systems
+Drone Armor Mechanic
+Drone Cargo Mechanic
+Drone Thruster Systems
+Structure Build operation
+Structure Warehouse Management
+Structure Accountant
+Structure Prospector
+Structure Engineer
+Ship Shield Regeneration

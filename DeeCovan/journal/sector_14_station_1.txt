@@ -1,0 +1,103 @@
+[s:30][c:yellow]Horizons[/c][/s]
+Headquaters
+Serzokom Qireno
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 2348.246
+<Station Services>
+[c:lime]SUPPLY[/c]
+Calibration Tools
+Anti-Freeze
+Assembly Tools
+Basic Food Rations
+Cleaning Chemicals
+[c:orange]DEMAND[/c]
+Clothing
+Entertainment Electronics
+Foodservice Products
+Transport Units
+Toys
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+(3) x Generic Single Launcher
+(114) x Oxygen
+(7) x Generic Single Launcher
+(3233) x Kitchen Appliances
+(2) x Generic Light Laser
+(2) x Basic Energy Generator
+(1) x Basic Energy Generator Specs
+(7) x Improved Targeting System
+(1) x Basic Heavy Beam Specs
+(4052) x Junk Engine Module
+(3488) x Kinetic 60mm
+(82) x Metal Valve
+(2) x Basic Missile Specs
+(1265) x Junk Power Module
+(88) x Ball Bearings
+(1) x Basic Targeting System Specs
+(4745) x Basic 20mm
+(8) x Small Combat Drone
+(2986) x Junk Engine Module
+(6) x Generic Small Beam
+(1143) x Colored Dye
+(5) x Small Salvage Drone
+(3) x Generic Single 60mm Cannon
+(2801) x Junk Flight Module
+(69) x Regulator
+(3872) x Colored Dye
+(2) x Generic Gatling 20mm Gun
+(69) x Circuit Board
+(4) x Kinetics G-series 20mm Gatling
+(1) x Basic Afterburner Specs
+(81) x Plastic Caps
+(9) x Kinetics M-series x1 Launcher
+(1629) x Junk Support Module
+(7) x Improved Explosive Armor
+(2) x Basic Laser Energy Mod Specs
+(1) x Basic Targeting System Specs
+(3494) x Scrap Support Module
+(2) x Basic Light Laser Specs
+(3) x Utility Salvager
+(1) x Basic Ion Impact Mod Specs
+(1) x Basic Projectile Energy Mod Specs
+(4) x Improved Afterburner
+(2) x Basic Small Miner Specs
+(1) x Dual 60mm Cannon Specs
+(66) x Aluminium Rivets
+(4) x Basic Energy Armor
+(3) x Kinetics M-series x1 Launcher
+(2) x Janca Z1 OreVac
+(79) x Fasteners
+(90) x Basic Sensor
+(79) x Liquid Coolant
+(7) x Improved Filter
+(1569) x Kinetic 20mm
+(75) x Basic Sensor
+(1) x Light 20mm Gun Specs
+(6) x Inovex 60mm Auto Cannon
+(8) x Improved Energy Armor
+(2) x Basic Heavy Beam Specs
+(6) x Small Combat Drone
+(157) x Water
+(8) x Basic Armor Exterior
+
+
+<Station University Skills>
+Ship Shield Systems
+Storage Manager
+Beam Advanced Systems
+Fabrication Accountant
+Launcher Maintenance

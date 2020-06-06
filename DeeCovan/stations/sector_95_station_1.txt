@@ -1,0 +1,147 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;Acrondia Hub
+STATION;type;Organization Center
+STATION;owner;Bidbruei Lowtibem
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color;.60 , .20 , .80 , 1
+STATION;level;2
+STATION;icon;acrondia.png
+STATION;filename;sector_95_station_1.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-0-1-7-4-3-3-0-3-0-2-0-0
+STATION;interior_seed;3-1-0-5
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;1.68;npc_ship_data_(excavation_escort_1).txt
+MERC;7;0.99;npc_ship_data_(support_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Production: (3) Items ;353x283,302x181,351x326;29664;48758.30
+SELLORDER;Market Supply: (1) Items ;353x364;18906;99786.30
+BUYORDER;Market Shortage: (4) Items ;330x45,341x113,333x48,325x327;41163;79197.10
+BUYORDER;Market Demands: (2) Items ;322x58,333x41;51472;75382.10
+
+BUYORDER;Market Low Inventory: (2) Items ;322x96,325x167;49197;60516.91
+
+ITEM;2325;2;1.14
+ITEM;2150;82;1.03
+ITEM;702;4;1.08
+ITEM;2247;1;1.04
+ITEM;722;183;1.06
+ITEM;2155;2;1.03
+ITEM;167;102;0.96
+ITEM;41;462;1.06
+ITEM;153;56;0.95
+ITEM;1451;3;1.08
+ITEM;1570;9;1.14
+ITEM;660;4;0.98
+ITEM;1451;64;1.10
+ITEM;2121;3011;0.96
+ITEM;2160;1;1.14
+ITEM;1006;8;0.95
+ITEM;2244;83;0.98
+ITEM;208;90;0.91
+ITEM;300;2918;0.99
+ITEM;1100;7;0.97
+ITEM;729;4;1.05
+ITEM;1205;110;1.02
+ITEM;1616;9;1.04
+ITEM;20;377;1.02
+ITEM;151;115;1.16
+ITEM;20;2524;1.14
+ITEM;1010;8;1.13
+ITEM;2392;2;0.97
+ITEM;1205;97;1.00
+ITEM;2083;4808;1.02
+ITEM;621;3;1.11
+ITEM;2299;2;1.04
+ITEM;3;4125;1.04
+ITEM;208;74;1.07
+ITEM;2236;1;1.12
+ITEM;2155;1;1.03
+ITEM;160;77;0.89
+ITEM;2374;2;1.11
+ITEM;661;8;0.95
+ITEM;1561;71;1.09
+ITEM;206;99;0.97
+ITEM;729;9;1.13
+ITEM;690;8;0.97
+ITEM;170;68;1.09
+ITEM;1501;7;0.95
+ITEM;163;67;1.02
+ITEM;1560;5;1.00
+ITEM;721;4;1.09
+ITEM;162;58;1.02
+ITEM;2089;762;1.07
+ITEM;2301;1;1.06
+ITEM;2387;69;0.98
+ITEM;722;7;1.01
+ITEM;20;2465;1.14
+ITEM;2085;2472;1.08
+ITEM;207;82;1.01
+ITEM;1005;9;1.07
+ITEM;1600;2;1.08
+ITEM;1571;2;0.98
+ITEM;2229;1;1.08
+ITEM;723;8;1.10
+ITEM;2226;76;1.01
+ITEM;154;70;0.96
+ITEM;61;4175;1.03
+ITEM;1571;5;1.03
+ITEM;1500;8;1.06
+ITEM;303;2771;1.07
+ITEM;302;992;0.98
+ITEM;723;7;1.10
+ITEM;201;86;1.02
+ITEM;2140;2;1.03
+ITEM;1560;3;0.97
+ITEM;1011;7;0.98
+ITEM;155;89;1.06
+ITEM;1511;7;1.10
+ITEM;1541;3;1.06
+ITEM;305;4028;1.12
+ITEM;163;52;1.09
+ITEM;2242;77;0.94
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;75;1.95
+SKILL;36;0.95
+SKILL;16;0.71
+SKILL;63;1.51
+SKILL;74;1.49
+SKILL;228;0.89
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.487944;ship_data_(transport_utility_1).txt
+SHIP;1;0.92;ship_data_(battle_escort_1).txt
+SHIP;2;1.08;ship_data_(battle_escort_1).txt
+SHIP;3;1.01;ship_data_(pirate_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

@@ -1,0 +1,284 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;StarGypsy Warehouse
+STATION;type;Tavern Station
+STATION;owner;Pinratus Flake
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color; 1.0 , 0.0 , 0.0 , 1.0
+STATION;level;7
+STATION;icon;stargypsy.png
+STATION;filename;sector_0_station_2.txt
+STATION;max_hp;25000
+STATION;dockfee;25
+STATION;lease;20
+STATION;seed;4-5-0-1-9-0-9-1-3-0-0-4-1-3-8-1-9-1-1-3-1-3-90
+STATION;interior_seed;7-5-15-3
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(pirate_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(pirate_escort_1).txt
+MERC;9;1.93;npc_ship_data_(pirate_utility_1).txt
+MERC;12;1.23;npc_ship_data_(pirate_utility_2).txt
+MERC;15;1.47;npc_ship_data_(pirate_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Stock: (1) Items ;169x182;1077;26580.14
+SELLORDER;Market Items: (1) Items ;169x258;1405;41051.14
+BUYORDER;Market Out of Stock: (2) Items ;311x70,114x292;10264;49965.10
+BUYORDER;Market Out of Stock: (1) Items ;313x30;7912;73770.63
+
+ITEM;1592;21;0.91
+ITEM;1106;8;0.76
+ITEM;1550;7;1.97
+ITEM;1206;6;0.66
+ITEM;202;178;1.09
+ITEM;2;3377;1.78
+ITEM;1160;3;1.75
+ITEM;1450;5;1.66
+ITEM;522;1;1.33
+ITEM;660;4;2.11
+ITEM;102;117;0.94
+ITEM;301;880;1.36
+ITEM;155;183;1.18
+ITEM;41;2330;0.57
+ITEM;2;2993;1.74
+ITEM;1615;37;1.47
+ITEM;1202;3;1.03
+ITEM;620;6;1.07
+ITEM;205;166;0.83
+ITEM;156;44;0.80
+ITEM;1200;81;1.79
+ITEM;1540;16;1.14
+ITEM;150;65;1.14
+ITEM;202;59;1.61
+ITEM;1007;142;1.28
+ITEM;601;7;1.56
+ITEM;1617;8;0.72
+ITEM;105;138;1.32
+ITEM;1592;9;1.30
+ITEM;522;88;1.94
+ITEM;522;2;1.02
+ITEM;1591;3;1.91
+ITEM;1542;4;1.38
+ITEM;1002;161;1.22
+ITEM;642;3;1.72
+ITEM;60;1422;1.86
+ITEM;640;6;1.47
+ITEM;1210;2;1.72
+ITEM;1303;5;0.52
+ITEM;1540;75;1.43
+ITEM;661;71;1.80
+ITEM;1110;2;0.67
+ITEM;1620;7;2.03
+ITEM;158;63;2.01
+ITEM;522;56;1.32
+ITEM;5;3374;1.00
+ITEM;1502;2;0.65
+ITEM;151;51;0.78
+ITEM;1632;6;0.71
+ITEM;1581;6;0.58
+ITEM;310;435;0.55
+ITEM;310;4080;1.64
+ITEM;1007;8;0.76
+ITEM;1616;4;1.90
+ITEM;1402;57;1.05
+ITEM;1521;2;1.32
+ITEM;101;105;1.05
+ITEM;662;23;1.07
+ITEM;502;2;1.42
+ITEM;156;53;0.70
+ITEM;1640;7;1.32
+ITEM;1511;168;1.11
+ITEM;1542;4;1.73
+ITEM;1622;71;1.06
+ITEM;303;3336;1.54
+ITEM;1501;51;1.68
+ITEM;311;1759;1.42
+ITEM;1210;106;1.58
+ITEM;1617;7;1.75
+ITEM;1562;7;1.57
+ITEM;1601;4;1.04
+ITEM;70;471;0.58
+ITEM;1152;5;0.85
+ITEM;1652;4;1.00
+ITEM;151;67;1.51
+ITEM;1622;185;1.66
+ITEM;1050;8;1.90
+ITEM;302;4706;1.88
+ITEM;1102;4;1.45
+ITEM;1450;6;1.63
+ITEM;1013;8;1.01
+ITEM;622;169;1.75
+ITEM;157;55;1.50
+ITEM;101;109;0.83
+ITEM;304;4854;1.62
+ITEM;1617;5;0.84
+ITEM;1642;7;1.05
+ITEM;1501;11;1.62
+ITEM;622;7;0.51
+ITEM;1601;4;1.29
+ITEM;1551;3;1.68
+ITEM;1621;144;1.74
+ITEM;1303;6;1.42
+ITEM;1008;4;0.92
+ITEM;501;2;0.91
+ITEM;1551;9;0.82
+ITEM;1651;5;0.66
+ITEM;660;16;1.25
+ITEM;1542;7;1.92
+ITEM;662;5;0.70
+ITEM;5;2523;2.04
+ITEM;1601;7;0.92
+ITEM;1008;3;0.73
+ITEM;520;116;0.74
+ITEM;203;59;1.50
+ITEM;1003;77;0.80
+ITEM;1205;2;1.27
+ITEM;1511;9;1.69
+ITEM;1532;190;1.65
+ITEM;520;1;1.08
+ITEM;313;2395;0.89
+ITEM;1008;80;0.86
+ITEM;1550;8;1.02
+ITEM;500;1;1.74
+ITEM;1201;2;0.97
+ITEM;104;171;1.47
+ITEM;1512;2;0.55
+ITEM;5;4643;1.67
+ITEM;1600;7;1.67
+ITEM;1642;2;1.93
+ITEM;101;115;1.88
+ITEM;1402;63;1.59
+ITEM;502;2;0.73
+ITEM;1600;4;0.59
+ITEM;302;3663;0.72
+ITEM;1562;125;1.33
+ITEM;1110;5;1.51
+ITEM;1105;4;1.48
+ITEM;1631;9;1.18
+ITEM;158;50;0.90
+ITEM;157;53;1.62
+ITEM;152;74;1.79
+ITEM;1156;7;1.62
+ITEM;502;1;1.69
+ITEM;600;23;1.74
+ITEM;1152;3;1.96
+ITEM;305;3378;1.69
+ITEM;204;86;1.92
+ITEM;1617;7;0.94
+ITEM;1050;9;0.92
+ITEM;1591;2;1.87
+ITEM;201;54;0.74
+ITEM;41;3172;0.73
+ITEM;1475;23;0.73
+ITEM;1476;23;0.73
+ITEM;1477;90;0.79
+ITEM;1478;23;0.85
+ITEM;1760;23;0.73
+ITEM;1761;23;0.87
+ITEM;1762;112;1.03
+ITEM;1765;23;0.85
+ITEM;1766;23;0.89
+ITEM;1767;23;0.75
+ITEM;1770;23;0.73
+ITEM;1771;60;0.98
+ITEM;1772;29;0.83
+ITEM;1775;58;0.91
+ITEM;1776;23;0.86
+ITEM;1777;23;0.84
+ITEM;1475;199;0.99
+ITEM;1476;20;0.91
+ITEM;1477;20;0.77
+ITEM;1478;107;0.80
+ITEM;1480;58;0.85
+ITEM;1778;185;0.95
+ITEM;1779;158;1.04
+ITEM;1780;197;0.94
+ITEM;1781;64;0.79
+ITEM;1760;13;0.85
+ITEM;1765;46;0.75
+ITEM;1770;20;0.88
+ITEM;1775;57;1.04
+ITEM;400;166;1.02
+ITEM;401;250;0.74
+ITEM;402;250;0.74
+ITEM;420;10;0.90
+ITEM;421;10;0.87
+ITEM;422;10;0.74
+ITEM;2420;5;1.25
+ITEM;2421;5;1.25
+ITEM;2422;5;1.25
+ITEM;2423;5;1.25
+ITEM;2424;5;1.37
+ITEM;2425;125;1.20
+ITEM;2426;5;1.43
+ITEM;2427;5;1.25
+ITEM;2428;97;1.23
+ITEM;2429;5;1.25
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;55;1.19
+SKILL;56;1.08
+SKILL;51;1.55
+SKILL;61;1.73
+SKILL;65;2.20
+SKILL;81;1.61
+SKILL;82;1.43
+SKILL;83;0.78
+SKILL;84;1.81
+SKILL;85;1.90
+SKILL;211;0.97
+SKILL;57;1.01
+SKILL;130;1.01
+SKILL;131;0.93
+SKILL;132;0.97
+SKILL;133;0.93
+SKILL;134;0.98
+SKILL;140;0.92
+SKILL;141;0.87
+SKILL;142;1.01
+SKILL;143;0.98
+SKILL;144;1.04
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.0;ship_data_(pirate_shuttle_1).txt
+SHIP;1;1.0;ship_data_(pirate_escort_1).txt
+SHIP;1;1.0;ship_data_(pirate_escort_2).txt
+SHIP;4;1.0;ship_data_(pirate_utility_1).txt
+SHIP;4;1.0;ship_data_(pirate_utility_2).txt
+SHIP;4;1.0;ship_data_(pirate_frigate_1).txt
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>

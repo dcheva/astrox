@@ -1,0 +1,134 @@
+[s:30][c:yellow]ValueStar[/c][/s]
+Trade Floor Facility
+Binofesiv Sedkeesed
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 16913.28
+<Station Services>
+[c:lime]SUPPLY[/c]
+Mechanical Belts
+Carbon Fiber
+Battery Core
+LED Lights
+[c:orange]DEMAND[/c]
+Assorted Springs
+Circuit Board
+Basic Sensor
+Optical Interface
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Surplus: (1) Items 
+ (185) x Mechanical Belts
+Buy items for [c:red]2,948[/c]
+[c:red]SELL Order[/c] Market Supply: (2) Items 
+ (51) x Battery Core
+ (269) x LED Lights
+Buy items for [c:red]12,082[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (35) x Assorted Springs
+ (275) x Basic Sensor
+Fulfill order for [c:lime]23,654[/c]
+[c:red]SELL Order[/c] Market Production: (3) Items 
+ (160) x Carbon Fiber
+ (75) x Battery Core
+ (88) x LED Lights
+Buy items for [c:red]18,400[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (217) x Assorted Springs
+ (110) x Basic Sensor
+ (168) x Optical Interface
+Fulfill order for [c:lime]31,949[/c]
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (249) x Basic Sensor
+Fulfill order for [c:lime]20,370[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (47) x Basic Sensor
+Fulfill order for [c:lime]3,845[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (90) x Circuit Board
+ (57) x Optical Interface
+Fulfill order for [c:lime]13,438[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (95) x Assorted Springs
+ (71) x Circuit Board
+Fulfill order for [c:lime]9,519[/c]
+
+
+<Station Market Items>
+(8) x Advanced Regulator
+(82) x Ball Bearings
+(119) x Basic 20mm
+(1) x Basic Afterburner Specs
+(2) x Basic Cargo Expansion Specs
+(1) x Basic Drone Command Bay Specs
+(1) x Basic Dual Launcher Specs
+(5) x Basic Energy Armor
+(2) x Basic Energy Capacitor Specs
+(1) x Basic Explosive Armor Specs
+(1) x Basic Heavy Laser Specs
+(2) x Basic Laser Energy Mod Specs
+(1) x Basic Laser Explosive Mod Specs
+(1) x Basic Light Miner Specs
+(2) x Basic Medium Miner Specs
+(2) x Basic Shield Booster Specs
+(2) x Basic Shield Booster Specs
+(4) x Basic Shield Extender
+(7) x Basic Shield Generator
+(8) x Basic Targeting System
+(13) x Basic Thruster
+(2) x Basic Torpedo Launcher Specs
+(2) x Basic Triple Launcher Specs
+(1) x Basic Utility Tractor Specs
+(126) x Battery Core
+(84) x Capacitors
+(135) x Carbon Fiber
+(5) x Cat Food
+(3307) x Colored Dye
+(3) x Containment Unit
+(3) x Disposables
+(1) x Dual 60mm Cannon Specs
+(7297) x Furniture
+(3) x Generic 20mm Auto Specs
+(7) x Generic Active Scanner
+(13) x Generic Light Beam
+(2) x Generic Light Laser
+(3) x Generic Small Laser
+(8) x Improved Energy Armor
+(3) x Improved Energy Capacitor
+(12) x Improved Energy Generator
+(6) x Improved Scan Emitter
+(9) x Janca Z1 OreVac
+(518) x Junk
+(542) x Kinetic Torpedo
+(3) x Kinetics G-series Dual 20mm
+(124) x LED Lights
+(2147) x Lighting
+(248) x Mechanical Belts
+(78) x Metal Gears
+(83) x Metal Valve
+(510) x Radiated Torpedo
+(131) x Reinforced Rubber
+(7) x Small Repair Drone
+(5) x Small Shield Bomb
+(4) x Small Web Field
+(334) x Water
+(1) x Uranium Core
+
+
+<Station University Skills>
+Laser Damage Calibration
+Merc Prospector
+Fleet Navigation
+Merc Negotiations
+Laser Damage Calibration

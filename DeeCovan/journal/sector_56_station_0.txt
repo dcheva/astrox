@@ -1,0 +1,138 @@
+[s:30][c:yellow]Transporteers[/c][/s]
+Auction Facility
+Ribres Borxaxon
+Trade
+[c:lime]Dock fee 100[/c]
+Timestamp: 17093.46
+<Station Services>
+[c:lime]SUPPLY[/c]
+Derelict Support Module
+Fragmented Power Module
+Scrap Flight Module
+[c:orange]DEMAND[/c]
+Office Supplies
+Hygiene Products
+Lighting
+Musical Instruments
+Power Systems Package
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Needs Goods: (1) Items 
+ (214) x Lighting
+Fulfill order for [c:lime]37,705[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (293) x Hygiene Products
+Fulfill order for [c:lime]50,467[/c]
+
+
+<Station Market Items>
+(58) x Battery Core
+(132) x Oxygen
+(4) x Basic Drone Command Bay
+(3702) x Kinetic Torpedo
+(88) x Carbon Fiber
+(62) x Basic Large Miner Specs
+(9) x Basic Shield Generator
+(2348) x Gradeon Ore
+(4) x Improved Targeting System
+(9) x Aeo Particle X1 Beam
+(68) x Optical Interface
+(2) x Kinetics G-series Dual 20mm
+(14) x Basic Large Beam Specs
+(7) x Small Armor Bomb
+(29) x Gemini Active Pulse
+(5) x Inovex 60mm Cannon
+(95) x Storage Tank
+(35) x Inovex 60mm Auto Cannon
+(1) x Basic Missile Impact Mod Specs
+(1) x Basic Small Beam Specs
+(5) x Improved Armor Exterior
+(147) x Improved Energy Generator
+(12) x Basic Afterburner
+(4247) x Basic 60mm
+(4) x Generic Default Tractor
+(3089) x Junk Engine Module
+(2) x Improved Energy Armor
+(1) x Basic Quad Launcher Specs
+(6) x Basic Thruster
+(79) x Optical Interface
+(2) x Basic Drone Command Bay Specs
+(2) x Improved Shield Extender
+(29) x Basic Penta Launcher Specs
+(10) x Burglar Drone
+(3654) x Basic 60mm
+(66) x Optical Interface
+(46) x Standard 60mm Cannon Specs
+(4081) x Lokken Ore
+(112) x Oxygen
+(113) x Thermal Insulation
+(1) x Basic Medium Beam Specs
+(93) x Plastic Caps
+(3798) x Cleaning Chemicals
+(9) x Improved Cargo Expansion
+(2) x Basic Shield Generator
+(2) x Basic Medium Laser Specs
+(4160) x Junk Power Module
+(4574) x Lokken Ore
+(52) x Improved Shield Extender
+(61) x Rubber Tubing
+(1) x Basic Ion Energy Mod Specs
+(2) x Basic Default Tractor Specs
+(47) x Small Web Field
+(61) x Fiber Optic Cables
+(6) x Pizza
+(104) x Basic Small Beam Specs
+(44) x Improved Energy Armor
+(164) x Acidic Residue
+(1) x Basic Projectile Energy Mod Specs
+(6) x Improved Mass Reduction
+(2) x Standard 60mm Cannon Specs
+(89) x Nuts And Bolts
+(4733) x Kinetic 60mm
+(91) x LED Lights
+(6) x Improved Drone Command Bay
+(1359) x Adamyte Ore
+(3613) x Kinetic Torpedo
+(53) x Mechanical Switch
+(3) x Thermal Controller
+(1932) x Kinetic 20mm
+(71) x Lubricant
+(1) x Basic Ion Explosive Mod Specs
+(3) x Small Armor Bomb
+(3724) x Lokken Ore
+(6) x Gemini Active Pulse
+(2) x Improved Active Scanner
+(8) x Burglar Drone
+(1) x Basic 60mm Specs
+(1) x Basic Missile Specs
+(1) x 60mm Auto Cannon Specs
+(2) x Basic Medium Laser Specs
+(6) x Generic Small Miner
+(105) x Thermal Insulation
+(26) x Kinetics G-series 20mm Gatling
+(7) x Basic Energy Generator Specs
+(2) x Basic Utility Tractor Specs
+(3) x Basic Engine Core
+
+
+<Station University Skills>
+Launcher Focal Range
+Beam Energy Optimization
+Ship Energy Regeneration
+Laser Damage Calibration
+Ship Gyroscopic Control
+Armor Mechanic
+Ship Mass Engineering
+Laser Energy Optimization
+Miner Energy Optimization

@@ -1,0 +1,167 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Transporteers
+STATION;type;Auction Facility
+STATION;owner;Ribres Borxaxon
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;8
+STATION;icon;transporteers.png
+STATION;filename;sector_56_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-9-1-2-0-3-0-0-4-2-1-0-90
+STATION;interior_seed;4-7-30-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;8;2.00;npc_ship_data_(pirate_frigate_1).txt
+MERC;4;1.99;npc_ship_data_(recon_shuttle_1).txt
+MERC;6;0.76;npc_ship_data_(transport_escort_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Needs Goods: (1) Items ;305x214;31039;54230.77
+BUYORDER;Market Shortage: (1) Items ;331x293;63532;100870.30
+
+ITEM;208;58;1.13
+ITEM;103;132;0.96
+ITEM;1750;4;0.87
+ITEM;76;3702;0.86
+ITEM;168;88;1.07
+ITEM;2350;62;1.01
+ITEM;2245;0;0.95
+ITEM;1560;9;0.98
+ITEM;2;2348;1.04
+ITEM;1611;4;1.06
+ITEM;1155;9;1.02
+ITEM;206;68;0.84
+ITEM;1007;2;1.00
+ITEM;2325;14;1.12
+ITEM;701;7;1.14
+ITEM;1453;29;1.08
+ITEM;1010;5;1.04
+ITEM;159;95;0.96
+ITEM;1012;35;0.98
+ITEM;2234;1;0.93
+ITEM;2323;1;0.96
+ITEM;1621;5;0.79
+ITEM;1581;147;1.06
+ITEM;1520;12;0.97
+ITEM;50;4247;0.79
+ITEM;1300;4;0.97
+ITEM;2086;3089;1.11
+ITEM;1641;2;0.97
+ITEM;2275;1;1.03
+ITEM;1500;6;1.13
+ITEM;206;79;0.97
+ITEM;2237;2;1.07
+ITEM;1551;2;0.99
+ITEM;2276;29;1.06
+ITEM;729;10;1.00
+ITEM;50;3654;0.97
+ITEM;206;66;1.00
+ITEM;2245;46;0.99
+ITEM;4;4081;1.01
+ITEM;103;112;1.09
+ITEM;162;113;1.05
+ITEM;2324;1;0.95
+ITEM;165;93;1.07
+ITEM;300;3798;0.96
+ITEM;1531;9;0.99
+ITEM;1560;2;0.95
+ITEM;2299;2;0.89
+ITEM;2085;4160;1.01
+ITEM;4;4574;1.03
+ITEM;1551;52;1.10
+ITEM;154;61;1.07
+ITEM;2232;1;1.14
+ITEM;2372;2;1.06
+ITEM;710;47;0.97
+ITEM;640;0;1.04
+ITEM;204;61;1.07
+ITEM;607;6;1.13
+ITEM;2160;0;1.09
+ITEM;2323;104;1.00
+ITEM;1641;44;1.05
+ITEM;2000;164;1.00
+ITEM;2226;1;0.86
+ITEM;1541;6;1.14
+ITEM;2245;2;1.07
+ITEM;150;89;0.95
+ITEM;51;4733;1.04
+ITEM;209;91;1.04
+ITEM;1751;6;0.96
+ITEM;1;1359;1.09
+ITEM;76;3613;0.99
+ITEM;203;53;1.11
+ITEM;640;3;0.94
+ITEM;41;1932;0.96
+ITEM;155;71;1.06
+ITEM;2233;1;1.08
+ITEM;701;3;0.97
+ITEM;4;3724;1.11
+ITEM;1453;6;0.98
+ITEM;1452;2;1.10
+ITEM;729;8;1.13
+ITEM;510;1;1.03
+ITEM;520;1;1.12
+ITEM;2247;1;1.00
+ITEM;2299;2;1.05
+ITEM;1201;6;1.13
+ITEM;162;105;1.07
+ITEM;1009;26;1.08
+ITEM;2180;7;1.04
+ITEM;2373;2;1.08
+ITEM;1510;3;1.05
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;33;0.65
+SKILL;24;1.37
+SKILL;65;0.89
+SKILL;16;0.60
+SKILL;51;1.68
+SKILL;229;1.16
+SKILL;54;0.71
+SKILL;14;1.73
+SKILL;44;0.66
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;62;140;627869;HARVEST#184#2#sector_40.txt#sector_56_station_0.txt#null#null#null#null;Excavate special Gradeon Ore in Dogstar Prime and return with 184 to Transporteers in Hunu;14;Hindo Foris has discovered a light deposit of Gradeon Ore in Dogstar Prime. He is currently unable to mine the Gradeon Ore, and has requested a pilot to head over and harvest the 184 Gradeon Ore. Once complete, head over and meet Hindo Foris at the Transporteers station located in the Hunu.;39123
+MISSION;70;180;578353;ESCORT#sector_14_station_0.txt#sector_0_station_4.txt#Foreman Qukom Yaino#npc_ship_data_(Testship)#17#null#null#null;Escort Foreman Qukom Yaino from Imperium Republica  in Gate of Alpharis to Starbase Corporate Center in Void Starcross;10;A wealthy council member from the Missionary faction has set up an escort for his oldest son Foreman Qukom Yaino. He was recently released from a rehab center for bliss addiction, and Yails Vispae, his father, would prefer he doesn't travel alone. You can meet up with Foreman Qukom Yaino at the Imperium Republica  station before heading over to Starbase Corporate Center.;10268
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.06;ship_data_(recon_cruiser_1).txt
+SHIP;2;1.10;ship_data_(transport_cruiser_1).txt
+SHIP;3;0.98;ship_data_(recon_frigate_1).txt
+SHIP;4;0.98;ship_data_(battle_shuttle_1).txt
+SHIP;5;1.04;ship_data_(support_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+
+

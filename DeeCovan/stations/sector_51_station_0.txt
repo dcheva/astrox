@@ -1,0 +1,143 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Psybermind
+STATION;type;Private Prison
+STATION;owner;Mecee Zahorewe
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;5
+STATION;icon;psybermind.png
+STATION;filename;sector_51_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-4-1-7-0-2-7-0-3-2-0-9-1-7-6-0-4-1-4-1-0-9-90
+STATION;interior_seed;3-8-45-9
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;6;1.39;npc_ship_data_(excavation_frigate_1).txt
+MERC;3;0.73;npc_ship_data_(support_frigate_1).txt
+MERC;1;1.51;npc_ship_data_(recon_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2008;56;1.12
+ITEM;1624;6;1.09
+ITEM;2044;131;1.01
+ITEM;1522;2;1.17
+ITEM;2290;2;1.11
+ITEM;1301;3;1.09
+ITEM;2119;3082;1.17
+ITEM;2222;1;1.13
+ITEM;216;91;0.99
+ITEM;2177;2;0.95
+ITEM;2153;40;1.14
+ITEM;1114;9;0.98
+ITEM;1753;3;1.11
+ITEM;2128;1;0.99
+ITEM;2355;2;1.03
+ITEM;1573;9;1.03
+ITEM;1403;8;1.06
+ITEM;2047;83;0.97
+ITEM;53;1969;1.01
+ITEM;1030;3;0.97
+ITEM;2208;48;0.99
+ITEM;332;858;1.10
+ITEM;727;9;1.13
+ITEM;110;151;1.15
+ITEM;53;4085;0.98
+ITEM;1213;44;1.12
+ITEM;2178;2;1.10
+ITEM;1109;9;1.00
+ITEM;7;4850;1.06
+ITEM;353;4389;1.13
+ITEM;114;172;1.09
+ITEM;2026;70;1.06
+ITEM;2248;1;1.11
+ITEM;2375;47;1.07
+ITEM;2162;2;1.09
+ITEM;2024;132;1.21
+ITEM;2148;2;1.07
+ITEM;1301;30;1.07
+ITEM;351;635;1.01
+ITEM;2196;2;1.14
+ITEM;2031;65;1.01
+ITEM;2332;39;1.09
+ITEM;2259;1;1.07
+ITEM;2054;94;1.00
+ITEM;2238;2;1.13
+ITEM;2396;2;1.03
+ITEM;2383;2;1.06
+ITEM;2041;93;1.24
+ITEM;1019;6;1.09
+ITEM;2313;1;1.05
+ITEM;2279;20;1.18
+ITEM;1170;6;1.05
+ITEM;2141;16;1.09
+ITEM;1732;53;0.98
+ITEM;312;269;1.15
+ITEM;1711;2;1.01
+ITEM;321;3948;1.09
+ITEM;2152;2;0.97
+ITEM;2388;1;1.01
+ITEM;2025;57;1.03
+ITEM;1582;22;1.07
+ITEM;1309;6;1.09
+ITEM;219;63;1.13
+ITEM;2022;52;1.00
+ITEM;2378;1;1.01
+ITEM;2382;1;0.97
+ITEM;1564;3;1.32
+ITEM;2025;60;1.11
+ITEM;2280;2;1.18
+ITEM;2026;89;1.03
+ITEM;1211;5;1.10
+ITEM;2019;84;1.00
+ITEM;2123;1;1.03
+ITEM;1015;7;0.97
+ITEM;1303;8;1.15
+ITEM;1207;7;0.97
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;37;1.38
+SKILL;4;1.71
+SKILL;47;1.10
+SKILL;43;1.18
+SKILL;33;1.82
+SKILL;16;1.38
+SKILL;230;1.26
+SKILL;47;0.58
+SKILL;36;0.56
+SKILL;46;0.79
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.99;ship_data_(transport_frigate_1).txt
+SHIP;2;1.10;ship_data_(support_frigate_1).txt
+SHIP;3;1.04;ship_data_(pirate_cruiser_1).txt
+SHIP;4;0.90;ship_data_(transport_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

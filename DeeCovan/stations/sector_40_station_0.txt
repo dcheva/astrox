@@ -1,0 +1,139 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Legistron
+STATION;type;Reclamation Center
+STATION;owner;Akno Vakjanco
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;9
+STATION;icon;legistron.png
+STATION;filename;sector_40_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-9-1-1-3-1-0-1-2-6-2-7-1-3-0-2-7-0
+STATION;interior_seed;3-6-45-2
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;9;0.69;npc_ship_data_(battle_utility_1).txt
+MERC;2;1.15;npc_ship_data_(excavation_escort_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;107;140;1.13
+ITEM;1021;7;1.08
+ITEM;51;601;1.13
+ITEM;52;2661;1.08
+ITEM;209;60;1.03
+ITEM;1111;0;1.05
+ITEM;208;87;1.01
+ITEM;1013;2;0.98
+ITEM;1643;0;1.07
+ITEM;1553;0;1.03
+ITEM;2166;2;1.06
+ITEM;2008;69;1.03
+ITEM;1573;0;1.06
+ITEM;1165;9;1.12
+ITEM;7;1315;1.11
+ITEM;2225;1;1.10
+ITEM;6;997;1.08
+ITEM;214;81;1.02
+ITEM;1512;0;1.11
+ITEM;2328;0;1.03
+ITEM;325;1019;1.06
+ITEM;2233;1;1.03
+ITEM;311;4205;1.08
+ITEM;621;4;1.04
+ITEM;1512;4;0.97
+ITEM;1622;8;1.01
+ITEM;1653;9;1.10
+ITEM;1642;3;1.08
+ITEM;2248;2;1.09
+ITEM;1165;2;1.04
+ITEM;107;132;1.07
+ITEM;2090;2746;1.12
+ITEM;2011;70;1.04
+ITEM;1612;6;0.96
+ITEM;304;3465;1.05
+ITEM;2115;4306;1.10
+ITEM;1503;7;0.96
+ITEM;2238;0;1.12
+ITEM;170;59;1.00
+ITEM;1542;4;0.98
+ITEM;2279;2;1.10
+ITEM;1060;7;1.08
+ITEM;1603;0;1.14
+ITEM;2233;1;1.04
+ITEM;1622;4;1.07
+ITEM;2116;4304;1.02
+ITEM;1303;3;1.02
+ITEM;1651;8;1.13
+ITEM;2011;68;1.09
+ITEM;2118;1924;0.98
+ITEM;1591;3;0.96
+ITEM;2328;1;1.07
+ITEM;1591;7;1.13
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;63;0.54
+SKILL;32;1.72
+SKILL;6;1.49
+SKILL;55;1.93
+SKILL;210;1.09
+SKILL;17;1.85
+SKILL;42;1.42
+SKILL;32;0.83
+SKILL;225;1.06
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;71;180;104291;ESCORT#sector_0_station_3.txt#sector_56_station_0.txt#Foreman Atemes Taak#npc_ship_data_(recon_utility_3)#23#null#null#null;Foreman Atemes Taak requests an escort from StarShepards Headquarters in Void Starcross to Transporteers in Hunu;12;The Astrox Security Patrol has posted a contract for the safe delivery of a Foreman Atemes Taak, wanted for questioning in a non-violent incident a few cycles ago in the Void Starcross system. Escort Foreman Atemes Taak from StarShepards Headquarters to Transporteers in the Hunu system.;12517
+MISSION;61;140;524927;HARVEST#107#2#sector_40.txt#sector_14_station_0.txt#null#null#null#null;Mine special Gradeon Ore in Dogstar Prime and return with 107 to Imperium Republica  in Gate of Alpharis;15;While collecting some junk in the Dogstar Prime system, Ouhin Zilsatejan discovered a light haul of 107 Gradeon Ore. Unable to collect the material alone, Ouhin Zilsatejan has requested that a capable pilot harvest the Gradeon Ore and drop it off at the Imperium Republica  station located in the Gate of Alpharis.;31997
+MISSION;62;140;258028;HARVEST#139#2#sector_42.txt#sector_13_station_0.txt#null#null#null#null;Excavate special Gradeon Ore in Ellisar and return with 139 to Gemini Mining in Jala;1;Yiro Amsawdie has discovered a light deposit of Gradeon Ore in Ellisar. He is currently unable to mine the Gradeon Ore, and has requested a pilot to head over and harvest the 139 Gradeon Ore. Once complete, head over and meet Yiro Amsawdie at the Gemini Mining station located in the Jala.;40755
+MISSION;110;600;359638;KILL_RAIDERS#sector_13_station_0.txt#sector_3.txt#2#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt 2 level 10 Raider(s) in Starfort Ramos and return to Gemini Mining in Jala;7;There has been a small Raider gang hanging around the warp gates in Starfort Ramos. The Outlaw faction has requested a sector clearance contract. Head on over to the Starfort Ramos and clear out the 2, level 10 Raiders that have set up camp there. Dock at the Gemini Mining station in Jala when complete.;252492
+MISSION;61;140;861378;HARVEST#79#2#sector_36.txt#sector_56_station_0.txt#null#null#null#null;Mine special Gradeon Ore in Beacon Spita and return with 79 to Transporteers in Hunu;16;While collecting some junk in the Beacon Spita system, Yitno Barwhea discovered a light haul of 79 Gradeon Ore. Unable to collect the material alone, Yitno Barwhea has requested that a capable pilot harvest the Gradeon Ore and drop it off at the Transporteers station located in the Hunu.;31702
+MISSION;50;120;387410;SCAN_STRUCTURE#sector_42_station_0.txt#sector_36.txt#Small Mining Silo#structure_silo_1.txt#1#null#null#null;Locate and scan the Small Mining Silo structure in Beacon Spita and return to Desban in Ellisar;1;A recent construction permit was delivered by the Science faction. They are demanding a survey of a new structure that has been constructed by Bastbaz Nuhronca. Scan the Small Mining Silo structure and return back to the Desban located in the Ellisar with the survey data. Once the data is verified, payment will be rendered.;30559
+MISSION;41;120;802713;SCAN_PILOT#sector_56_station_1.txt#sector_11.txt#Professor Ribmi Neyago#npc_ship_data_(pirate_utility_1)#7#null#null#null;Find Professor Ribmi Neyago in Chamo, scan their ship, and return to ValueStar in Hunu;11;Professor Ribmi Neyago has recently been paroled for a capital crime, and their parole officer has received information about a possible raid in Chamo. Head to Chamo and perform a scan of Professor Ribmi Neyago's ship and return to ValueStar in Hunu with the scan data for review.;32365
+MISSION;71;180;600850;ESCORT#sector_2_station_0.txt#sector_0_station_1.txt#Accountant Feixen Zevo#npc_ship_data_(support_utility_1)#8#null#null#null;Accountant Feixen Zevo requests an escort from Oro Omniplex Center in Merces Academy to Lammassu Financial in Void Starcross;10;The Astrox Security Patrol has posted a contract for the safe delivery of a Accountant Feixen Zevo, wanted for questioning in a non-violent incident a few cycles ago in the Merces Academy system. Escort Accountant Feixen Zevo from Oro Omniplex Center to Lammassu Financial in the Void Starcross system.;32881
+MISSION;62;140;920506;HARVEST#187#4#sector_50.txt#sector_0_station_0.txt#null#null#null#null;Excavate special Lokken Ore in Kilotorish and return with 187 to Biomate University in Void Starcross;13;Xojo Uefalllei has discovered a light deposit of Lokken Ore in Kilotorish. He is currently unable to mine the Lokken Ore, and has requested a pilot to head over and harvest the 187 Lokken Ore. Once complete, head over and meet Xojo Uefalllei at the Biomate University station located in the Void Starcross.;16325
+MISSION;62;140;625180;HARVEST#137#10#sector_16.txt#sector_14_station_1.txt#null#null#null#null;Excavate special Zai Ore in Entropy and return with 137 to Horizons in Gate of Alpharis;16;Xonxo Caboada has discovered a light deposit of Zai Ore in Entropy. He is currently unable to mine the Zai Ore, and has requested a pilot to head over and harvest the 137 Zai Ore. Once complete, head over and meet Xonxo Caboada at the Horizons station located in the Gate of Alpharis.;38895
+MISSION;61;140;129900;HARVEST#86#1#sector_1.txt#sector_3_station_0.txt#null#null#null#null;Mine special Adamyte Ore in Dellis Primeria and return with 86 to Daemon Ammunitions in Starfort Ramos;7;While collecting some junk in the Dellis Primeria system, Nila Kolsevxen discovered a light haul of 86 Adamyte Ore. Unable to collect the material alone, Nila Kolsevxen has requested that a capable pilot harvest the Adamyte Ore and drop it off at the Daemon Ammunitions station located in the Starfort Ramos.;12258
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.243943;ship_data_(pirate_utility_1).txt
+SHIP;1;1.074358;ship_data_(transport_frigate_3).txt
+SHIP;1;0.9436805;ship_data_(recon_frigate_3).txt
+SHIP;1;1.08;ship_data_(recon_frigate_1).txt
+SHIP;2;1.07;ship_data_(transport_utility_1).txt
+SHIP;3;0.91;ship_data_(support_cruiser_1).txt
+SHIP;4;1.10;ship_data_(transport_frigate_1).txt
+SHIP;5;1.03;ship_data_(excavation_escort_1).txt
+SHIP;6;0.97;ship_data_(battle_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+
+
+

@@ -1,0 +1,11 @@
+//;LOG DATA FILE (Astrox Imperium)
+6 min;310;Adamyte Ore;356.50;Biomate University
+4 min;199;Adamyte Ore;228.85;Starbase Corporate Center
+4 min;178;Quazor Ore;204.70;Astrox Security Patrol
+6 min;310;Adamyte Ore;356.50;Starbase Corporate Center
+6 min;310;Adamyte Ore;356.50;Starbase Corporate Center
+7 min;315;Adamyte Ore;362.25;Starbase Corporate Center
+6 min;310;Adamyte Ore;356.50;Starbase Corporate Center
+6 min;300;Adamyte Ore;345.00;Starbase Corporate Center
+6 min;294;Adamyte Ore;338.10;Starbase Corporate Center
+4 min;168;Adamyte Ore;193.20;Biomate University

@@ -1,0 +1,105 @@
+[s:30][c:yellow]Lacuna Bandits[/c][/s]
+Entertainment Hub
+Kilekom Anfer
+Pirate
+[c:lime]Dock fee 100[/c]
+Timestamp: 14592.5
+<Station Services>
+[c:lime]SUPPLY[/c]
+Hydronics System
+[c:orange]DEMAND[/c]
+Mechanical Switch
+Battery Core
+LED Lights
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Purchase Order for: (3) Items 
+ (3) x Janca Industrial Tractor
+ (4) x ECM Target Scrambler
+ (4) x Basic Shield Booster
+Fulfill order for [c:lime]92,506[/c]
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (85) x Mechanical Switch
+Fulfill order for [c:lime]3,463[/c]
+[c:green]BUY Order[/c] Market Items Req: (1) Items 
+ (231) x Mechanical Switch
+Fulfill order for [c:lime]9,411[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (117) x Mechanical Switch
+Fulfill order for [c:lime]4,766[/c]
+
+
+<Station Market Items>
+(3577) x Adamyte Ore
+(5) x Advanced Regulator
+(97) x Assorted Springs
+(4) x Basic 20mm Specs
+(1) x Basic Armor Exterior Specs
+(10) x Basic Energy Capacitor
+(3) x Basic Engine Core
+(15) x Basic Impact Armor
+(2) x Basic Industrial Tractor Specs
+(2) x Basic Ion Impact Mod Specs
+(1) x Basic Large Miner Specs
+(1) x Basic Laser Explosive Mod Specs
+(2) x Basic Laser Impact Mod Specs
+(1) x Basic Light Miner Specs
+(3881) x Basic Missile
+(1) x Basic Projectile Impact Mod Specs
+(1) x Basic Salvager Specs
+(19) x Basic Scan Booster
+(2) x Basic Shield Booster Specs
+(1) x Basic Small Miner Specs
+(9) x Basic Thruster
+(11) x Basic Turn Thrust
+(2) x Basic Turn Thrust Specs
+(80) x Carbon Fiber
+(7) x Emergency LS Kit
+(9) x Energy Charge
+(1862) x Explosive Torpedo
+(3446) x Fusion Core Torpedo
+(5) x GEK Proto Scanner
+(4) x Generic Default Tractor
+(8) x Generic Dual 60mm Cannon
+(2) x Generic Light Beam
+(2) x Generic Light Miner
+(3) x Generic Torpedo Launcher
+(63) x Hydronics System
+(9) x Improved Cargo Expansion
+(4) x Improved Energy Armor
+(14) x Improved Mass Reduction
+(3) x Improved Scan Booster
+(8) x Improved Scan Emitter
+(4) x Improved Turn Thrust
+(9) x Inovex 60mm Auto Cannon
+(3072) x Junk Weapon Module
+(8) x LED Lights
+(52) x Metal Valve
+(8) x Noodles
+(7) x Pizza
+(3) x Protein Bar
+(9) x Small Defense Drone
+(93) x Thermal Insulation
+(5) x Vita Lightblade X1 Laser
+
+
+<Station University Skills>
+Ship Cargo Stacker
+Miner Basic Operation
+Miner Energy Optimization
+Module Mechanic
+Launcher Focal Range
+Beam Energy Optimization
+Passive Scanner Focal Range

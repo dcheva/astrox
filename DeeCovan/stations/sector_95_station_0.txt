@@ -1,0 +1,179 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Star Shepards Hub
+STATION;type;Engineering Facility
+STATION;owner;Bemdee Tudoe
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color;.60 , .20 , .80 , 1
+STATION;level;1
+STATION;icon;star_shepards.png
+STATION;filename;sector_95_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-1-1-4-8-0-3-1-5-3-3-8-0
+STATION;interior_seed;4-3-45-9
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;3;1.00;npc_ship_data_(support_frigate_1).txt
+MERC;7;1.30;npc_ship_data_(battle_shuttle_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Shortage: (3) Items ;106x53,100x270,101x74;717;96050.59
+BUYORDER;Market Demands: (1) Items ;106x355;1725;63152.59
+BUYORDER;Market Demands: (4) Items ;106x41,103x119,100x79,102x310;1095;55518.50
+BUYORDER;Market Shortage: (3) Items ;106x250,100x205,102x182;2292;99273.50
+BUYORDER;Market Shortage: (3) Items ;103x399,100x225,102x41;883;37433.99
+BUYORDER;Market Low Inventory: (3) Items ;106x350,100x193,101x126;1709;32099.46
+BUYORDER;Market Items Req: (4) Items ;106x121,103x279,100x66,101x111;899;51898.68
+BUYORDER;Market Out of Stock: (3) Items ;103x261,101x334,102x295;2137;72960.68
+BUYORDER;Market Low Inventory: (3) Items ;106x198,103x203,102x94;969;67152.45
+BUYORDER;Market Items Req: (2) Items ;100x233,102x149;966;32177.45
+BUYORDER;Market Low Inventory: (2) Items ;100x214,102x191;874;43376.25
+BUYORDER;Market Shortage: (1) Items ;100x139;242;81716.25
+BUYORDER;Market Needs Goods: (4) Items ;106x232,100x185,101x94,102x164;1973;57007.74
+BUYORDER;Market Demands: (2) Items ;100x68,101x102;358;69977.03
+BUYORDER;Market Shortage: (2) Items ;100x180,102x162;881;19624.85
+BUYORDER;Market Demands: (3) Items ;106x166,103x182,101x163;1167;35888.85
+ITEM;103;109;0.96
+ITEM;2087;4729;0.92
+ITEM;1470;2;1.03
+ITEM;1641;8;0.99
+ITEM;75;2708;1.11
+ITEM;2393;3;1.01
+ITEM;2276;1;1.12
+ITEM;703;8;1.11
+ITEM;1650;2;1.02
+ITEM;157;127;1.02
+ITEM;1055;4;1.10
+ITEM;2348;1;1.29
+ITEM;2272;2;0.90
+ITEM;150;60;1.15
+ITEM;151;57;0.99
+ITEM;722;3;1.02
+ITEM;2324;1;1.08
+ITEM;2170;2;0.96
+ITEM;2195;2;1.10
+ITEM;1551;7;1.03
+ITEM;2374;0;0.96
+ITEM;1100;7;1.03
+ITEM;161;70;1.06
+ITEM;2247;116;1.00
+ITEM;201;65;1.06
+ITEM;2322;1;0.79
+ITEM;103;164;1.09
+ITEM;607;47;0.88
+ITEM;606;3;1.08
+ITEM;1580;19;1.02
+ITEM;2246;19;1.06
+ITEM;640;4;1.05
+ITEM;1570;3;1.15
+ITEM;510;4;0.95
+ITEM;2236;1;0.99
+ITEM;2347;1;1.09
+ITEM;1600;5;1.11
+ITEM;2232;21;1.00
+ITEM;1002;0;1.16
+ITEM;2200;0;1.13
+ITEM;1511;5;0.97
+ITEM;1561;4;1.06
+ITEM;1621;7;1.11
+ITEM;2387;10;0.99
+ITEM;600;0;1.09
+ITEM;1550;9;1.13
+ITEM;76;4718;1.07
+ITEM;1051;4;1.24
+ITEM;2325;2;1.09
+ITEM;1001;9;0.99
+ITEM;2233;98;1.23
+ITEM;302;4795;1.04
+ITEM;2322;2;1.04
+ITEM;2351;0;0.93
+ITEM;159;82;0.93
+ITEM;702;36;0.96
+ITEM;2225;1;1.12
+ITEM;2165;2;1.09
+ITEM;2243;1;1.02
+ITEM;2399;1;1.07
+ITEM;1455;9;1.28
+ITEM;164;75;1.00
+ITEM;166;97;1.26
+ITEM;1009;139;0.86
+ITEM;1004;2;1.05
+ITEM;1105;4;1.25
+ITEM;2235;0;1.11
+ITEM;2150;47;1.10
+ITEM;2242;2;0.90
+ITEM;154;58;1.04
+ITEM;1651;6;1.00
+ITEM;1621;5;1.18
+ITEM;693;2;1.01
+ITEM;2242;0;1.11
+ITEM;1501;0;1.19
+ITEM;2275;1;0.98
+ITEM;170;47;0.98
+ITEM;2089;283;0.83
+ITEM;1100;7;1.16
+ITEM;1610;7;1.08
+ITEM;2392;1;1.13
+ITEM;1541;6;1.05
+ITEM;2230;47;1.12
+ITEM;2325;2;0.97
+ITEM;2247;89;1.30
+ITEM;2089;2050;1.01
+ITEM;1581;8;0.80
+ITEM;103;137;0.97
+ITEM;1012;9;1.06
+ITEM;2297;1;1.33
+ITEM;1750;8;0.95
+ITEM;302;1366;1.08
+ITEM;1560;2;0.99
+ITEM;1550;6;1.04
+ITEM;2247;2;0.95
+ITEM;2298;2;1.09
+ITEM;2210;1;1.09
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;55;1.19
+SKILL;7;1.04
+SKILL;56;0.90
+SKILL;7;1.36
+SKILL;58;1.13
+SKILL;233;0.71
+SKILL;230;1.63
+SKILL;45;0.76
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1;ship_data_(excavation_utility_2).txt
+SHIP;1;1.07;ship_data_(support_escort_1).txt
+SHIP;2;0.98;ship_data_(pirate_carrier_1).txt
+SHIP;3;1.08;ship_data_(excavation_cruiser_1).txt
+SHIP;4;1.08;ship_data_(transport_frigate_1).txt
+SHIP;5;0.98;ship_data_(support_carrier_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

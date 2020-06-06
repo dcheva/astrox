@@ -1,0 +1,195 @@
+[s:30][c:yellow]Starbase Corporate Center[/c][/s]
+Assembly Station
+Vajeana
+Labor
+[c:lime]Dock fee 25[/c]
+Timestamp: 8559.854
+<Station Services>
+[c:lime]SUPPLY[/c]
+Thermal Insulation
+Small Pump
+Armor Plating
+Duct Work
+Small Electronics
+[c:orange]DEMAND[/c]
+Nitrogen
+Oxygen
+Plastix Strands
+Prometheum
+Uranium
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Low Inventory: (2) Items 
+ (106) x Nitrogen
+ (96) x Prometheum
+Fulfill order for [c:lime]4,023[/c]
+
+
+<Station Market Items>
+(6) x Advanced Afterburner
+(14) x Advanced Energy Armor
+(22) x Advanced Energy Capacitor
+(8) x Advanced Energy Generator
+(15) x Advanced Engine Core
+(9) x Advanced Explosive Armor
+(11) x Advanced Filter
+(13) x Advanced Impact Armor
+(12) x Advanced Mass Reduction
+(3) x Advanced Regulator
+(2) x Advanced Scan Booster
+(21) x Advanced Scan Emitter
+(6) x Advanced Shield Extender
+(10) x Advanced Shield Generator
+(6) x Advanced Thruster
+(12) x Advanced Turn Thrust
+(250) x Advanced Warp Drive Fuel
+(10) x Advanced Warp Drive Fuel Specs
+(15) x Aeo Particle X1 Beam
+(6) x Aeo Particle X2 Beam
+(5) x Aluminim Plates Specs
+(309) x Armor Plating
+(66) x Assorted Gaskets
+(9084) x Basic 60mm
+(9) x Basic Afterburner
+(4) x Basic Armor Exterior
+(14) x Basic Energy Capacitor
+(6) x Basic Energy Generator
+(9) x Basic Filter
+(8120) x Basic Food Rations
+(7) x Basic Impact Armor
+(3395) x Basic Missile
+(4) x Basic Missile Specs
+(136) x Basic Sensor
+(2) x Basic Shield Extender
+(9) x Basic Targeting System
+(4) x Basic Thruster
+(18) x Basic Turn Thrust
+(250) x Basic Warp Drive Fuel
+(10) x Basic Warp Drive Fuel Specs
+(597) x Carbon
+(9) x Containment Unit
+(5) x Copperi Pipes Specs
+(5) x Copperi Plates Specs
+(13) x Disposables
+(321) x Duct Work
+(5) x Dynex Crystal Resonator Specs
+(5) x Electronic Switch Specs
+(4294) x Explosive 20mm
+(1434) x Explosive 60mm
+(5920) x Explosive Missile
+(1) x Explosive Missile Specs
+(169) x Fasteners
+(241) x Fiber Optic Cables
+(3472) x Furniture
+(25) x Generic Construction Platform
+(7) x Generic Default Tractor
+(4) x Generic Dual 20mm Gun
+(7) x Generic Dual Launcher
+(24) x Generic Gatling 20mm Gun
+(6) x Generic Light Laser
+(10) x Generic Medium Beam
+(13) x Generic Medium Laser
+(9) x Generic Medium Miner
+(7) x Generic Single 20mm Gun
+(8) x Generic Single Launcher
+(9) x Generic Small Beam
+(17) x Generic Small Miner
+(8) x Generic Spotlight
+(2) x Generic Triple Launcher
+(5) x Glass Panels Specs
+(7511) x Gourmet Food Rations
+(2823) x Gradeon Ore
+(6) x Ham Sandwich
+(5) x Hand Tools Specs
+(5) x Hardened Glass Panels Specs
+(9609) x Hydrogen
+(5) x Improved Afterburner
+(5) x Improved Armor Exterior
+(27) x Improved Cargo Expansion
+(3) x Improved Energy Armor
+(7) x Improved Energy Capacitor
+(7) x Improved Engine Core
+(8) x Improved Explosive Armor
+(9) x Improved Filter
+(9) x Improved Impact Armor
+(2) x Improved Mass Reduction
+(8) x Improved Scan Emitter
+(5) x Improved Shield Extender
+(10) x Improved Shield Generator
+(28) x Improved Turn Thrust
+(250) x Improved Warp Drive Fuel
+(10) x Improved Warp Drive Fuel Specs
+(16) x Industrial Salvager
+(15) x Inovex Single Launcher
+(147) x Iron Coring
+(5) x Iron Coring Beams Specs
+(20) x Janca Default Tractor
+(23) x Janca Z2 OreVac
+(549) x Junk
+(5) x Keypad Specs
+(6547) x Kinetic 20mm
+(8129) x Kinetic 60mm
+(5030) x Kinetic Missile
+(2) x Kinetic Missile Specs
+(12) x Kinetics G-series 20mm Gun
+(8) x Kinetics G-series Dual 20mm
+(3) x Kinetics M-series x1 Launcher
+(6767) x Kitchen Appliances
+(62) x Liquid Coolant
+(4281) x Lokken Ore
+(230) x Lubricant
+(278) x Magnetic Quartz
+(155) x Mechanical Switch
+(78) x Metal Brackets
+(77) x Optical Interface
+(3414) x Plasite Ore
+(2) x Protein Bar
+(3) x Quantex  x-2 20mm Gun
+(63) x Rubber Tubing
+(16) x SBC LI1 Harvester
+(2616) x Scrap
+(324) x Small Electronics
+(297) x Small Pump
+(60) x Steelium Pipes
+(3) x Temperature Genie
+(327) x Thermal Insulation
+(13) x Vita Lightblade X1 Laser
+(26) x Waste Processor
+(11701) x Water
+(6435) x Whiskey
+(2947) x Wine
+
+
+<Station University Skills>
+Salvager Basic Operation
+Miner Basic Operation
+Miner Advanced Systems
+Refinery Mechanic
+Miner Focal Range
+Miner Energy Optimization
+Miner Cycle Mechanics
+Miner Harvest Calibration
+Miner Maintenance
+Ship Cargo Stacker
+Ship Energy Systems
+Tractor Basic Operation
+Tractor Advanced Systems
+Tractor Focal Range
+Structure Build operation
+Structure Warehouse Management
+Structure Accountant
+Structure Prospector
+Structure Engineer

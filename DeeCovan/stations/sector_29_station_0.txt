@@ -1,0 +1,142 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Quah Relay Station
+STATION;type;Data Relay Station
+STATION;owner;Xigee Jagvis
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;1
+STATION;icon;quah.png
+STATION;filename;sector_29_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-3-1-6-7-3-9-1-3-6-2-0-90
+STATION;interior_seed;4-8-0-4
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;9;1.40;npc_ship_data_(support_escort_1).txt
+MERC;6;0.64;npc_ship_data_(battle_carrier_1).txt
+MERC;5;1.32;npc_ship_data_(transport_cruiser_1).txt
+MERC;5;1.40;npc_ship_data_(excavation_escort_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Items Req: (4) Items ;353x49,302x226,351x328,300x45;83678;59778.87
+BUYORDER;Market Shortage: (3) Items ;302x61,351x226,312x307;90954;40302.46
+BUYORDER;Market Demands: (3) Items ;302x331,312x50,300x167;50439;40860.46
+BUYORDER;Market Items Req: (2) Items ;353x89,300x223;20914;69802.26
+BUYORDER;Purchasing (1) Items ;1059x4;64886;56556.68
+
+BUYORDER;Market Demands: (2) Items ;351x286,300x381;82462;53014.45
+BUYORDER;Market Shortage: (3) Items ;353x242,351x242,300x301;67925;55679.45
+SELLORDER;Market Items: (2) Items ;2044x125,2025x218;92295;88918.29
+BUYORDER;Market Needs Goods: (3) Items ;302x290,351x197,312x151;49537;93761.66
+
+BUYORDER;Market Shortage: (2) Items ;302x116,312x68;20608;22094.62
+BUYORDER;Market Shortage: (3) Items ;353x34,351x73,300x291;53924;46023.95
+BUYORDER;Market Demands: (2) Items ;302x296,312x130;44947;68359.95
+BUYORDER;Market Needs Goods: (3) Items ;353x170,302x184,351x168;66391;18405.95
+BUYORDER;Market Shortage: (3) Items ;353x61,302x62,312x45;11094;25957.01
+
+BUYORDER;Market Items Req: (3) Items ;353x295,302x55,351x139;53502;11267.74
+BUYORDER;Market Shortage: (3) Items ;353x32,312x89,300x176;39376;13628.80
+BUYORDER;Market Needs Goods: (1) Items ;351x134;17134;65878.80
+SELLORDER;Market Production: (3) Items ;312x189,2044x60,2025x82;16545;40468.85
+ITEM;110;194;1.12
+ITEM;2022;54;1.33
+ITEM;2114;3121;0.98
+ITEM;2034;74;1.14
+ITEM;1166;46;1.08
+ITEM;2011;93;1.00
+ITEM;8;3107;1.06
+ITEM;2213;1;1.12
+ITEM;2059;77;1.11
+ITEM;1310;8;1.04
+ITEM;2036;82;1.06
+ITEM;1573;3;1.12
+ITEM;511;24;1.01
+ITEM;63;2732;0.98
+ITEM;1158;9;1.06
+ITEM;2360;1;1.09
+ITEM;2182;1;1.14
+ITEM;2055;76;1.01
+ITEM;1120;16;1.04
+ITEM;2177;0;1.31
+ITEM;2005;129;1.12
+ITEM;2357;17;1.11
+ITEM;2153;34;1.08
+ITEM;2379;2;1.09
+ITEM;2358;1;1.08
+ITEM;2066;92;1.23
+ITEM;2142;2;1.06
+ITEM;321;1092;1.00
+ITEM;2362;44;1.20
+ITEM;2030;88;1.01
+ITEM;1173;31;1.13
+ITEM;2310;1;1.01
+ITEM;1116;38;1.01
+ITEM;2158;2;1.29
+ITEM;1583;5;1.23
+ITEM;1223;7;1.03
+ITEM;1115;2;1.09
+ITEM;2130;41;1.27
+ITEM;106;123;0.98
+ITEM;1066;3;1.38
+ITEM;1721;7;1.12
+ITEM;1066;0;1.08
+ITEM;1306;6;1.01
+ITEM;1204;0;1.10
+ITEM;1544;36;0.96
+ITEM;8;2677;1.14
+ITEM;2051;56;1.09
+ITEM;2034;100;1.02
+ITEM;2259;19;1.00
+ITEM;2365;21;1.14
+ITEM;2263;31;0.99
+ITEM;1159;28;1.00
+ITEM;2102;3657;1.18
+ITEM;115;151;1.20
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;24;1.19
+SKILL;14;1.40
+SKILL;32;0.56
+SKILL;63;0.66
+SKILL;22;0.63
+SKILL;55;1.24
+SKILL;62;0.61
+SKILL;43;1.76
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.00;ship_data_(support_escort_1).txt
+SHIP;2;0.95;ship_data_(pirate_escort_1).txt
+SHIP;3;1.05;ship_data_(recon_carrier_1).txt
+SHIP;4;0.94;ship_data_(excavation_utility_1).txt
+SHIP;5;1.00;ship_data_(transport_cruiser_1).txt
+SHIP;6;0.92;ship_data_(pirate_shuttle_1).txt
+SHIP;7;0.93;ship_data_(pirate_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

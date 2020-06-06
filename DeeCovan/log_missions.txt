@@ -1,0 +1,17 @@
+//;LOG DATA FILE (Astrox Imperium)
+ACCEPTED;Dialog;Collect a small debt from...;-0;Astrox Security Patrol
+COMPLETED;Dialog;Chat with Fabricator Hass...;49,932;Legistron
+COMPLETED;Dialog;Chat with Commander Bastn...;57,685;Proctors Center
+ACCEPTED;Dialog;Chat with Commander Bastn...;-0;Transporteers
+ACCEPTED;Dialog;Chat with Fabricator Hass...;-0;Transporteers
+COMPLETED;Dialog;Collect a small debt from...;112,654;Lacuna Bandits
+ACCEPTED;Dialog;Collect a small debt from...;-0;Biomate University
+COMPLETED;Dialog;Collect a small debt from...;105,590;Astrox Security Patrol
+ACCEPTED;Dialog;Collect a small debt from...;-0;Biomate University
+COMPLETED;Harvest;Mine special Adamyte Ore ...;49,926;Starbase Corporate Center
+ACCEPTED;Harvest;Mine special Adamyte Ore ...;-289.75;Astrox Security Patrol
+COMPLETED;Scan;Find the target Small Las...;82,537;Legistron
+COMPLETED;Scan;Locate and scan Govenor T...;108,791;Gemini Mining
+ACCEPTED;Scan;Find the target Small Las...;-0;Biomate University
+ACCEPTED;Scan;Locate and scan Govenor T...;-0;Biomate University
+COMPLETED;Harvest;( Tutorial 1 ) Harvest yo...;26,923;Biomate University

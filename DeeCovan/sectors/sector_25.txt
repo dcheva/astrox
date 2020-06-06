@@ -1,0 +1,90 @@
+// SECTOR;Variable;Value
+SECTOR;id;25
+SECTOR;name;Jonahmi
+SECTOR;level;8.0
+SECTOR;faction;Alpha
+SECTOR;filename;sector_25.txt
+SECTOR;is_explored;False
+SECTOR;energy;20
+SECTOR;population;20
+SECTOR;habitation;20
+SECTOR;farming;20
+SECTOR;economy;20
+SECTOR;production;20
+SECTOR;defense;20
+SECTOR;environment;20
+
+// SECTORXYZ;Variable;Value
+SECTORXYZ;location;1643.47;3190.37;1602.96
+
+// FOG;Variable;Value
+FOG;foggy;True
+FOG;distance;0.00239845
+FOG;alpha;0.2724332
+FOG;color_1;0.69;0.12;0.16;0.32
+FOG;color_2;0.39;0.40;0.36;1.00
+
+// NEBULA;Variable;Cloud id;Red;Green;Blue;Alpha;Size;Rotation
+NEBULA;cloud_1;1;0.77;0.71;0.43;0.00;50000;5
+NEBULA;cloud_2;2;0.00;0.60;0.00;0.00;50000;3
+NEBULA;cloud_3;3;0.13;0.37;1.00;0.00;50000;2
+NEBULA;cloud_4;4;0.32;1.00;0.27;0.00;50000;5
+NEBULA;cloud_5;5;1.00;1.00;0.00;0.17;50000;5
+NEBULA;cloud_6;6;1.00;0.59;0.46;0.72;50000;2
+NEBULA;cloud_7;7;0.00;0.21;0.18;0.00;50000;5
+NEBULA;cloud_8;8;0.43;0.69;0.91;0.00;50000;0
+NEBULA;cloud_9;9;0.94;0.55;0.30;0.00;50000;4
+NEBULA;cloud_10;10;1.00;0.86;1.00;0.00;50000;2
+NEBULA;cloud_11;11;0.13;0.43;0.76;0.07;50000;3
+NEBULA;cloud_12;12;1.00;1.00;0.98;0.03;50000;5
+
+// LIGHT;Variable;Red;Green;Blue;Alpha
+LIGHT;light_t;0.42;0.68;0.76;1.00
+LIGHT;light_b;0.57;0.87;0.64;1.00
+LIGHT;light_s;0.25;0.49;0.60;0.00
+
+// STAR;Variable;Star id;X position;Y position;Z position;
+STAR;object;1;0;0;45000;50.0;75000
+
+// LIFESUPPORT;type;value
+LIFESUPPORT;food;1.25
+LIFESUPPORT;water;1.25
+LIFESUPPORT;thermal;1.25
+LIFESUPPORT;waste;1.25
+
+// STARLIGHT;Variable;Red;Green;Blue;Alpha
+STARLIGHT;color_1;0.7;0.31;0.32;0.10;
+STARLIGHT;color_2;0.7;0.28;0.22;0.15;
+STARLIGHT;color_3;0.6;0.30;0.22;0.15;
+STARLIGHT;color_4;0.7;0.28;0.40;0.15;
+STARLIGHT;color_5;0.5;0.28;0.20;0.10;
+
+// STATION;Sector filename;X poisition;Y position;Z position
+
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;175.1;-300.5;-2399.3
+
+// CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
+CLUSTER;6;15;300;600;2500;00;00;00;
+
+
+// RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
+RESOURCE;1;3229.8;-166.0;-439.5;200.0;200.0;
+
+
+// WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
+WARPGATE;1;sector_24.txt;3;774.1;234.0;3436.1;0;alpha;1.0
+WARPGATE;2;sector_33.txt;1;-2872.7;-1048.3;-1625.9;0;alpha;0.6
+
+// PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
+//PROP;0;0;0;0;0;0;0;lightning 1
+PROP;22;0;0;0;0;180;0;rock_3
+
+// NPC_SHIP;ship_filename;xpos;ypos;zpos;faction_id;level
+NPC_SHIP;npc_ship_data_(recon_carrier_1);746.13;126.68;1030.16;4;10
+NPC_SHIP;npc_ship_data_(recon_cruiser_1);568.98;-772.35;681.83;15;4
+NPC_SHIP;npc_ship_data_(excavation_utility_1);1246.50;240.65;490.03;9;9
+NPC_SHIP;npc_ship_data_(recon_utility_1);-1066.26;424.50;355.73;15;7
+NPC_SHIP;npc_ship_data_(pirate_frigate_1);909.53;-101.81;-43.92;5;8
+NPC_SHIP;npc_ship_data_(recon_escort_raider);-1002.56;632.34;683.10;14;8
+

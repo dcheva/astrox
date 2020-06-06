@@ -1,0 +1,136 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Medicore University
+STATION;type;Academic University
+STATION;owner;Horebac Lockigalewhi
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;9
+STATION;icon;ad_image_8.png
+STATION;filename;sector_20_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-0-0-1-1-1-0-1-2-8-2-2-0-3-3-3-7-90
+STATION;interior_seed;4-1-0-2
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;0.86;npc_ship_data_(pirate_shuttle_1).txt
+MERC;7;1.45;npc_ship_data_(pirate_carrier_1).txt
+MERC;9;1.59;npc_ship_data_(battle_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Production: (3) Items ;320x395,332x66,2004x140;14152;91830.60
+SELLORDER;Market Goods: (4) Items ;320x388,352x360,333x129,332x357;40479;92815.60
+SELLORDER;Market Production: (2) Items ;332x292,2004x171;10582;28785.60
+BUYORDER;Market Shortage: (2) Items ;323x312,2001x95;37271;100768.30
+BUYORDER;Market Out of Stock: (1) Items ;159x281;18446;69670.31
+BUYORDER;Market Shortage: (1) Items ;2001x132;9914;48163.29
+BUYORDER;Market Low Inventory: (4) Items ;340x213,323x55,310x103,2001x43;40505;86215.66
+BUYORDER;Market Out of Stock: (1) Items ;2001x137;10643;22330.18
+BUYORDER;Market Items Req: (2) Items ;310x184,2001x75;25247;59217.18
+SELLORDER;Market Supply: (2) Items ;352x73,333x83;13246;59825.34
+ITEM;1532;4;1.13
+ITEM;2011;56;0.84
+ITEM;2238;1;1.01
+ITEM;1014;9;1.08
+ITEM;2306;1;1.11
+ITEM;521;2;1.06
+ITEM;1301;6;1.07
+ITEM;211;79;1.02
+ITEM;2016;128;1.03
+ITEM;2089;1643;1.08
+ITEM;623;99;0.99
+ITEM;2327;2;1.14
+ITEM;1751;7;0.99
+ITEM;1301;6;1.03
+ITEM;105;131;1.04
+ITEM;1543;7;0.85
+ITEM;1501;3;1.11
+ITEM;1401;2;0.95
+ITEM;1111;177;0.90
+ITEM;1752;4;1.00
+ITEM;321;3199;1.09
+ITEM;2231;62;1.12
+ITEM;2141;0;1.00
+ITEM;1531;4;1.13
+ITEM;2166;1;1.06
+ITEM;1561;0;0.99
+ITEM;2111;3023;1.10
+ITEM;1165;91;0.91
+ITEM;2211;0;1.14
+ITEM;1591;141;0.97
+ITEM;170;82;1.10
+ITEM;2171;2;1.03
+ITEM;2327;2;0.94
+ITEM;2001;93;0.85
+ITEM;2303;2;0.95
+ITEM;2091;3786;1.01
+ITEM;2328;2;1.06
+ITEM;2171;0;1.01
+ITEM;2235;2;1.12
+ITEM;2229;2;1.00
+ITEM;1056;2;1.03
+ITEM;1102;8;1.10
+ITEM;1023;0;1.07
+ITEM;1460;167;1.03
+ITEM;1306;6;0.99
+ITEM;1522;5;1.11
+ITEM;211;75;0.98
+ITEM;2090;3572;0.96
+ITEM;1020;2;1.05
+ITEM;2235;51;1.02
+ITEM;607;0;1.01
+ITEM;6;3347;1.11
+ITEM;1572;6;0.98
+ITEM;607;5;1.08
+ITEM;1205;86;1.10
+ITEM;1612;2;1.10
+ITEM;2010;0;1.00
+ITEM;661;8;0.99
+ITEM;1301;5;0.95
+ITEM;1165;7;0.95
+ITEM;2376;1;0.99
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;53;1.50
+SKILL;7;0.97
+SKILL;6;1.91
+SKILL;231;1.43
+SKILL;41;1.46
+SKILL;228;1.93
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.97;ship_data_(support_carrier_1).txt
+SHIP;2;0.99;ship_data_(pirate_escort_1).txt
+SHIP;3;0.90;ship_data_(excavation_utility_1).txt
+SHIP;4;1.10;ship_data_(pirate_utility_1).txt
+SHIP;5;0.99;ship_data_(excavation_escort_1).txt
+SHIP;6;1.07;ship_data_(support_shuttle_1).txt
+SHIP;7;0.93;ship_data_(recon_utility_1).txt
+SHIP;8;0.97;ship_data_(transport_carrier_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

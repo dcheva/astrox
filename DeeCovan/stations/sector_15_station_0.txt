@@ -1,0 +1,165 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Crystalis Broadcasting
+STATION;type;Communications Hub
+STATION;owner;Xapaeda Akhas
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;2
+STATION;icon;crystalis.png
+STATION;filename;sector_15_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-6-1-5-4-2-8-0-7-7-3-1-90
+STATION;interior_seed;4-3-15-7
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;9;1.42;npc_ship_data_(support_utility_1).txt
+MERC;3;1.05;npc_ship_data_(excavation_carrier_1).txt
+MERC;5;1.20;npc_ship_data_(excavation_escort_1).txt
+MERC;7;1.56;npc_ship_data_(recon_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Goods: (1) Items ;204x340;4028;94932.99
+SELLORDER;Market Items: (2) Items ;154x55,204x278;3059;43755.99
+SELLORDER;Market Goods: (2) Items ;204x176,207x42;3797;46340.99
+BUYORDER;Market Shortage: (2) Items ;110x110,104x378;2271;100061.80
+SELLORDER;Market Items: (4) Items ;154x80,160x82,204x240,207x134;6539;91985.14
+SELLORDER;For Sale: (3) Items ;22x38,2042x38,1650x5;44981;35174.77
+SELLORDER;Looking to Sell (1) Items ;2066x11;23944;52878.77
+BUYORDER;Wanted (2) Items ;1213x4,1161x4;113302;66957.26
+BUYORDER;Market Demands: (3) Items ;111x247,115x70,110x35;2419;91785.63
+BUYORDER;Market Out of Stock: (3) Items ;111x296,115x109,110x87;4313;92322.63
+BUYORDER;Market Shortage: (3) Items ;115x46,123x148,104x151;7966;17993.85
+SELLORDER;Market Supply: (2) Items ;160x117,207x70;2569;79075.85
+SELLORDER;Market Stock: (3) Items ;160x123,204x123,207x68;4376;25703.85
+BUYORDER;Purchase Order for: (2) Items ;350x444,341x286;53995;41685.94
+BUYORDER;Purchase Request (2) Items ;304x383,302x449;67045;10386.94
+ITEM;158;73;1.07
+ITEM;1008;127;1.02
+ITEM;2165;35;1.06
+ITEM;1502;4;1.02
+ITEM;1470;9;1.00
+ITEM;2327;2;1.12
+ITEM;1200;5;0.97
+ITEM;1550;7;0.96
+ITEM;2180;28;1.02
+ITEM;660;60;0.97
+ITEM;104;159;1.01
+ITEM;209;62;0.98
+ITEM;2226;2;0.98
+ITEM;1642;108;1.05
+ITEM;642;89;1.02
+ITEM;2004;168;1.07
+ITEM;2087;4654;1.00
+ITEM;2376;42;1.04
+ITEM;2004;116;1.07
+ITEM;1511;78;1.07
+ITEM;1152;114;1.02
+ITEM;2231;12;1.05
+ITEM;1590;81;0.93
+ITEM;312;2773;1.07
+ITEM;1542;79;1.07
+ITEM;1552;6;0.99
+ITEM;3;1983;1.05
+ITEM;1160;37;0.95
+ITEM;2;1286;1.04
+ITEM;1592;8;1.12
+ITEM;61;937;1.10
+ITEM;1580;143;1.08
+ITEM;304;569;0.98
+ITEM;305;1507;1.05
+ITEM;310;1479;1.08
+ITEM;2252;20;1.07
+ITEM;169;48;1.10
+ITEM;1571;192;1.02
+ITEM;2331;1;1.04
+ITEM;693;199;1.06
+ITEM;2215;2;1.08
+ITEM;104;184;1.05
+ITEM;2348;45;1.01
+ITEM;2229;2;0.98
+ITEM;2206;2;0.97
+ITEM;1531;2;1.10
+ITEM;1500;4;1.00
+ITEM;700;9;0.99
+ITEM;205;77;1.11
+ITEM;2238;8;1.11
+ITEM;209;92;1.03
+ITEM;2278;46;0.96
+ITEM;2085;4918;1.08
+ITEM;2196;2;1.08
+ITEM;1300;48;1.00
+ITEM;313;728;1.10
+ITEM;2231;3;1.11
+ITEM;1562;7;1.14
+ITEM;1050;6;1.14
+ITEM;642;40;1.13
+ITEM;693;6;1.09
+ITEM;61;1258;1.08
+ITEM;1055;170;1.03
+ITEM;2245;33;0.96
+ITEM;2185;15;0.98
+ITEM;1501;6;1.14
+ITEM;2392;2;1.00
+ITEM;2322;1;1.12
+ITEM;2350;2;1.08
+ITEM;77;1737;1.10
+ITEM;1455;5;1.12
+ITEM;162;83;1.06
+ITEM;1616;30;1.11
+ITEM;311;427;0.98
+ITEM;204;98;1.02
+ITEM;1582;27;1.01
+ITEM;2399;6;1.06
+ITEM;2399;2;1.14
+ITEM;690;2;1.02
+ITEM;1530;193;0.97
+ITEM;691;9;1.02
+ITEM;1572;86;1.01
+ITEM;2331;147;0.97
+ITEM;2087;2096;1.09
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;52;0.99
+SKILL;230;1.89
+SKILL;47;0.50
+SKILL;51;0.95
+SKILL;17;1.25
+SKILL;224;1.78
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.04;ship_data_(transport_utility_1).txt
+SHIP;2;0.92;ship_data_(support_utility_1).txt
+SHIP;3;1.06;ship_data_(battle_escort_1).txt
+SHIP;4;1.06;ship_data_(recon_shuttle_1).txt
+SHIP;5;0.99;ship_data_(battle_frigate_1).txt
+SHIP;6;1.08;ship_data_(battle_carrier_1).txt
+SHIP;7;0.91;ship_data_(battle_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

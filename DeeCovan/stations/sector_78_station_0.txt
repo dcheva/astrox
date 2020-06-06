@@ -1,0 +1,155 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Tella's
+STATION;type;Entertainment Hub
+STATION;owner;Jidzangee Akleinortis
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;2
+STATION;icon;tellas.png
+STATION;filename;sector_78_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-3-0-2-1-0-2-0-5-3-2-6-90
+STATION;interior_seed;3-8-45-1
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;6;1.40;npc_ship_data_(battle_carrier_1).txt
+MERC;1;1.77;npc_ship_data_(recon_carrier_1).txt
+MERC;2;0.67;npc_ship_data_(transport_escort_1).txt
+MERC;3;0.55;npc_ship_data_(support_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Production: (1) Items ;2067x392;206270;96763.13
+BUYORDER;Market Shortage: (1) Items ;209x149;2861;71110.10
+BUYORDER;Market Low Inventory: (1) Items ;209x278;3823;77176.10
+BUYORDER;Market Demands: (2) Items ;203x292,208x298;76624;43562.39
+SELLORDER;Market Goods: (1) Items ;2067x110;18876;33392.43
+SELLORDER;Market Inventory: (1) Items ;2067x65;20527;82044.43
+BUYORDER;Market Items Req: (1) Items ;203x57;2495;63748.70
+BUYORDER;Market Needs Goods: (1) Items ;208x66;6442;83994.70
+BUYORDER;Market Shortage: (2) Items ;208x198,209x208;28993;36786.70
+BUYORDER;Market Shortage: (1) Items ;203x54;2138;82369.70
+BUYORDER;Market Needs Goods: (2) Items ;208x118,209x179;17807;72266.70
+ITEM;1590;44;1.15
+ITEM;503;15;1.01
+ITEM;2374;130;1.02
+ITEM;1100;8;0.98
+ITEM;2247;51;1.00
+ITEM;724;115;1.03
+ITEM;2234;1;1.04
+ITEM;1552;21;0.99
+ITEM;692;65;1.09
+ITEM;1151;26;1.00
+ITEM;2348;69;1.05
+ITEM;2330;0;0.96
+ITEM;1156;24;1.06
+ITEM;1018;6;1.06
+ITEM;2206;40;1.01
+ITEM;522;1;1.11
+ITEM;311;4795;0.91
+ITEM;2327;187;1.01
+ITEM;1201;8;1.05
+ITEM;2374;55;1.08
+ITEM;1752;0;0.99
+ITEM;1402;87;1.00
+ITEM;2146;110;0.96
+ITEM;1400;1;1.12
+ITEM;158;75;1.07
+ITEM;1511;151;1.05
+ITEM;1621;8;1.02
+ITEM;1105;77;1.14
+ITEM;300;4544;1.00
+ITEM;1160;11;0.99
+ITEM;2155;142;1.05
+ITEM;1210;50;1.13
+ITEM;2348;53;0.96
+ITEM;2237;80;0.96
+ITEM;2211;7;1.08
+ITEM;2275;35;1.14
+ITEM;2399;1;1.04
+ITEM;2234;26;1.01
+ITEM;77;1670;1.15
+ITEM;2;3980;1.05
+ITEM;1651;42;1.09
+ITEM;1155;64;1.11
+ITEM;42;4195;1.14
+ITEM;2246;0;1.13
+ITEM;169;131;1.01
+ITEM;2231;45;1.06
+ITEM;2249;1;1.05
+ITEM;2201;1;1.03
+ITEM;2089;3087;1.01
+ITEM;2376;91;1.06
+ITEM;642;2;1.13
+ITEM;210;104;0.97
+ITEM;213;76;1.06
+ITEM;217;83;0.96
+ITEM;209;101;0.98
+ITEM;725;5;1.12
+ITEM;1052;15;1.05
+ITEM;1101;47;0.95
+ITEM;77;3765;1.06
+ITEM;2122;3486;1.05
+ITEM;2373;4;0.99
+ITEM;2237;42;1.00
+ITEM;2175;28;1.09
+ITEM;2156;0;1.01
+ITEM;2249;0;1.02
+ITEM;1642;93;1.07
+ITEM;1552;6;1.04
+ITEM;1550;38;1.04
+ITEM;2085;1056;0.96
+ITEM;1601;58;1.01
+ITEM;1615;26;1.07
+ITEM;2349;41;1.11
+ITEM;1015;158;1.01
+ITEM;1582;56;1.06
+ITEM;2151;58;1.15
+ITEM;1455;8;1.05
+ITEM;1002;24;0.99
+ITEM;1205;144;0.93
+ITEM;1572;10;1.13
+ITEM;1580;76;1.11
+ITEM;2238;0;0.96
+ITEM;1751;47;1.00
+ITEM;500;23;1.00
+ITEM;1018;15;1.03
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;222;0.90
+SKILL;26;0.82
+SKILL;65;0.63
+SKILL;23;1.29
+SKILL;42;0.99
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.91;ship_data_(excavation_utility_1).txt
+SHIP;2;1.05;ship_data_(battle_frigate_1).txt
+SHIP;3;1.02;ship_data_(battle_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

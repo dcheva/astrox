@@ -1,0 +1,259 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Biomate University
+STATION;type;Academic University
+STATION;owner;Telyoupea Akpi
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;2
+STATION;icon;biomate.png
+STATION;filename;sector_0_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;0
+STATION;lease;30
+STATION;seed;4-8-1-5-5-2-9-1-2-6-3-1-1-5-4-1-2-1-4-4-0-4-0
+STATION;interior_seed;0-0-15-8
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(recon_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(recon_escort_1).txt
+MERC;9;1.93;npc_ship_data_(recon_utility_1).txt
+MERC;12;1.23;npc_ship_data_(recon_utility_2).txt
+MERC;15;1.47;npc_ship_data_(recon_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Low Inventory: (3) Items ;340x115,323x288,159x209;58563;53954.87
+BUYORDER;Market Shortage: (4) Items ;340x129,323x322,310x52,2001x53;44953.00;34562.48
+BUYORDER;Market Shortage: (2) Items ;159x373,2001x213;35461.00;99465.60
+BUYORDER;Market Demands: (3) Items ;340x220,323x174,310x297;48258.00;68100.64
+BUYORDER;Market Shortage: (3) Items ;340x168,323x249,310x211;46859.00;27757.39
+BUYORDER;Market Out of Stock: (2) Items ;323x219,2001x135;24231.00;52752.39
+BUYORDER;Market Shortage: (4) Items ;323x145,310x128,159x116,2001x199;53363.00;94193.68
+BUYORDER;Market Items Req: (2) Items ;340x158,310x394;42018.00;96856.68
+BUYORDER;Market Items Req: (4) Items ;340x107,323x173,310x181,159x133;41738.00;72868.80
+ITEM;1522;16;2.50
+ITEM;1622;0;2.50
+ITEM;1532;8;2.50
+ITEM;1652;193;2.50
+ITEM;1632;35;2.50
+ITEM;1542;0;2.50
+ITEM;1612;8;2.50
+ITEM;1502;15;2.50
+ITEM;402;241;2.50
+ITEM;422;8;2.50
+ITEM;1156;46;2.50
+ITEM;2001;0;2.50
+ITEM;691;32;2.50
+ITEM;153;171;2.50
+ITEM;2403;5;2.50
+ITEM;40;4788;2.50
+ITEM;500;20;2.50
+ITEM;50;9012;2.50
+ITEM;510;0;2.50
+ITEM;1530;14;2.50
+ITEM;70;1523;2.50
+ITEM;1640;9;2.50
+ITEM;1650;8;2.50
+ITEM;620;35;2.50
+ITEM;1540;41;2.50
+ITEM;60;5045;2.50
+ITEM;520;7;2.50
+ITEM;1460;25;2.50
+ITEM;1560;7;2.50
+ITEM;1610;10;2.50
+ITEM;75;553;2.50
+ITEM;1785;11;2.50
+ITEM;400;246;2.50
+ITEM;420;0;2.50
+ITEM;205;134;2.50
+ITEM;101;5241;2.50
+ITEM;300;5208;2.50
+ITEM;332;697;1.53
+ITEM;660;33;2.50
+ITEM;2004;710;1.53
+ITEM;693;34;2.50
+ITEM;692;35;2.50
+ITEM;52;3102;2.50
+ITEM;522;2;2.50
+ITEM;151;91;2.50
+ITEM;2401;0;2.50
+ITEM;1453;1;2.50
+ITEM;1451;10;2.50
+ITEM;735;11;2.50
+ITEM;1300;33;2.50
+ITEM;1001;12;2.50
+ITEM;1051;10;2.50
+ITEM;1003;44;2.50
+ITEM;1150;62;2.50
+ITEM;1100;7;2.50
+ITEM;1200;30;2.50
+ITEM;1400;45;2.50
+ITEM;1002;15;2.50
+ITEM;1004;144;2.50
+ITEM;1050;67;2.50
+ITEM;1101;188;2.50
+ITEM;1201;37;2.50
+ITEM;1450;23;2.50
+ITEM;1470;8;2.50
+ITEM;1052;9;2.50
+ITEM;2;2950;2.50
+ITEM;1452;7;2.50
+ITEM;1531;4;2.50
+ITEM;1571;7;2.50
+ITEM;1581;12;2.50
+ITEM;621;0;2.50
+ITEM;730;13;2.50
+ITEM;1616;6;2.50
+ITEM;1561;15;2.50
+ITEM;1501;4;2.50
+ITEM;1591;2;2.50
+ITEM;401;250;2.50
+ITEM;421;0;2.50
+ITEM;105;120;2.50
+ITEM;1206;12;2.50
+ITEM;41;2499;2.50
+ITEM;521;44;2.50
+ITEM;1008;30;2.50
+ITEM;1007;9;2.50
+ITEM;1055;10;2.50
+ITEM;305;3506;2.50
+ITEM;158;53;2.50
+ITEM;2408;5;2.50
+ITEM;4;621;2.50
+ITEM;2405;0;2.50
+ITEM;203;156;2.50
+ITEM;320;723;1.53
+ITEM;352;712;1.53
+ITEM;2407;5;2.50
+ITEM;150;80;2.50
+ITEM;2400;43;2.50
+ITEM;6;3750;2.50
+ITEM;600;15;2.50
+ITEM;1013;3;2.50
+ITEM;2404;5;2.50
+ITEM;1210;2;2.50
+ITEM;690;37;2.50
+ITEM;701;8;2.50
+ITEM;721;18;2.50
+ITEM;722;18;2.50
+ITEM;702;52;2.50
+ITEM;703;9;2.50
+ITEM;720;40;2.50
+ITEM;723;57;2.50
+ITEM;724;18;2.50
+ITEM;700;9;2.50
+ITEM;323;1;2.50
+ITEM;2402;40;2.50
+ITEM;156;58;2.50
+ITEM;2406;5;2.50
+ITEM;159;0;2.50
+ITEM;2409;5;2.50
+ITEM;642;56;2.50
+ITEM;340;0;2.50
+ITEM;640;4;2.50
+ITEM;202;65;2.50
+ITEM;5;3034;2.50
+ITEM;333;689;1.53
+ITEM;1401;0;2.50
+ITEM;1105;7;2.50
+ITEM;1106;32;2.50
+ITEM;311;6829;2.50
+ITEM;310;5;2.50
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;1;1.51
+SKILL;11;1.85
+SKILL;21;1.22
+SKILL;31;0.97
+SKILL;91;1.19
+SKILL;41;0.95
+SKILL;215;1.25
+SKILL;216;1.25
+SKILL;217;1.25
+SKILL;218;1.25
+SKILL;219;1.25
+SKILL;235;1.25
+SKILL;236;1.25
+SKILL;237;1.25
+SKILL;52;1.15
+SKILL;58;0.98
+SKILL;100;0.81
+SKILL;65;0.80
+SKILL;64;0.83
+SKILL;210;2.25
+SKILL;240;1.25
+SKILL;241;1.25
+SKILL;242;1.25
+SKILL;243;1.25
+SKILL;244;1.25
+SKILL;245;1.25
+SKILL;246;1.25
+SKILL;247;1.25
+SKILL;248;1.25
+SKILL;249;1.25
+SKILL;250;1.25
+SKILL;238;1.13
+SKILL;239;1.33
+SKILL;251;1.78
+SKILL;252;1.23
+SKILL;253;1.13
+SKILL;61;1.25
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;60;140;882048;HARVEST#50#1#sector_14.txt#sector_56_station_1.txt#null#null#null#null;Harvest special Adamyte Ore in Gate of Alpharis and return with 50 ore to ValueStar in Hunu;15;A local prospector, Moyo Jancoqe of the Law faction has located a light quantity of special Adamyte Ore in the Gate of Alpharis sector. Head over there and harvest all of the special Adamyte Ore, and meet Moyo Jancoqe back at ValueStar station located in the Hunu.;12221
+MISSION;31;240;618908;TRANSPORT#91#205#sector_77_station_0.txt#sector_40_station_0.txt#null#null#null#null;Head to Lacuna Bandits in Ballast Crow, pick up 91 Capacitors(s) for a light shipment to Legistron in Dogstar Prime;10;The Missionary faction advisor Jalisqe Wheazabin has placed a light shipment transport order to move 91 Capacitors(s) from the Lacuna Bandits storage in Ballast Crow, to the Legistron in Dogstar Prime.;17746
+MISSION;61;140;635575;HARVEST#113#5#sector_37.txt#sector_36_station_0.txt#null#null#null#null;Mine special Torim Ore in Calisus Sonaris and return with 113 to Blargg's in Beacon Spita;11;While collecting some junk in the Calisus Sonaris system, Qiweli Veno discovered a light haul of 113 Torim Ore. Unable to collect the material alone, Qiweli Veno has requested that a capable pilot harvest the Torim Ore and drop it off at the Blargg's station located in the Beacon Spita.;36143
+MISSION;31;240;810685;TRANSPORT#78#2008#sector_14_station_1.txt#sector_0_station_2.txt#null#null#null#null;Head to Horizons in Gate of Alpharis, pick up 78 Hardened Glass Panels(s) for a light shipment to StarGypsy Warehouse in Void Starcross;0;The Alpha faction advisor Fixo Lesdeefall has placed a light shipment transport order to move 78 Hardened Glass Panels(s) from the Horizons storage in Gate of Alpharis, to the StarGypsy Warehouse in Void Starcross.;17646
+MISSION;71;180;513980;ESCORT#sector_3_station_0.txt#sector_0_station_4.txt#Colonel Qaak Wetelgen#npc_ship_data_(excavation_escort_1)#9#null#null#null;Colonel Qaak Wetelgen requests an escort from Daemon Ammunitions in Starfort Ramos to Starbase Corporate Center in Void Starcross;3;The Astrox Security Patrol has posted a contract for the safe delivery of a Colonel Qaak Wetelgen, wanted for questioning in a non-violent incident a few cycles ago in the Starfort Ramos system. Escort Colonel Qaak Wetelgen from Daemon Ammunitions to Starbase Corporate Center in the Void Starcross system.;12782
+MISSION;32;240;208127;TRANSPORT#551#2012#sector_0_station_0.txt#sector_14_station_0.txt#null#null#null#null;Move light cargo from Biomate University in Void Starcross and dock with 551 Large Heatsink(s) at Imperium Republica  in Gate of Alpharis;17;Feza Zilsuo was unable to complete a large shipment from Biomate University to Imperium Republica . A light shipment containing 551 Large Heatsink(s) is located at the storage bay at Biomate University in Void Starcross. Retrieve the Large Heatsink(s) and transport them to Imperium Republica  in Gate of Alpharis.;21658
+MISSION;120;120;973965;CHAT_PILOT#sector_77_station_0.txt#sector_56.txt#Officer Serla Mesedue#npc_ship_data_(transport_cruiser_1)#22#missions_debt_collection.txt#0#null;Collect a small debt from Officer Serla Mesedue in Hunu and return to Lacuna Bandits in Ballast Crow;15;Sedsed Fiecoxe has requested that debt be collected from Officer Serla Mesedue. After 3 payments to the Law faction for transport fines, Officer Serla Mesedue has refused to make any further payments. Last known sighting of Officer Serla Mesedue was in the vicinity of the Hunu system. Have a chat with them, collect the debt, and return to the Lacuna Bandits in the Ballast Crow system to deliver the payment.;117274
+MISSION;52;120;190432;SCAN_STRUCTURE#sector_58_station_0.txt#sector_56.txt#Defensive Gun Platform#structure_gun_platform_1.txt#1#null#null#null;Track and scan the target Defensive Gun Platform structure in Hunu and return to CoraVault in Lins;14;The Extractors faction has commissioned scientific survey of a strange vibration taking place at Defensive Gun Platform in the Hunu sector. Head over to Hunu and scan the Defensive Gun Platform structure. Once complete, return to the CoraVault station located in the Lins with the scan data.;42846
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.8518293;ship_data_(excavation_utility_2).txt
+SHIP;1;1.0;ship_data_(recon_shuttle_1).txt
+SHIP;1;1.0;ship_data_(recon_escort_1).txt
+SHIP;1;1.0;ship_data_(recon_escort_2).txt
+SHIP;4;1.0;ship_data_(recon_utility_1).txt
+SHIP;4;1.0;ship_data_(recon_utility_2).txt
+SHIP;4;1.0;ship_data_(recon_frigate_1).txt
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+OFFICE;(Tutorial Office) Introduction;Jessa Din;1;0.0;26;station.png;female_2.png;accessory_22.png;tutorial_intro.txt;2
+OFFICE;(Tutorial Office) Basic Combat;Fredric Din;1;0.0;43;station.png;male_1.png;accessory_18.png;tutorial_combat_basics.txt;10
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+STORAGE;1453;1;0
+STORAGE;1201;2;0
+STORAGE;1008;2;0
+STORAGE;4000;1;0
+
+

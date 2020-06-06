@@ -1,0 +1,175 @@
+[s:30][c:yellow]Proctors Center[/c][/s]
+Patrol Annex Station
+Kandace
+Law
+[c:lime]Dock fee 25[/c]
+Timestamp: 19079.67
+<Station Services>
+[c:lime]SUPPLY[/c]
+Premium Afterburner
+Utility Salvager
+Generic Large Beam
+Basic Engine Core
+Prototype Energy Capacitor
+[c:orange]DEMAND[/c]
+Basic ECM Energy Coil
+Basic Mass Reduction
+Improved Explosive Armor
+Premium Thruster
+Advanced Shield Extender
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station Market Items>
+(2947) x Adamyte Ore
+(73) x Advanced Armor Exterior
+(48) x Advanced Cargo Expansion
+(16) x Advanced Energy Armor
+(9) x Advanced Energy Capacitor
+(26) x Advanced Engine Core
+(14) x Advanced Filter
+(21) x Advanced Impact Armor
+(8) x Advanced Mass Reduction
+(13) x Advanced Regulator
+(21) x Advanced Scan Booster
+(13) x Advanced Scan Emitter
+(48) x Advanced Shield Extender
+(101) x Advanced Shield Generator
+(50) x Advanced Targeting System
+(8) x Advanced Turn Thrust
+(250) x Advanced Warp Drive Fuel
+(10) x Advanced Warp Drive Fuel Specs
+(46) x Aeo Particle X1 Beam
+(1683) x Anti-Freeze
+(59) x Assorted Gaskets
+(7448) x Basic 20mm
+(49) x Basic 20mm Specs
+(3) x Basic Afterburner
+(3686) x Basic Charged Cell
+(7) x Basic Energy Armor
+(44) x Basic Engine Core
+(2) x Basic Explosive Armor
+(13) x Basic Filter
+(4572) x Basic Food Rations
+(44) x Basic Impact Armor
+(4155) x Basic Missile
+(26) x Basic Scan Booster
+(6) x Basic Scan Emitter
+(136) x Basic Sensor
+(36) x Basic Shield Extender
+(4) x Basic Targeting System
+(8) x Basic Turn Thrust
+(282) x Basic Warp Drive Fuel
+(10) x Basic Warp Drive Fuel Specs
+(214) x Capacitors
+(139) x Carbon
+(196) x Circuit Board
+(11759) x Colored Dye
+(3) x Containment Unit
+(39) x Disposables
+(3909) x Explosive 20mm
+(404) x Explosive 60mm
+(6405) x Explosive Missile
+(93) x Fasteners
+(17) x Generic Default Tractor
+(15) x Generic Dual 20mm Gun
+(37) x Generic Large Beam
+(50) x Generic Light Beam
+(3) x Generic Medium Beam
+(5) x Generic Medium Laser
+(49) x Generic Single 20mm Gun
+(7) x Generic Small Beam
+(52) x Generic Spotlight
+(26) x Generic Triple Launcher
+(13036) x Gourmet Food Rations
+(1690) x Gradeon Ore
+(422) x Hydrogen
+(17) x Improved Armor Exterior
+(40) x Improved Cargo Expansion
+(16) x Improved Energy Armor
+(7) x Improved Energy Capacitor
+(9) x Improved Energy Generator
+(4) x Improved Filter
+(4) x Improved Impact Armor
+(4) x Improved Mass Reduction
+(4) x Improved Scan Booster
+(21) x Improved Scan Emitter
+(8) x Improved Shield Extender
+(3) x Improved Shield Generator
+(28) x Improved Turn Thrust
+(282) x Improved Warp Drive Fuel
+(36) x Improved Warp Drive Fuel Specs
+(5) x Iron Coring Pipes Specs
+(44) x Iron Coring Plates Specs
+(5) x Janca Z1 OreVac
+(5532) x Kinetic 20mm
+(1) x Kinetic 20mm Specs
+(4034) x Kinetic Missile
+(2) x Kinetic Missile Specs
+(2) x Kinetics G-series 20mm Gun
+(40) x Kinetics G-series Dual 20mm
+(73) x Kinetics M-series x1 Launcher
+(3580) x Kitchen Appliances
+(42) x Large Heatsink Specs
+(5) x Large Microchip Specs
+(5) x Large Pump Specs
+(2385) x Lighting
+(2174) x Lokken Ore
+(52) x Lubricant
+(285) x Magnetic Quartz
+(56) x Mechanical Switch
+(155) x Metal Brackets
+(5) x Misc Hardware Specs
+(5) x Noodles
+(72) x Nuts And Bolts
+(55) x Optical Interface
+(158) x Oxygen
+(41) x Premium Afterburner
+(9) x Protein Bar
+(61) x Protonic Light Laser
+(41) x Prototype Energy Capacitor
+(7) x Quantex  x-2 20mm Gun
+(73) x Rubber Tubing
+(3978) x Scrap
+(5) x Small Electronics Specs
+(43) x Small Microchip Specs
+(195) x Steelium Pipes
+(5) x Steelium Plates Specs
+(35) x Temperature Genie
+(24) x Thermal Controller
+(73) x Thermal Sensor
+(5) x Titanyte Beams Specs
+(19) x Titanyte Pipes Specs
+(5) x Titanyte Plates Specs
+(5) x Uranium Core Specs
+(45) x Utility Salvager
+(69) x Vita Lightblade X2 Laser
+(120) x Water
+(1665) x Whiskey
+(2014) x Wine
+
+
+<Station University Skills>
+Impact Damage Resistance
+Energy Damage Resistance
+Explosive Damage Resistance
+Beam Focal Range
+University Academic
+Miner Harvest Calibration
+Beam Advanced Systems
+Salvager Energy Optimization
+Launcher Energy Optimization
+Market Auditor

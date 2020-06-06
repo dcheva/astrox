@@ -1,0 +1,37 @@
+scan_title;RU-2 Conservator 473833
+scan_image;npc_ship_data_(recon_utility_2).png
+scan_sector;Ballast Crow
+<color='cyan'>OVERVIEW</color>
+The recon ship is designed to gather information about the sector. Augmented onboard scanners,  advanced targeting computers, and an oversized lifesupport bay.
+
+Timestamp: 4348.985
+<color='cyan'>DETAILS</color>
+Type: 1
+Class: Utility
+
+<color='cyan'>SPECS</color>
+HP total: 
+1162
+Shield: 
+528 / 528
+Armor: 
+634 / 634
+Energy: 
+320.991 / 603
+Class: 
+252.472 / 622
+<color='cyan'>DETAILS</color>
+Owner: Govenor Tifa Whahin
+Faction: Alpha
+Combat Capable: 
+True
+Mining Capable: 
+False
+Tactics: Neutral
+Task: PATROL
+
+<color='cyan'>RESISTANCE</color>
+Impact : 0%
+Energy : 30%
+Explosive : 0%
+

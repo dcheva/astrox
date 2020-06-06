@@ -1,0 +1,11 @@
+//;LOG DATA FILE (Astrox Imperium)
+1;1 min;Utility Ship Operation;2625.0;Biomate University
+2;4 min;Launcher Basic Operation;3880.0;Biomate University
+1;2 min;Fleet Navigation;2604.0;ValueStar
+1;2 min;Launcher Basic Operation;1940.0;Biomate University
+1;1 min;Fleet Commander;4725.0;Biomate University
+2;2 min;Ship Gyroscopic Control;2480.0;Astrox Security Patrol
+1;1 min;Ship Gyroscopic Control;1240.0;Astrox Security Patrol
+2;4 min;Projectile Basic Operation;3020.0;Biomate University
+1;2 min;Projectile Basic Operation;1510.0;Biomate University
+1;2 min;Max Mission Contracts;810.0;Biomate University

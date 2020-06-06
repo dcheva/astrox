@@ -1,0 +1,8 @@
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+System.ThrowHelper.ThrowInvalidOperationException (System.ExceptionResource resource) (at <319b5411003b47fbaceecace494b6f79>:0)
+System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () (at <319b5411003b47fbaceecace494b6f79>:0)
+System.Collections.Generic.List`1+Enumerator[T].MoveNext () (at <319b5411003b47fbaceecace494b6f79>:0)
+PANEL_market+<populateMarketList>d__60.MoveNext () (at <6bcfd7b052c041d8b44b8002c6c30f48>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <52d7b92b1d0e4868ac4c518247d361f7>:0)
+
+PLT:2 BLD:0.0098

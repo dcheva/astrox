@@ -1,0 +1,136 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Quantex
+STATION;type;Production Factory
+STATION;owner;Binohom Xadnortisfall
+STATION;faction;Labor
+STATION;material;station_material_Labor.png
+STATION;color;1 , .80 , .7 , 1
+STATION;level;3
+STATION;icon;ad_image_11.png
+STATION;filename;sector_1_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-7-1-6-0-1-7-0-1-8-1-0-1-6-3-1-7-90
+STATION;interior_seed;4-0-45-4
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;True
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;1.95;npc_ship_data_(excavation_escort_1).txt
+MERC;5;0.66;npc_ship_data_(recon_shuttle_1).txt
+MERC;1;1.13;npc_ship_data_(battle_escort_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2122;3661;1.07
+ITEM;200;13;1.03
+ITEM;2277;1;1.04
+ITEM;2327;1;1.08
+ITEM;2120;3839;1.02
+ITEM;2181;1;1.11
+ITEM;2394;1;1.07
+ITEM;725;86;1.08
+ITEM;1592;8;1.00
+ITEM;304;4246;1.10
+ITEM;2274;1;1.04
+ITEM;2122;1314;1.00
+ITEM;2170;10;0.97
+ITEM;2398;1;1.03
+ITEM;1452;161;0.98
+ITEM;1110;110;1.04
+ITEM;2225;168;1.04
+ITEM;501;2;1.03
+ITEM;692;3;1.15
+ITEM;1013;6;1.15
+ITEM;100;168;0.97
+ITEM;2150;2;1.11
+ITEM;1550;9;0.99
+ITEM;2326;1;1.06
+ITEM;2003;64;1.07
+ITEM;1540;201;1.05
+ITEM;1003;7;1.12
+ITEM;2120;665;1.14
+ITEM;2120;1287;1.00
+ITEM;2274;106;1.02
+ITEM;1530;4;1.05
+ITEM;1632;8;1.15
+ITEM;4;2986;0.99
+ITEM;1004;9;0.97
+ITEM;2160;1;1.01
+ITEM;1013;13;1.11
+ITEM;1001;4;0.98
+ITEM;1303;208;0.95
+ITEM;2399;173;1.10
+ITEM;1561;116;1.05
+ITEM;2155;2;1.00
+ITEM;2000;133;1.09
+ITEM;2087;1230;0.95
+ITEM;153;81;0.98
+ITEM;210;89;1.08
+ITEM;301;826;1.05
+ITEM;522;32;1.12
+ITEM;692;3;1.16
+ITEM;1510;5;1.05
+ITEM;2352;38;1.07
+ITEM;2278;39;1.14
+ITEM;154;126;1.08
+ITEM;1102;22;1.07
+ITEM;1450;49;1.07
+ITEM;42;3052;1.05
+ITEM;642;30;1.08
+ITEM;303;607;0.92
+ITEM;1610;11;1.09
+ITEM;1015;99;1.06
+ITEM;2086;3121;1.04
+ITEM;213;94;0.97
+ITEM;60;4252;1.17
+ITEM;208;92;0.99
+ITEM;724;6;1.04
+ITEM;725;2;1.14
+ITEM;1151;8;0.96
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;36;0.89
+SKILL;61;1.26
+SKILL;5;0.96
+SKILL;58;0.54
+SKILL;71;1.55
+SKILL;223;0.97
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;30;240;533420;TRANSPORT#12#2042#sector_3_station_0.txt#sector_1_station_0.txt#null#null#null#null;Transport a light shipment of 12 Gyroscope Drive(s) from Daemon Ammunitions in Starfort Ramos to Quantex in Dellis Primeria;7;Transport manager Caga Oakaddpa has requested a transport of a light shipment of 12 Gyroscope Drive(s). They need to be picked up at the storage facility at Daemon Ammunitions in Starfort Ramos, and transported to Quantex in Dellis Primeria. Caga Oakaddpa will be waiting at Quantex to receive the shipment. ;16766
+MISSION;31;240;480636;TRANSPORT#483#310#sector_35_station_0.txt#sector_14_station_0.txt#null#null#null#null;Head to Astrox Security Patrol in Felishar, pick up 483 Wine(s) for a light shipment to Imperium Republica  in Gate of Alpharis;4;The Financial faction advisor Serdemi Sawpeidemi has placed a light shipment transport order to move 483 Wine(s) from the Astrox Security Patrol storage in Felishar, to the Imperium Republica  in Gate of Alpharis.;18057
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.98;ship_data_(excavation_carrier_1).txt
+SHIP;2;1.02;ship_data_(support_escort_1).txt
+SHIP;3;0.97;ship_data_(transport_carrier_1).txt
+SHIP;4;1.05;ship_data_(recon_carrier_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

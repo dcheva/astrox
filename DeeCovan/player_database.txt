@@ -1,0 +1,3 @@
+// SPECIAL ITEMS DATABASE 
+PMODULE;4000;Rare Basic Projectile Impact Mod;Passive Module;Projectile Mod;Weapons;projectile_mod_1.png;18.38;9139.35;0;5;0;True;Weapons;Projectile Impact Damage;0.11;0;0;0;0;0;0,0,0,1700,Rare;This Rare item will apply a small 10% bonus to 2 random attributes. Projectile Impact Damage Bonus.; ; ; ; ; ;
+PMODULE;4001;Rare Improved Afterburner;Passive Module;Engine Mod;Engine;afterburner_2.png;8.34;2896.96;0;2;0;True;Engine;Afterburner;0.22;0;0;0;0;0;0,0,0,1521,Rare;This Rare item will apply a small 10% bonus to 2 random attributes. An improvement to the basic afterburner, many pilots use this in the sectors.; ; ; ; ; ;

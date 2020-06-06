@@ -1,0 +1,123 @@
+[s:30][c:yellow]Gemini Mining[/c][/s]
+Mining Facility
+Biraemi Xoqi
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 4766.138
+<Station Services>
+[c:lime]SUPPLY[/c]
+Generic Small Miner
+Janca Z1 OreVac
+SBC SM2 Harvester
+Gemini X3 Excavator
+GEK Proto-X3 Excavator
+GEK Industrial Tractor
+[c:orange]DEMAND[/c]
+Adamyte Ore
+Gradeon Ore
+Quazor Ore
+Lokken Ore
+Torim Ore
+Plasite Ore
+Dynex Ore
+Belasite Ore
+Xenox Ore
+Zai Ore
+
+[c:cyan]SERVICES[/c]
+Market
+Ship Garage
+University
+Ship Hangar
+Fabricator
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (33) x Adamyte Ore
+ (192) x Gradeon Ore
+ (114) x Torim Ore
+ (70) x Plasite Ore
+Fulfill order for [c:lime]14,423[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (4) Items 
+ (130) x Gradeon Ore
+ (186) x Quazor Ore
+ (181) x Lokken Ore
+ (95) x Plasite Ore
+Fulfill order for [c:lime]23,388[/c]
+
+
+<Station Market Items>
+(7) x Kinetics M-series x2 Launcher
+(2) x Explosive 20mm Specs
+(4) x Kinetics G-series 20mm Gun
+(3815) x Anti-Freeze
+(69) x Plastic Caps
+(71) x Large Processor
+(551) x Anti-Freeze
+(2) x Basic Utility Tractor Specs
+(5) x Gemini Active Pulse
+(4) x Advanced Thruster
+(2624) x Fusion Core Torpedo
+(764) x Explosive Torpedo
+(98) x Aluminium Rivets
+(741) x Scrap
+(4) x Generic Single 20mm Gun
+(5) x Generic Light Laser
+(88) x Thermal Sensor
+(1) x Basic Utility Tractor Specs
+(449) x Whiskey
+(2) x Basic Scan Emitter Specs
+(3531) x Radiated Torpedo
+(2) x Improved Energy Generator
+(1831) x Basic 60mm
+(88) x Steelium Beams
+(1) x Improved Light Beam Specs
+(8) x Basic Targeting System
+(83) x Copperi Cables
+(2) x Aeo Particle X1 Beam
+(1) x Improved Targeting System Specs
+(3) x Basic Energy Generator
+(1) x Standard 60mm Cannon Specs
+(71) x Thermal Sensor
+(4) x Aeo Particle X2 Beam
+(9) x Improved Thruster
+(8) x Small Combat Drone
+(7) x Advanced Shield Extender
+(2) x Basic Medium Beam Specs
+(1) x Basic Missile Impact Mod Specs
+(55) x Steelium Beams
+(2) x Basic Large Miner Specs
+(3) x Improved Energy Capacitor
+(2) x Improved 60mm Gun Specs
+(6) x Protein Bar
+(4) x Generic Small Beam
+(59) x Ball Bearings
+(1229) x Basic Food Rations
+(1) x Basic Light Laser Specs
+(2) x Basic Laser Explosive Mod Specs
+(1249) x Junk Support Module
+(89) x Large Processor
+(6) x Janca Z1 OreVac
+(1) x Basic Utility Tractor Specs
+(1) x Improved 60mm Gun Specs
+(1) x Basic Quad Launcher Specs
+(2) x Basic 60mm Specs
+(2) x Improved 60mm Gun Specs
+(1) x Kinetic Missile Specs
+(89) x Copperi Pipes
+(85) x Mechanical Belts
+(2) x Basic Large Beam Specs
+
+
+<Station University Skills>
+Beam Cycle Mechanics
+Passive Scanner Focal Range
+Launcher Focal Range
+Fabrication Accountant
+Armor Mechanic
+Launcher Damage Calibration
+Storage Accountant
+Merc Negotiations
+University Academic

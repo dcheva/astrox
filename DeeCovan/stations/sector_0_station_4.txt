@@ -1,0 +1,254 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;Starbase Corporate Center
+STATION;type;Assembly Station
+STATION;owner;Vajeana
+STATION;faction;Labor
+STATION;material;station_material_Labor.png
+STATION;color; 1.0 , 1.0, 0.0 , 1.0
+STATION;level;7
+STATION;icon;starbase.png
+STATION;filename;sector_0_station_4.txt
+STATION;max_hp;25000
+STATION;dockfee;25
+STATION;lease;1
+STATION;seed;2-2-0-1-2-0-2-1-3-0-0-4-1-3-8-1-9-1-1-3-1-3-90
+STATION;interior_seed;3-1-15-3
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(excavation_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(excavation_escort_1).txt
+MERC;9;1.93;npc_ship_data_(excavation_utility_1).txt
+MERC;12;1.23;npc_ship_data_(excavation_utility_2).txt
+MERC;15;1.47;npc_ship_data_(excavation_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Surplus: (1) Items ;162x394;4231;28936.99
+
+BUYORDER;Market Demands: (3) Items ;106x170,103x200,118x195;2319;86393.87
+BUYORDER;Market Out of Stock: (4) Items ;106x252,118x151,120x119,122x271;15127;60128.87
+BUYORDER;Market Out of Stock: (2) Items ;118x269,120x156;5607;78567.87
+BUYORDER;Market Shortage: (3) Items ;106x388,118x310,120x150;13841;29000.87
+SELLORDER;Market Stock: (2) Items ;215x309,2028x51;46340;48181.14
+SELLORDER;Market Stock: (4) Items ;162x53,215x323,2034x62,2016x248;30328;32767.77
+
+BUYORDER;Market Shortage: (3) Items ;103x89,118x315,122x252;10168;20340.77
+BUYORDER;Market Items Req: (3) Items ;118x367,120x52,122x200;18520;86419.10
+BUYORDER;Market Out of Stock: (3) Items ;118x213,120x193,122x269;20126;48280.39
+ITEM;1522;6;2.50
+ITEM;1642;51;2.20
+ITEM;1572;22;2.25
+ITEM;1582;8;2.25
+ITEM;1512;15;2.25
+ITEM;1652;4;2.22
+ITEM;622;11;2.25
+ITEM;1632;13;2.25
+ITEM;1542;12;2.50
+ITEM;641;52;2.25
+ITEM;1617;37;2.25
+ITEM;1602;41;2.15
+ITEM;1552;6;2.25
+ITEM;1562;26;2.25
+ITEM;1502;47;2.25
+ITEM;1592;12;2.25
+ITEM;402;328;2.25
+ITEM;422;10;2.25
+ITEM;1155;15;2.25
+ITEM;1156;6;2.25
+ITEM;2441;5;2.50
+ITEM;2028;341;1.49
+ITEM;153;66;2.50
+ITEM;50;9161;2.17
+ITEM;1520;9;2.25
+ITEM;1620;4;2.25
+ITEM;1570;15;2.25
+ITEM;1580;6;2.25
+ITEM;620;9;2.25
+ITEM;312;8134;2.23
+ITEM;1630;191;2.18
+ITEM;60;3401;2.25
+ITEM;520;4;2.50
+ITEM;201;50;2.16
+ITEM;1550;41;2.25
+ITEM;1610;9;2.25
+ITEM;1500;4;2.25
+ITEM;1590;18;2.25
+ITEM;400;250;2.25
+ITEM;420;48;2.20
+ITEM;101;597;2.15
+ITEM;661;42;2.25
+ITEM;2442;5;2.25
+ITEM;2443;5;2.25
+ITEM;660;144;2.17
+ITEM;2034;321;1.52
+ITEM;2444;5;2.50
+ITEM;2445;29;2.25
+ITEM;42;4340;2.25
+ITEM;52;1444;2.25
+ITEM;62;5920;2.50
+ITEM;522;21;2.25
+ITEM;151;169;2.25
+ITEM;204;241;2.50
+ITEM;303;3472;2.25
+ITEM;735;72;2.22
+ITEM;1300;7;2.50
+ITEM;1001;4;2.50
+ITEM;1051;101;2.20
+ITEM;1003;36;2.17
+ITEM;1100;6;2.50
+ITEM;1152;38;2.25
+ITEM;1102;13;2.25
+ITEM;1202;75;2.18
+ITEM;1002;7;2.25
+ITEM;1050;8;2.50
+ITEM;1151;9;2.50
+ITEM;1201;17;2.50
+ITEM;1450;8;2.25
+ITEM;1052;98;2.19
+ITEM;2446;71;2.19
+ITEM;313;7511;2.25
+ITEM;2;2785;2.20
+ITEM;602;51;2.25
+ITEM;2447;197;2.20
+ITEM;2448;5;2.25
+ITEM;102;9609;2.25
+ITEM;1521;90;2.25
+ITEM;1621;104;2.25
+ITEM;1531;99;2.25
+ITEM;1641;3;2.50
+ITEM;1571;20;2.21
+ITEM;1511;7;2.50
+ITEM;1651;13;2.25
+ITEM;621;9;2.25
+ITEM;1631;8;2.24
+ITEM;1541;37;2.25
+ITEM;1601;99;2.20
+ITEM;1551;5;2.25
+ITEM;1561;10;2.50
+ITEM;1591;46;2.25
+ITEM;401;281;2.25
+ITEM;421;10;2.25
+ITEM;1402;16;2.25
+ITEM;1060;15;2.25
+ITEM;105;147;2.25
+ITEM;2449;61;2.19
+ITEM;1303;117;2.16
+ITEM;1206;125;2.25
+ITEM;20;549;2.25
+ITEM;2440;12;2.25
+ITEM;41;6547;2.25
+ITEM;51;8168;2.25
+ITEM;61;5030;2.50
+ITEM;521;2;2.25
+ITEM;1008;12;2.50
+ITEM;1007;196;2.23
+ITEM;1055;3;2.50
+ITEM;304;6767;2.50
+ITEM;158;62;2.25
+ITEM;4;4281;2.25
+ITEM;155;140;2.18
+ITEM;104;337;2.20
+ITEM;203;155;2.25
+ITEM;157;97;2.25
+ITEM;106;63;2.25
+ITEM;206;77;2.25
+ITEM;103;97;2.25
+ITEM;6;3474;2.25
+ITEM;118;81;2.25
+ITEM;120;29;2.25
+ITEM;600;2;2.25
+ITEM;1013;3;2.25
+ITEM;154;63;2.50
+ITEM;1210;185;2.20
+ITEM;21;2618;2.25
+ITEM;2016;347;1.52
+ITEM;215;297;1.52
+ITEM;156;60;2.25
+ITEM;642;3;2.25
+ITEM;162;327;1.52
+ITEM;122;0;2.50
+ITEM;1105;13;2.50
+ITEM;662;26;2.25
+ITEM;100;11721;2.25
+ITEM;311;6426;2.17
+ITEM;310;2935;2.25
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;71;1.01
+SKILL;41;1.81
+SKILL;42;0.64
+SKILL;222;1.64
+SKILL;43;1.35
+SKILL;44;1.27
+SKILL;45;1.94
+SKILL;46;1.78
+SKILL;47;0.23
+SKILL;58;0.13
+SKILL;64;1.33
+SKILL;111;1.78
+SKILL;112;0.23
+SKILL;113;0.13
+SKILL;238;1.13
+SKILL;239;1.33
+SKILL;251;1.78
+SKILL;252;1.23
+SKILL;253;1.13
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;71;180;700053;ESCORT#sector_0_station_0.txt#sector_0_station_4.txt#Professor Zeto Velea#npc_ship_data_(battle_cruiser_1)#19#null#null#null;Professor Zeto Velea requests an escort from Biomate University in Void Starcross to Starbase Corporate Center in Void Starcross;16;The Astrox Security Patrol has posted a contract for the safe delivery of a Professor Zeto Velea, wanted for questioning in a non-violent incident a few cycles ago in the Void Starcross system. Escort Professor Zeto Velea from Biomate University to Starbase Corporate Center in the Void Starcross system.;11961
+MISSION;30;240;246631;TRANSPORT#2#1016#sector_35_station_0.txt#sector_3_station_0.txt#null#null#null#null;Transport a light shipment of 2 Acrondia 60mm Howtizer(s) from Astrox Security Patrol in Felishar to Daemon Ammunitions in Starfort Ramos;10;Transport manager Madbar Beckop has requested a transport of a light shipment of 2 Acrondia 60mm Howtizer(s). They need to be picked up at the storage facility at Astrox Security Patrol in Felishar, and transported to Daemon Ammunitions in Starfort Ramos. Madbar Beckop will be waiting at Daemon Ammunitions to receive the shipment. ;16104
+MISSION;120;120;229305;CHAT_PILOT#sector_56_station_1.txt#sector_16.txt#Captain Bellow Paekeesip#npc_ship_data_(kj_frigate_2)#22#missions_debt_collection.txt#0#null;Collect a small debt from Captain Bellow Paekeesip in Entropy and return to ValueStar in Hunu;16;Zovis Beemi has requested that debt be collected from Captain Bellow Paekeesip. After 3 payments to the Enforcement faction for transport fines, Captain Bellow Paekeesip has refused to make any further payments. Last known sighting of Captain Bellow Paekeesip was in the vicinity of the Entropy system. Have a chat with them, collect the debt, and return to the ValueStar in the Hunu system to deliver the payment.;41529
+MISSION;60;140;567152;HARVEST#50#1#sector_1.txt#sector_14_station_0.txt#null#null#null#null;Harvest special Adamyte Ore in Dellis Primeria and return with 50 ore to Imperium Republica  in Gate of Alpharis;13;A local prospector, Vessih Mibastmi of the Contractor faction has located a light quantity of special Adamyte Ore in the Dellis Primeria sector. Head over there and harvest all of the special Adamyte Ore, and meet Vessih Mibastmi back at Imperium Republica  station located in the Gate of Alpharis.;30805
+MISSION;70;180;867194;ESCORT#sector_0_station_2.txt#sector_56_station_0.txt#Govenor Lesmole Daxon#npc_ship_data_(transport_shuttle_1)#18#null#null#null;Escort Govenor Lesmole Daxon from StarGypsy Warehouse in Void Starcross to Transporteers in Hunu;12;A wealthy council member from the Labor faction has set up an escort for his oldest son Govenor Lesmole Daxon. He was recently released from a rehab center for bliss addiction, and Deepei Siqidie, his father, would prefer he doesn't travel alone. You can meet up with Govenor Lesmole Daxon at the StarGypsy Warehouse station before heading over to Transporteers.;10325
+MISSION;70;180;467494;ESCORT#sector_3_station_0.txt#sector_56_station_1.txt#Czar Mastkom Gorenovaj#npc_ship_data_(support_frigate_1)#23#null#null#null;Escort Czar Mastkom Gorenovaj from Daemon Ammunitions in Starfort Ramos to ValueStar in Hunu;8;A wealthy council member from the Sovereign faction has set up an escort for his oldest son Czar Mastkom Gorenovaj. He was recently released from a rehab center for bliss addiction, and Aktim Xadpi, his father, would prefer he doesn't travel alone. You can meet up with Czar Mastkom Gorenovaj at the Daemon Ammunitions station before heading over to ValueStar.;8722
+MISSION;71;180;938981;ESCORT#sector_0_station_3.txt#sector_0_station_1.txt#Bishop Palocki Restfonbe#npc_ship_data_(support_frigate_3)#5#null#null#null;Bishop Palocki Restfonbe requests an escort from StarShepards Headquarters in Void Starcross to Lammassu Financial in Void Starcross;11;The Astrox Security Patrol has posted a contract for the safe delivery of a Bishop Palocki Restfonbe, wanted for questioning in a non-violent incident a few cycles ago in the Void Starcross system. Escort Bishop Palocki Restfonbe from StarShepards Headquarters to Lammassu Financial in the Void Starcross system.;13728
+MISSION;51;120;332751;SCAN_STRUCTURE#sector_78_station_0.txt#sector_14.txt#Defensive Gun Platform#structure_gun_platform_1.txt#1#null#null#null;Find the target Defensive Gun Platform structure in Gate of Alpharis, scan, and return to Tella's in Bitcola;17;Lomres Foumastpoe has requested that someone verify the location of Defensive Gun Platform in the Gate of Alpharis sector. After a recent mix-up at the zoning office, the Judicial reps are concerned that construction guidelines were not followed properly. Return to the Tella's station located in the Bitcola with the scan data.;33481
+MISSION;71;180;149634;ESCORT#sector_35_station_0.txt#sector_14_station_1.txt#Colonel Foefa Rastjelbru#npc_ship_data_(pirate_frigate_2)#19#null#null#null;Colonel Foefa Rastjelbru requests an escort from Astrox Security Patrol in Felishar to Horizons in Gate of Alpharis;2;The Astrox Security Patrol has posted a contract for the safe delivery of a Colonel Foefa Rastjelbru, wanted for questioning in a non-violent incident a few cycles ago in the Felishar system. Escort Colonel Foefa Rastjelbru from Astrox Security Patrol to Horizons in the Gate of Alpharis system.;12926
+MISSION;61;140;643691;HARVEST#113#1#sector_14.txt#sector_56_station_0.txt#null#null#null#null;Mine special Adamyte Ore in Gate of Alpharis and return with 113 to Transporteers in Hunu;8;While collecting some junk in the Gate of Alpharis system, Paekom Binmole discovered a light haul of 113 Adamyte Ore. Unable to collect the material alone, Paekom Binmole has requested that a capable pilot harvest the Adamyte Ore and drop it off at the Transporteers station located in the Hunu.;12103
+MISSION;50;120;385737;SCAN_STRUCTURE#sector_56_station_0.txt#sector_40.txt#Defensive Gun Platform#structure_gun_platform_1.txt#1#null#null#null;Locate and scan the Defensive Gun Platform structure in Dogstar Prime and return to Transporteers in Hunu;17;A recent construction permit was delivered by the Judicial faction. They are demanding a survey of a new structure that has been constructed by Zasaw Coroa. Scan the Defensive Gun Platform structure and return back to the Transporteers located in the Hunu with the survey data. Once the data is verified, payment will be rendered.;36948
+MISSION;60;140;112770;HARVEST#99#2#sector_13.txt#sector_0_station_0.txt#null#null#null#null;Harvest special Gradeon Ore in Jala and return with 99 ore to Biomate University in Void Starcross;14;A local prospector, Imesjalis Vakbe of the Extractors faction has located a light quantity of special Gradeon Ore in the Jala sector. Head over there and harvest all of the special Gradeon Ore, and meet Imesjalis Vakbe back at Biomate University station located in the Void Starcross.;29913
+MISSION;70;180;360310;ESCORT#sector_14_station_0.txt#sector_0_station_4.txt#General Falldorn Peaaoada#npc_ship_data_(kj_frigate_1)#9#null#null#null;Escort General Falldorn Peaaoada from Imperium Republica  in Gate of Alpharis to Starbase Corporate Center in Void Starcross;13;A wealthy council member from the Contractor faction has set up an escort for his oldest son General Falldorn Peaaoada. He was recently released from a rehab center for bliss addiction, and Voqo Vitadao, his father, would prefer he doesn't travel alone. You can meet up with General Falldorn Peaaoada at the Imperium Republica  station before heading over to Starbase Corporate Center.;10501
+MISSION;40;120;509555;SCAN_PILOT#sector_56_station_0.txt#sector_1.txt#Watchman Heani Zasivaj#npc_ship_data_(recon_escort_raider)#5#null#null#null;Locate and scan Watchman Heani Zasivaj in Dellis Primeria and return to Transporteers in Hunu;13;Aojid Mesnostra has requested a location verification on a recent employee. Watchman Heani Zasivaj is supposed to be running a survey in Dellis Primeria. Please verify the location of this pilot by scanning their ship and return to Transporteers in Hunu.;11875
+MISSION;70;180;686616;ESCORT#sector_14_station_1.txt#sector_42_station_0.txt#Watchman Lomla Serwhabru#npc_ship_data_(recon_utility_3)#17#null#null#null;Escort Watchman Lomla Serwhabru from Horizons in Gate of Alpharis to Desban in Ellisar;2;A wealthy council member from the Civil faction has set up an escort for his oldest son Watchman Lomla Serwhabru. He was recently released from a rehab center for bliss addiction, and Eroso Leifousa, his father, would prefer he doesn't travel alone. You can meet up with Watchman Lomla Serwhabru at the Horizons station before heading over to Desban.;23011
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.0;ship_data_(excavation_shuttle_1).txt
+SHIP;1;1.0;ship_data_(excavation_escort_1).txt
+SHIP;1;1.0;ship_data_(excavation_escort_2).txt
+SHIP;4;1.0;ship_data_(excavation_utility_1).txt
+SHIP;4;1.0;ship_data_(excavation_utility_2).txt
+SHIP;4;1.0;ship_data_(excavation_frigate_1).txt
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+

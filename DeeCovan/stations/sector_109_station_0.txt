@@ -1,0 +1,173 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Vita Assembly
+STATION;type;Assembly Station
+STATION;owner;Yergale Feivel
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color;.60 , .20 , .80 , 1
+STATION;level;3
+STATION;icon;vita.png
+STATION;filename;sector_109_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-3-1-5-2-3-7-1-1-6-0-5-1-4-2-0-0-90
+STATION;interior_seed;5-9-0-9
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;False
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;1.29;npc_ship_data_(support_utility_1).txt
+MERC;6;1.42;npc_ship_data_(recon_shuttle_1).txt
+MERC;9;1.93;npc_ship_data_(excavation_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Items Req: (4) Items ;106x54,118x388,120x136,122x53;7033;90589.50
+BUYORDER;Market Out of Stock: (2) Items ;106x137,120x93;4347;52854.30
+BUYORDER;Market Needs Goods: (4) Items ;106x282,118x390,120x330,122x341;38272;25151.30
+BUYORDER;Market Low Inventory: (2) Items ;120x394,122x90;24920;104032.00
+BUYORDER;Market Demands: (3) Items ;103x104,118x299,122x93;7250;64703.99
+BUYORDER;Market Low Inventory: (2) Items ;103x301,120x258;13949;73976.87
+BUYORDER;Market Out of Stock: (4) Items ;103x209,118x297,120x294,122x245;24418;37972.26
+BUYORDER;Market Demands: (1) Items ;120x273;12598;25623.68
+BUYORDER;Market Items Req: (3) Items ;106x78,120x175,122x222;18870;82738.68
+BUYORDER;Market Low Inventory: (2) Items ;103x62,122x47;2065;92106.45
+BUYORDER;Market Items Req: (2) Items ;103x111,122x228;11655;63507.45
+BUYORDER;Market Low Inventory: (3) Items ;106x99,103x264,120x146;9226;46639.29
+BUYORDER;Market Shortage: (2) Items ;103x240,118x212;726;51166.29
+BUYORDER;Market Shortage: (2) Items ;118x212,120x259;16030;12713.21
+BUYORDER;Market Out of Stock: (3) Items ;103x137,118x136,120x150;8330;49708.85
+ITEM;2066;54;0.94
+ITEM;2271;2;1.05
+ITEM;119;134;1.12
+ITEM;2055;134;1.13
+ITEM;2065;57;1.05
+ITEM;2338;2;1.11
+ITEM;2054;84;1.08
+ITEM;2126;2;0.94
+ITEM;1174;7;0.96
+ITEM;2074;79;1.02
+ITEM;2183;1;1.11
+ITEM;2365;2;1.01
+ITEM;1223;4;1.10
+ITEM;2136;0;0.97
+ITEM;1308;6;1.12
+ITEM;2343;38;1.13
+ITEM;1114;8;0.86
+ITEM;353;4378;0.95
+ITEM;1172;6;1.01
+ITEM;111;106;1.06
+ITEM;2267;0;0.99
+ITEM;2040;45;1.03
+ITEM;2079;60;0.97
+ITEM;1169;3;1.08
+ITEM;2178;1;1.00
+ITEM;1123;7;1.12
+ITEM;2341;0;1.13
+ITEM;2367;31;0.96
+ITEM;2337;2;0.84
+ITEM;1072;8;1.13
+ITEM;2224;2;1.00
+ITEM;1118;6;1.01
+ITEM;2338;1;0.95
+ITEM;2390;1;1.02
+ITEM;2383;2;1.03
+ITEM;1174;8;1.02
+ITEM;2108;574;0.78
+ITEM;1223;32;0.99
+ITEM;2067;72;0.80
+ITEM;2081;54;0.81
+ITEM;2081;57;0.99
+ITEM;2107;1218;0.98
+ITEM;124;136;0.96
+ITEM;1067;9;1.14
+ITEM;1163;9;1.01
+ITEM;1064;7;1.00
+ITEM;1217;2;1.05
+ITEM;2133;1;1.12
+ITEM;2062;75;0.78
+ITEM;2058;73;0.90
+ITEM;1172;3;0.99
+ITEM;2296;2;0.94
+ITEM;1174;5;1.10
+ITEM;2188;28;1.04
+ITEM;2261;2;1.12
+ITEM;2370;2;1.08
+ITEM;2071;78;0.98
+ITEM;2213;1;1.04
+ITEM;2040;52;1.04
+ITEM;2159;0;1.03
+ITEM;10;2748;0.84
+ITEM;2269;24;1.04
+ITEM;1117;0;0.96
+ITEM;2203;2;1.05
+ITEM;1059;18;1.08
+ITEM;2219;0;1.06
+ITEM;1308;39;1.12
+ITEM;2320;32;1.10
+ITEM;2340;2;0.92
+ITEM;2193;2;0.96
+ITEM;1074;3;1.03
+ITEM;2035;107;0.95
+ITEM;2343;1;0.92
+ITEM;2098;1592;1.12
+ITEM;1222;32;1.12
+ITEM;2030;84;1.10
+ITEM;1218;4;0.85
+ITEM;2290;0;1.09
+ITEM;1124;52;1.11
+ITEM;2078;77;1.13
+ITEM;116;182;1.05
+ITEM;2384;41;1.09
+ITEM;116;144;1.13
+ITEM;1163;9;1.15
+ITEM;2048;63;1.02
+ITEM;120;118;0.79
+ITEM;2264;1;1.08
+ITEM;2340;0;1.13
+ITEM;1169;7;1.04
+ITEM;2081;39;1.02
+ITEM;2063;112;0.87
+ITEM;2066;86;0.96
+ITEM;2208;0;0.97
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;11;1.66
+SKILL;23;1.63
+SKILL;73;1.07
+SKILL;3;1.82
+SKILL;31;1.11
+SKILL;36;0.82
+SKILL;61;1.92
+SKILL;229;1.37
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.96;ship_data_(excavation_frigate_1).txt
+SHIP;2;0.91;ship_data_(recon_shuttle_1).txt
+SHIP;3;1.02;ship_data_(battle_cruiser_1).txt
+SHIP;4;0.98;ship_data_(battle_frigate_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

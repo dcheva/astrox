@@ -1,0 +1,144 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Holosynth Industries
+STATION;type;Scientific Analysis Facility
+STATION;owner;Enolindo Yelbo
+STATION;faction;Alpha
+STATION;material;station_material_Alpha.png
+STATION;color;1 , .46, .19, 1
+STATION;level;5
+STATION;icon;ad_image_5.png
+STATION;filename;sector_17_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-4-1-4-6-3-5-0-2-5-3-4-0-4-9-2-2-1-7-5-2-2-90
+STATION;interior_seed;3-1-30-5
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;1.52;npc_ship_data_(recon_escort_1).txt
+MERC;2;1.93;npc_ship_data_(battle_shuttle_1).txt
+MERC;4;1.80;npc_ship_data_(support_shuttle_1).txt
+MERC;3;1.16;npc_ship_data_(battle_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Items Req: (1) Items ;162x265;5891;54192.99
+SELLORDER;Market Stock: (1) Items ;2061x187;31669;57235.19
+BUYORDER;Market Demands: (1) Items ;162x74;2410;55399.39
+BUYORDER;Market Low Inventory: (1) Items ;162x117;4723;75113.29
+
+SELLORDER;Market Inventory: (3) Items ;2045x204,2055x58,2052x171;222714;23231.59
+SELLORDER;Market Goods: (3) Items ;2027x101,2045x45,2052x223;116756;57480.59
+BUYORDER;Market Items Req: (4) Items ;162x90,215x107,2028x84,2034x31;193041;33331.45
+
+BUYORDER;Market Demands: (1) Items ;215x134;5210;68517.45
+BUYORDER;Market Shortage: (2) Items ;162x234,2016x183;24547;84566.45
+BUYORDER;Market Items Req: (4) Items ;162x161,215x67,2034x131,2016x132;218700;34776.03
+
+BUYORDER;Market Shortage: (1) Items ;162x181;4732;11347.80
+BUYORDER;Market Needs Goods: (2) Items ;162x82,2028x127;184174;85146.80
+BUYORDER;Market Needs Goods: (2) Items ;162x61,215x58;4941;30543.90
+BUYORDER;Market Low Inventory: (1) Items ;162x72;2635;11401.91
+ITEM;5;4236;1.05
+ITEM;209;145;1.00
+ITEM;2111;4739;1.01
+ITEM;1103;2;1.11
+ITEM;107;129;0.98
+ITEM;603;9;1.21
+ITEM;1553;5;1.03
+ITEM;661;3;1.09
+ITEM;41;2153;1.04
+ITEM;1105;9;1.06
+ITEM;1202;3;1.00
+ITEM;1581;2;0.96
+ITEM;2302;1;1.09
+ITEM;2305;3;1.11
+ITEM;1205;9;1.12
+ITEM;2115;2927;1.03
+ITEM;1501;5;1.09
+ITEM;1522;0;1.11
+ITEM;522;0;1.14
+ITEM;2225;16;1.18
+ITEM;1552;0;1.05
+ITEM;1201;9;1.14
+ITEM;1653;0;1.09
+ITEM;1503;39;1.03
+ITEM;511;0;1.08
+ITEM;2230;191;1.04
+ITEM;1652;22;1.01
+ITEM;313;4934;1.02
+ITEM;1616;0;0.97
+ITEM;503;6;0.96
+ITEM;522;1;1.07
+ITEM;1060;73;1.10
+ITEM;2206;1;1.06
+ITEM;521;2;1.16
+ITEM;3;2504;1.03
+ITEM;52;1214;1.14
+ITEM;1056;44;1.14
+ITEM;53;4073;1.04
+ITEM;1591;0;1.06
+ITEM;1641;22;1.23
+ITEM;510;0;1.08
+ITEM;2353;20;1.06
+ITEM;2092;3465;1.09
+ITEM;1571;0;1.09
+ITEM;2229;106;0.96
+ITEM;217;90;1.08
+ITEM;2161;1;1.12
+ITEM;2003;118;1.15
+ITEM;218;68;1.15
+ITEM;2206;0;1.20
+ITEM;1512;0;1.02
+ITEM;310;1111;1.12
+ITEM;513;0;1.14
+ITEM;2278;0;1.10
+ITEM;621;8;1.00
+ITEM;1210;4;0.98
+ITEM;1020;10;1.13
+ITEM;2094;1268;0.98
+ITEM;2117;1022;0.97
+ITEM;313;2615;1.03
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;226;1.00
+SKILL;230;0.66
+SKILL;32;1.44
+SKILL;43;1.59
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.06;ship_data_(pirate_carrier_1).txt
+SHIP;2;0.93;ship_data_(support_escort_1).txt
+SHIP;3;0.93;ship_data_(battle_cruiser_1).txt
+SHIP;4;1.05;ship_data_(recon_escort_1).txt
+SHIP;5;0.93;ship_data_(transport_frigate_1).txt
+SHIP;6;0.91;ship_data_(pirate_shuttle_1).txt
+SHIP;7;1.01;ship_data_(support_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

@@ -1,0 +1,3 @@
+//;LOG DATA FILE (Astrox Imperium)
+HIRE;3;Pilot Bueve Ribar;300;Biomate University
+HIRE;4;Pilot Borue Bruwit;200;Transporteers

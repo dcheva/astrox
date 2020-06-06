@@ -1,0 +1,179 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Desban
+STATION;type;Evidence Holding Facility
+STATION;owner;Qajel Fonsalea
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;6
+STATION;icon;desban.png
+STATION;filename;sector_42_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-8-0-3-1-2-3-1-5-2-2-0-90
+STATION;interior_seed;5-9-45-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;0.76;npc_ship_data_(support_utility_1).txt
+MERC;4;1.31;npc_ship_data_(support_carrier_1).txt
+MERC;9;1.43;npc_ship_data_(support_carrier_1).txt
+MERC;1;1.75;npc_ship_data_(excavation_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1582;77;1.09
+ITEM;2281;186;0.98
+ITEM;209;107;0.89
+ITEM;2114;2470;0.94
+ITEM;720;30;1.20
+ITEM;1541;178;1.15
+ITEM;1523;12;1.11
+ITEM;2015;61;1.11
+ITEM;3;3853;1.16
+ITEM;1603;87;1.09
+ITEM;168;138;0.79
+ITEM;1523;4;1.09
+ITEM;1161;28;0.89
+ITEM;1023;24;0.96
+ITEM;2004;181;0.94
+ITEM;502;2;1.00
+ITEM;170;75;1.09
+ITEM;2353;133;0.96
+ITEM;1020;13;1.11
+ITEM;2232;1;0.96
+ITEM;2186;2;0.97
+ITEM;1060;19;0.99
+ITEM;1752;7;1.04
+ITEM;510;42;0.73
+ITEM;512;22;0.95
+ITEM;1591;12;0.98
+ITEM;2119;1624;1.09
+ITEM;1021;5;1.14
+ITEM;2328;48;0.66
+ITEM;1020;13;1.01
+ITEM;1056;55;1.13
+ITEM;63;4027;1.06
+ITEM;2377;1;1.04
+ITEM;642;30;1.13
+ITEM;1522;59;1.26
+ITEM;642;142;0.96
+ITEM;2377;19;0.92
+ITEM;2016;85;1.05
+ITEM;608;103;1.07
+ITEM;1643;9;1.00
+ITEM;1022;5;1.00
+ITEM;2252;1;1.07
+ITEM;2012;84;0.98
+ITEM;2166;49;1.24
+ITEM;661;6;0.96
+ITEM;2176;67;0.94
+ITEM;1017;13;1.11
+ITEM;2206;97;1.02
+ITEM;2330;33;1.02
+ITEM;2305;40;1.04
+ITEM;1065;52;1.01
+ITEM;5;1335;1.02
+ITEM;1013;76;0.93
+ITEM;2089;1438;0.95
+ITEM;2009;52;1.18
+ITEM;1460;80;1.03
+ITEM;2234;29;0.82
+ITEM;642;6;0.95
+ITEM;1161;4;1.02
+ITEM;1581;26;0.99
+ITEM;1203;2;0.89
+ITEM;2304;24;0.96
+ITEM;1103;132;1.06
+ITEM;1019;59;0.99
+ITEM;2216;46;0.97
+ITEM;1532;50;1.12
+ITEM;1060;2;1.05
+ITEM;2006;136;1.01
+ITEM;1101;40;1.09
+ITEM;2252;67;1.07
+ITEM;1009;47;1.12
+ITEM;1401;4;1.21
+ITEM;202;122;1.17
+ITEM;661;22;0.98
+ITEM;209;108;1.06
+ITEM;1061;30;0.86
+ITEM;2132;14;1.04
+ITEM;2250;10;1.02
+ITEM;212;102;1.06
+ITEM;1460;73;1.12
+ITEM;212;116;1.10
+ITEM;2327;1;0.85
+ITEM;2232;37;1.22
+ITEM;1503;162;0.96
+ITEM;2277;151;1.12
+ITEM;42;4148;1.03
+ITEM;1303;8;0.99
+ITEM;2111;1119;1.11
+ITEM;1611;26;0.98
+ITEM;623;78;1.18
+ITEM;2015;162;1.17
+ITEM;661;48;1.08
+ITEM;623;2;0.81
+ITEM;169;145;1.10
+ITEM;1551;40;1.01
+ITEM;1561;171;0.90
+ITEM;2302;126;1.00
+ITEM;61;1219;1.05
+ITEM;1160;72;1.14
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;212;1.96
+SKILL;61;1.92
+SKILL;228;0.94
+SKILL;15;1.02
+SKILL;27;1.86
+SKILL;64;1.97
+SKILL;224;0.53
+SKILL;42;1.27
+SKILL;11;1.49
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;72;180;238501;ESCORT#sector_56_station_1.txt#sector_13_station_0.txt#Commander Nori Biralombid#npc_ship_data_(pirate_utility_2)#14#null#null#null;A ship in ValueStar in Hunu needs an escort to Gemini Mining in Jala;12;After being selected for an academic grant, Dr. Commander Nori Biralombid has requested an escort to the Gemini Mining station in the Jala system. Commander Nori Biralombid has posted his pick-up location as ValueStar in Hunu. Be sure to protect the doctor at all cost, and under no circumstances are you to abandon him.;15991
+MISSION;120;120;389304;CHAT_PILOT#sector_35_station_0.txt#sector_56.txt#Major Lindoas Birama#npc_ship_data_(excavation_carrier_1)#13#missions_debt_collection.txt#0#null;Collect a small debt from Major Lindoas Birama in Hunu and return to Astrox Security Patrol in Felishar;15;Gillased Sowhimes has requested that debt be collected from Major Lindoas Birama. After 3 payments to the Law faction for transport fines, Major Lindoas Birama has refused to make any further payments. Last known sighting of Major Lindoas Birama was in the vicinity of the Hunu system. Have a chat with them, collect the debt, and return to the Astrox Security Patrol in the Felishar system to deliver the payment.;107007
+MISSION;42;120;233646;SCAN_PILOT#sector_0_station_1.txt#sector_3.txt#Captain Cowhea Zacoojag#npc_ship_data_(excavation_frigate_3)#1#null#null#null;Track down and scan Captain Cowhea Zacoojag in Starfort Ramos and return to Lammassu Financial in Void Starcross;1;Science faction has requested that we verify the whereabouts of a Captain Cowhea Zacoojag. After a recent ban order from the high court minister Femole Desbaxul, Starfort Ramos officials are worried that Captain Cowhea Zacoojag might cause problems for the local merchants. Scan Captain Cowhea Zacoojag's ship and return to Lammassu Financial in Void Starcross with the scan record.;41377
+MISSION;110;600;962955;KILL_RAIDERS#sector_56_station_0.txt#sector_15.txt#1#10#npc_ship_data_(pirate_shuttle_1)#npc_ship_data_(recon_escort_1)#npc_ship_data_(support_escort_1)#npc_ship_data_(excavation_escort_1);Hunt 1 level 10 Raider(s) in Jermicus and return to Transporteers in Hunu;1;There has been a small Raider gang hanging around the warp gates in Jermicus. The Science faction has requested a sector clearance contract. Head on over to the Jermicus and clear out the 1, level 10 Raiders that have set up camp there. Dock at the Transporteers station in Hunu when complete.;245166
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.00;ship_data_(excavation_cruiser_1).txt
+SHIP;2;1.03;ship_data_(excavation_frigate_1).txt
+SHIP;3;1.06;ship_data_(pirate_carrier_1).txt
+SHIP;4;0.98;ship_data_(support_utility_1).txt
+SHIP;5;0.92;ship_data_(pirate_utility_1).txt
+SHIP;6;1.06;ship_data_(battle_shuttle_1).txt
+SHIP;7;1.00;ship_data_(support_carrier_1).txt
+SHIP;8;0.91;ship_data_(pirate_escort_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+

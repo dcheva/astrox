@@ -1,0 +1,180 @@
+[s:30][c:yellow]Astrox Security Patrol[/c][/s]
+Headquarters
+Akweliile Kinastop
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 21615.09
+<Station Services>
+[c:lime]SUPPLY[/c]
+Basic ECM Energy Coil
+Basic Mass Reduction
+Improved Explosive Armor
+Premium Thruster
+Advanced Shield Extender
+[c:orange]DEMAND[/c]
+Steelium Beams
+Metal Brackets
+Thermal Insulation
+Reinforced Rubber
+Regulator
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (209) x Thermal Insulation
+ (346) x Regulator
+Fulfill order for [c:lime]7,380[/c]
+[c:green]BUY Order[/c] Market Demands: (4) Items 
+ (287) x Steelium Beams
+ (294) x Metal Brackets
+ (224) x Thermal Insulation
+ (290) x Reinforced Rubber
+Fulfill order for [c:lime]60,014[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (211) x Metal Brackets
+ (150) x Thermal Insulation
+Fulfill order for [c:lime]13,578[/c]
+[c:green]BUY Order[/c] Market Shortage: (4) Items 
+ (186) x Steelium Beams
+ (99) x Metal Brackets
+ (118) x Reinforced Rubber
+ (208) x Regulator
+Fulfill order for [c:lime]31,356[/c]
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (223) x Steelium Beams
+Fulfill order for [c:lime]27,757[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (59) x Steelium Beams
+ (156) x Thermal Insulation
+ (79) x Reinforced Rubber
+Fulfill order for [c:lime]12,406[/c]
+[c:green]BUY Order[/c] Market Items Req: (4) Items 
+ (44) x Steelium Beams
+ (134) x Metal Brackets
+ (34) x Thermal Insulation
+ (90) x Reinforced Rubber
+Fulfill order for [c:lime]14,205[/c]
+[c:green]BUY Order[/c] Market Items Req: (4) Items 
+ (140) x Steelium Beams
+ (73) x Metal Brackets
+ (138) x Reinforced Rubber
+ (24) x Regulator
+Fulfill order for [c:lime]23,450[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (2) Items 
+ (77) x Steelium Beams
+ (25) x Metal Brackets
+Fulfill order for [c:lime]10,772[/c]
+[c:red]SELL Order[/c] Market Items: (1) Items 
+ (65) x Basic Mass Reduction
+Buy items for [c:red]119,432[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (4) Items 
+ (42) x Steelium Beams
+ (77) x Metal Brackets
+ (48) x Thermal Insulation
+ (43) x Reinforced Rubber
+Fulfill order for [c:lime]10,767[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (32) x Steelium Beams
+ (48) x Reinforced Rubber
+Fulfill order for [c:lime]4,813[/c]
+
+
+<Station Market Items>
+(1) x 60mm Auto Cannon Specs
+(45) x Advanced Shield Extender
+(79) x Aeo Particle X1 Beam
+(81) x Aluminium Rivets
+(84) x Assorted Gaskets
+(59) x Basic 20mm x2 Gun Specs
+(3) x Basic Default Tractor Specs
+(1) x Basic Drone Command Bay Specs
+(35) x Basic ECM Energy Coil
+(9) x Basic Energy Armor
+(4) x Basic Energy Capacitor Specs
+(140) x Basic Explosive Armor Specs
+(17) x Basic Filter
+(2) x Basic Heavy Laser Specs
+(1) x Basic Heavy Miner Specs
+(75) x Basic Impact Armor
+(2) x Basic Impact Armor Specs
+(1) x Basic Ion Impact Mod Specs
+(2) x Basic Large Laser Specs
+(1) x Basic Laser Energy Mod Specs
+(52) x Basic Mass Reduction
+(1) x Basic Medium Miner Specs
+(55) x Basic Missile Energy Mod Specs
+(1) x Basic Projectile Impact Mod Specs
+(177) x Basic Scan Booster Specs
+(13) x Basic Scan Emitter
+(1) x Basic Scan Emitter Specs
+(66) x Basic Sensor
+(2) x Basic Shield Booster Specs
+(1) x Basic Shield Booster Specs
+(5) x Basic Shield Generator
+(3) x Basic Small Laser Specs
+(1) x Basic Spotlight Specs
+(77) x Basic Thruster
+(1) x Basic Triple Launcher Specs
+(65) x Battery Core
+(139) x Carbon
+(82) x Carbon Fiber
+(125) x Cat Food
+(100) x Containment Unit
+(5) x Disposables
+(1) x Dual 60mm Cannon Specs
+(57) x Emergency LS Kit
+(4) x Energy Charge
+(157) x Fiber Optic Cables
+(3) x Generic Dual 20mm Gun
+(6) x Generic Dual 60mm Cannon
+(103) x Generic Dual Launcher
+(9) x Generic Light Beam
+(36) x Generic Salvager
+(2) x Generic Small Laser
+(14) x Generic Small Miner
+(1418) x Hydrogen
+(5) x Improved Energy Generator
+(64) x Improved Explosive Armor
+(2) x Improved Scan Booster
+(3) x Improved Shield Extender
+(48) x Improved Thruster
+(5090) x Junk
+(1651) x Junk Flight Module
+(994) x Junk Support Module
+(1619) x Junk Thermal Module
+(1) x Kinetics G-series 20mm Gun
+(55) x Liquid Coolant
+(7468) x Lokken Ore
+(59) x Mechanical Belts
+(43) x Metal Brackets
+(193) x Optical Interface
+(6) x Oro Datacomm Scanner
+(185) x Polymere
+(50) x Premium Thruster
+(98) x Rubber Tubing
+(152) x Small Combat Drone
+(5) x Small Salvage Drone
+(8) x Small Shield Bomb
+(7) x Small Web Field
+(82) x Steelium Pipes
+(9) x Vita Lightblade X1 Laser
+
+
+<Station University Skills>
+Miner Cycle Mechanics
+Ship Gyroscopic Control
+Ship Afterburner Systems
+Ship Shield Regeneration
+Refinery Mechanic

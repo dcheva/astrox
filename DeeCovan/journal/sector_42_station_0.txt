@@ -1,0 +1,40 @@
+[s:30][c:yellow]Desban[/c][/s]
+Evidence Holding Facility
+Qajel Fonsalea
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 21052.17
+<Station Services>
+[c:lime]SUPPLY[/c]
+Basic 60mm
+Kinetic Missile
+Basic Charged Cell
+Basic Torpedo
+Explosive Core Torpedo
+[c:orange]DEMAND[/c]
+Polymere
+Derelict
+Derelict Weapon Module
+Derelict Flight Module
+
+[c:cyan]SERVICES[/c]
+University
+Ship Hangar
+Storage
+Fabricator
+Offices
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Fleet Defensive Flight
+Ship Shield Regeneration
+Fabrication Accountant
+Laser Cycle Mechanics
+Beam Maintenance
+Ship Energy Systems
+Market Distributor
+Miner Advanced Systems
+Laser Basic Operation

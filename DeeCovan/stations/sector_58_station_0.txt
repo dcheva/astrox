@@ -1,0 +1,140 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;CoraVault
+STATION;type;Banking Facility
+STATION;owner;Nexa Mapei
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;3
+STATION;icon;coravault.png
+STATION;filename;sector_58_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-2-0-6-4-3-2-1-6-4-1-3-1-6-5-0-5-0-5-5-1-4-0
+STATION;interior_seed;5-1-45-7
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;False
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;False
+SERVICES;fabricator;False
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Private Party;0.10,0.0;2700;Party;entertain_bar.png;Throw a private party at the local station pub for your entire fleet. 10% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;4;1.06;npc_ship_data_(support_utility_1).txt
+MERC;3;1.54;npc_ship_data_(recon_cruiser_1).txt
+MERC;5;1.85;npc_ship_data_(support_escort_1).txt
+MERC;3;1.62;npc_ship_data_(excavation_utility_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Out of Stock: (3) Items ;119x335,123x180,124x211;18720;56240.59
+BUYORDER;Market Out of Stock: (4) Items ;108x349,119x269,123x335,112x392;23384;74838.59
+BUYORDER;Market Demands: (3) Items ;108x222,119x135,112x344;10544;36143.03
+SELLORDER;Sell Order for: (1) Items ;76x21;768;32541.77
+SELLORDER;Market Inventory: (2) Items ;205x310,206x262;21202;94328.77
+SELLORDER;Market Surplus: (1) Items ;206x121;5810;27184.91
+
+SELLORDER;Market Inventory: (2) Items ;205x167,206x55;9257;15159.45
+BUYORDER;Market Out of Stock: (2) Items ;108x251,124x273;11925;31451.32
+BUYORDER;Market Demands: (4) Items ;108x266,123x184,112x55,124x129;13888;73475.18
+BUYORDER;Market Low Inventory: (2) Items ;123x47,112x236;6170;66277.18
+BUYORDER;Market Items Req: (2) Items ;112x15,124x65;1278;5329.94
+BUYORDER;Market Demands: (2) Items ;108x22,124x69;1887;31616.20
+BUYORDER;Market Demands: (2) Items ;123x41,112x72;2829;56532.20
+ITEM;1454;27;1.02
+ITEM;2088;296;0.99
+ITEM;1401;5;0.99
+ITEM;1152;22;1.08
+ITEM;2216;1;1.17
+ITEM;3;4750;1.07
+ITEM;2155;1;1.02
+ITEM;1522;29;1.13
+ITEM;1590;34;1.24
+ITEM;61;4047;1.18
+ITEM;1450;53;1.02
+ITEM;2376;47;1.03
+ITEM;2253;173;1.07
+ITEM;1592;4;1.25
+ITEM;2211;2;0.98
+ITEM;2165;3;1.03
+ITEM;1051;28;1.00
+ITEM;2372;2;1.14
+ITEM;2002;74;1.11
+ITEM;661;3;0.88
+ITEM;1500;30;1.01
+ITEM;161;88;1.23
+ITEM;500;14;1.00
+ITEM;605;47;1.14
+ITEM;163;96;1.02
+ITEM;313;768;1.06
+ITEM;1155;47;1.02
+ITEM;2352;75;1.05
+ITEM;105;112;1.14
+ITEM;602;2;0.98
+ITEM;2349;65;0.95
+ITEM;213;58;1.05
+ITEM;1455;53;1.06
+ITEM;2377;2;1.08
+ITEM;606;167;1.02
+ITEM;2215;34;1.06
+ITEM;167;92;1.10
+ITEM;2331;35;1.00
+ITEM;2003;116;1.14
+ITEM;156;144;0.88
+ITEM;1452;88;1.01
+ITEM;167;121;0.99
+ITEM;163;118;1.14
+ITEM;2273;1;0.95
+ITEM;2376;27;1.02
+ITEM;167;153;1.06
+ITEM;2132;47;1.05
+ITEM;1452;187;1.00
+ITEM;207;106;1.08
+ITEM;2328;5;0.99
+ITEM;2156;44;0.91
+ITEM;1630;89;1.06
+ITEM;2155;1;0.92
+ITEM;300;2039;0.97
+ITEM;152;59;1.11
+ITEM;160;114;1.14
+ITEM;2354;39;0.84
+ITEM;1007;29;1.01
+ITEM;2280;2;0.99
+ITEM;1571;9;1.13
+ITEM;2328;2;1.24
+ITEM;202;95;0.98
+ITEM;2200;53;0.98
+ITEM;1631;9;1.01
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;32;1.07
+SKILL;223;0.58
+SKILL;43;1.21
+SKILL;15;1.18
+SKILL;32;1.28
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.01;ship_data_(pirate_frigate_1).txt
+SHIP;2;1.05;ship_data_(recon_escort_1).txt
+SHIP;3;0.99;ship_data_(pirate_cruiser_1).txt
+SHIP;4;1.01;ship_data_(battle_frigate_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

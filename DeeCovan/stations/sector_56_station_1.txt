@@ -1,0 +1,148 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;ValueStar
+STATION;type;Trade Floor Facility
+STATION;owner;Binofesiv Sedkeesed
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;8
+STATION;icon;valuestar.png
+STATION;filename;sector_56_station_1.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-7-1-3-9-3-8-0-7-7-3-6-0-6-7-1-5-1-6-5-1-0-0
+STATION;interior_seed;5-0-15-1
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;False
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;8;0.60;npc_ship_data_(excavation_shuttle_1).txt
+MERC;3;1.84;npc_ship_data_(pirate_escort_1).txt
+MERC;3;1.34;npc_ship_data_(pirate_shuttle_1).txt
+MERC;6;0.72;npc_ship_data_(pirate_shuttle_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Items Req: (1) Items ;167x147;6661;77695.13
+BUYORDER;Market Low Inventory: (3) Items ;200x351,201x300,206x63;60638;100552.90
+SELLORDER;Market Surplus: (1) Items ;166x185;1097.00;89107.59
+SELLORDER;Market Supply: (2) Items ;208x51,209x269;6010.00;80372.95
+BUYORDER;Market Items Req: (2) Items ;167x35,201x275;18984.00;37344.25
+SELLORDER;Market Production: (3) Items ;168x160,208x75,209x88;5794.00;48454.14
+BUYORDER;Market Demands: (3) Items ;167x217,201x110,206x168;33474.00;61115.32
+BUYORDER;Market Demands: (1) Items ;201x249;34097.00;82166.18
+BUYORDER;Market Shortage: (1) Items ;201x47;4855.00;52292.18
+BUYORDER;Market Shortage: (2) Items ;200x90,206x57;15708.00;15272.20
+BUYORDER;Market Out of Stock: (2) Items ;167x95,200x71;12755.00;79707.91
+ITEM;641;8;2.50
+ITEM;167;0;2.50
+ITEM;169;82;2.50
+ITEM;40;119;1.09
+ITEM;2150;1;2.50
+ITEM;2155;2;2.50
+ITEM;2237;1;2.50
+ITEM;2273;1;2.50
+ITEM;1640;5;2.50
+ITEM;2175;2;2.50
+ITEM;2220;1;2.50
+ITEM;2301;1;2.50
+ITEM;2229;2;2.50
+ITEM;2230;1;2.50
+ITEM;2347;1;2.50
+ITEM;2349;2;2.50
+ITEM;201;0;2.50
+ITEM;2398;2;2.50
+ITEM;2165;2;2.50
+ITEM;1550;4;2.50
+ITEM;1560;7;2.50
+ITEM;1610;8;2.50
+ITEM;1500;13;2.50
+ITEM;2399;2;2.50
+ITEM;2274;2;2.50
+ITEM;2373;1;2.50
+ITEM;208;126;1.43
+ITEM;205;84;2.50
+ITEM;168;135;1.43
+ITEM;606;5;2.50
+ITEM;200;0;2.50
+ITEM;301;3307;2.50
+ITEM;661;3;2.50
+ITEM;660;3;2.50
+ITEM;2246;1;2.50
+ITEM;303;7297;2.50
+ITEM;2244;3;2.50
+ITEM;1451;7;2.50
+ITEM;1150;13;2.50
+ITEM;1100;2;1.05
+ITEM;1101;3;2.50
+ITEM;1641;8;2.50
+ITEM;1571;3;2.50
+ITEM;1581;12;2.50
+ITEM;1601;6;2.50
+ITEM;1205;9;2.50
+ITEM;20;518;2.50
+ITEM;76;542;2.50
+ITEM;1007;3;2.50
+ITEM;209;124;1.47
+ITEM;305;2147;2.50
+ITEM;166;248;1.52
+ITEM;160;78;2.50
+ITEM;161;83;2.50
+ITEM;206;0;2.50
+ITEM;78;510;2.50
+ITEM;164;131;2.50
+ITEM;723;7;2.50
+ITEM;700;5;2.50
+ITEM;710;4;2.50
+ITEM;100;334;2.50
+ITEM;2022;1;0.15
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;16;0.55
+SKILL;226;0.72
+SKILL;213;1.24
+SKILL;225;1.32
+SKILL;16;1.12
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;31;240;881725;TRANSPORT#6#1770#sector_1_station_0.txt#sector_56_station_0.txt#null#null#null#null;Head to Quantex in Dellis Primeria, pick up 6 Basic ECM Energy Coil(s) for a light shipment to Transporteers in Hunu;0;The Alpha faction advisor Fonal Lessi has placed a light shipment transport order to move 6 Basic ECM Energy Coil(s) from the Quantex storage in Dellis Primeria, to the Transporteers in Hunu.;17859
+MISSION;60;140;254523;HARVEST#52#2#sector_40.txt#sector_0_station_0.txt#null#null#null#null;Harvest special Gradeon Ore in Dogstar Prime and return with 52 ore to Biomate University in Void Starcross;0;A local prospector, Sihbem Tajbunbru of the Alpha faction has located a light quantity of special Gradeon Ore in the Dogstar Prime sector. Head over there and harvest all of the special Gradeon Ore, and meet Sihbem Tajbunbru back at Biomate University station located in the Void Starcross.;30621
+MISSION;40;120;661137;SCAN_PILOT#sector_77_station_0.txt#sector_40.txt#Foreman Ninetel Fallxi#npc_ship_data_(battle_escort_2)#7#null#null#null;Locate and scan Foreman Ninetel Fallxi in Dogstar Prime and return to Lacuna Bandits in Ballast Crow;3;Bemast Sippi has requested a location verification on a recent employee. Foreman Ninetel Fallxi is supposed to be running a survey in Dogstar Prime. Please verify the location of this pilot by scanning their ship and return to Lacuna Bandits in Ballast Crow.;27434
+MISSION;121;120;948069;CHAT_PILOT#sector_16_station_0.txt#sector_3.txt#Officer Yandie Bidtaf#npc_ship_data_(transport_cruiser_1)#16#missions_debt_collection.txt#0#null;Chat with Officer Yandie Bidtaf about his debt in Starfort Ramos and return to Rendo Labs in Entropy;11;Weligot Maar has requested that debt be collected from Officer Yandie Bidtaf. After 3 payments to the Orthodox faction for transport fines, Officer Yandie Bidtaf has refused to make any further payments. Last known sighting of Officer Yandie Bidtaf was in the vicinity of the Starfort Ramos system. Have a chat with them, collect the debt, and return to the Rendo Labs in the Entropy system to deliver the payment.;312488
+MISSION;50;120;920094;SCAN_STRUCTURE#sector_14_station_1.txt#sector_77.txt#Small Mining Silo#structure_silo_1.txt#1#null#null#null;Locate and scan the Small Mining Silo structure in Ballast Crow and return to Horizons in Gate of Alpharis;0;A recent construction permit was delivered by the Alpha faction. They are demanding a survey of a new structure that has been constructed by Qacor Barnine. Scan the Small Mining Silo structure and return back to the Horizons located in the Gate of Alpharis with the survey data. Once the data is verified, payment will be rendered.;36259
+MISSION;30;240;992798;TRANSPORT#2#1213#sector_0_station_3.txt#sector_0_station_4.txt#null#null#null#null;Transport a light shipment of 2 SBC LA1 Harvester(s) from StarShepards Headquarters in Void Starcross to Starbase Corporate Center in Void Starcross;10;Transport manager Whiei Bidfeisaw has requested a transport of a light shipment of 2 SBC LA1 Harvester(s). They need to be picked up at the storage facility at StarShepards Headquarters in Void Starcross, and transported to Starbase Corporate Center in Void Starcross. Whiei Bidfeisaw will be waiting at Starbase Corporate Center to receive the shipment. ;18397
+MISSION;50;120;422061;SCAN_STRUCTURE#sector_40_station_0.txt#sector_46.txt#Public Energy Generator#structure_energy_gen_1.txt#1#null#null#null;Locate and scan the Public Energy Generator structure in Jonijo Lexa and return to Legistron in Dogstar Prime;12;A recent construction permit was delivered by the Labor faction. They are demanding a survey of a new structure that has been constructed by Fastdale Jelgaledie. Scan the Public Energy Generator structure and return back to the Legistron located in the Dogstar Prime with the survey data. Once the data is verified, payment will be rendered.;32024
+MISSION;32;240;854323;TRANSPORT#54#2044#sector_56_station_1.txt#sector_42_station_0.txt#null#null#null#null;Move light cargo from ValueStar in Hunu and dock with 54 Hydraulic Assembly(s) at Desban in Ellisar;17;Horeak Veda was unable to complete a large shipment from ValueStar to Desban. A light shipment containing 54 Hydraulic Assembly(s) is located at the storage bay at ValueStar in Hunu. Retrieve the Hydraulic Assembly(s) and transport them to Desban in Ellisar.;54292
+MISSION;40;120;437173;SCAN_PILOT#sector_0_station_0.txt#sector_1.txt#Privateer Birasiv Sipri#npc_ship_data_(pirate_utility_3)#15#null#null#null;Locate and scan Privateer Birasiv Sipri in Dellis Primeria and return to Biomate University in Void Starcross;16;Xenbast Fesedcor has requested a location verification on a recent employee. Privateer Birasiv Sipri is supposed to be running a survey in Dellis Primeria. Please verify the location of this pilot by scanning their ship and return to Biomate University in Void Starcross.;10448
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.02;ship_data_(battle_utility_1).txt
+SHIP;2;1.02;ship_data_(recon_shuttle_1).txt
+SHIP;3;1.04;ship_data_(pirate_frigate_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+
+
+

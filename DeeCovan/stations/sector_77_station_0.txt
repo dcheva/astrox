@@ -1,0 +1,137 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Lacuna Bandits
+STATION;type;Entertainment Hub
+STATION;owner;Kilekom Anfer
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;4
+STATION;icon;lacuna.png
+STATION;filename;sector_77_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-6-1-7-7-3-3-1-1-0-2-6-0-3-3-2-1-90
+STATION;interior_seed;5-8-45-6
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;True
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Live Music Concert;0.20,0.07;25000;Musical Entertainment;entertain_show.png;Your crew is treated to an 'all expenses paid' night at a music venue of their choosing. 20% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;9;1.03;npc_ship_data_(pirate_escort_1).txt
+MERC;9;1.56;npc_ship_data_(transport_escort_1).txt
+MERC;7;1.94;npc_ship_data_(recon_cruiser_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+BUYORDER;Market Shortage: (1) Items ;203x231;16019;37103.59
+BUYORDER;Market Shortage: (1) Items ;208x287;29925;98939.59
+BUYORDER;Market Low Inventory: (2) Items ;203x369,208x195;55200;65638.50
+BUYORDER;Market Shortage: (3) Items ;203x159,208x337,209x250;48790;86050.77
+
+SELLORDER;Market Surplus: (1) Items ;2067x141;73803;60770.19
+BUYORDER;Purchase Order for: (3) Items ;1305x3,1476x4,1460x4;39345.00;76852.59
+BUYORDER;Market Demands: (1) Items ;203x85;5098.00;17650.91
+BUYORDER;Market Items Req: (1) Items ;203x231;13518.00;30839.95
+BUYORDER;Market Shortage: (1) Items ;203x117;7392.00;74941.95
+ITEM;1;3577;2.50
+ITEM;641;5;2.50
+ITEM;167;97;2.50
+ITEM;500;4;2.50
+ITEM;2205;1;2.50
+ITEM;1570;10;2.50
+ITEM;1510;24;2.25
+ITEM;1630;15;2.50
+ITEM;2374;2;2.25
+ITEM;2231;2;2.50
+ITEM;2350;1;2.50
+ITEM;2230;1;2.50
+ITEM;2228;45;2.25
+ITEM;2347;1;2.50
+ITEM;60;3881;2.50
+ITEM;2225;1;2.50
+ITEM;2387;35;2.25
+ITEM;1615;19;2.25
+ITEM;2398;2;2.50
+ITEM;2348;1;2.50
+ITEM;1500;45;2.25
+ITEM;1590;34;2.25
+ITEM;2185;2;2.25
+ITEM;208;163;2.25
+ITEM;168;80;2.25
+ITEM;693;7;2.50
+ITEM;692;9;2.50
+ITEM;77;1862;2.50
+ITEM;2121;3446;2.50
+ITEM;1455;5;2.50
+ITEM;1300;4;2.25
+ITEM;1005;13;2.25
+ITEM;1150;2;2.50
+ITEM;1200;35;2.25
+ITEM;1470;17;2.25
+ITEM;2067;63;1.05
+ITEM;1531;9;2.50
+ITEM;1641;35;2.25
+ITEM;1541;14;2.50
+ITEM;1616;51;2.25
+ITEM;1601;39;2.25
+ITEM;1591;40;2.25
+ITEM;1012;9;2.50
+ITEM;2089;3072;2.50
+ITEM;209;8;2.50
+ITEM;203;145;2.25
+ITEM;161;52;2.50
+ITEM;601;8;2.50
+ITEM;607;7;2.50
+ITEM;600;3;2.25
+ITEM;722;48;2.25
+ITEM;162;132;2.25
+ITEM;1105;5;2.50
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;58;0.52
+SKILL;41;1.17
+SKILL;44;1.75
+SKILL;230;0.97
+SKILL;33;1.20
+SKILL;24;1.62
+SKILL;56;0.90
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;120;120;710295;CHAT_PILOT#sector_14_station_1.txt#sector_16.txt#Govenor Doexad Zarib#npc_ship_data_(support_frigate_1)#3#missions_debt_collection.txt#0#null;Collect a small debt from Govenor Doexad Zarib in Entropy and return to Horizons in Gate of Alpharis;9;Bidwe Bacfar has requested that debt be collected from Govenor Doexad Zarib. After 3 payments to the Temple faction for transport fines, Govenor Doexad Zarib has refused to make any further payments. Last known sighting of Govenor Doexad Zarib was in the vicinity of the Entropy system. Have a chat with them, collect the debt, and return to the Horizons in the Gate of Alpharis system to deliver the payment.;117136
+MISSION;120;120;292172;CHAT_PILOT#sector_0_station_1.txt#sector_3.txt#Fabricator Sersed Focoils#npc_ship_data_(transport_frigate_2)#2#missions_debt_collection.txt#0#null;Collect a small debt from Fabricator Sersed Focoils in Starfort Ramos and return to Lammassu Financial in Void Starcross;2;Vajcae Johgobun has requested that debt be collected from Fabricator Sersed Focoils. After 3 payments to the Civil faction for transport fines, Fabricator Sersed Focoils has refused to make any further payments. Last known sighting of Fabricator Sersed Focoils was in the vicinity of the Starfort Ramos system. Have a chat with them, collect the debt, and return to the Lammassu Financial in the Void Starcross system to deliver the payment.;100832
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.9027239;ship_data_(excavation_escort_1_startship).txt
+SHIP;1;0.99;ship_data_(excavation_cruiser_1).txt
+SHIP;2;0.92;ship_data_(battle_cruiser_1).txt
+SHIP;3;1.07;ship_data_(excavation_cruiser_1).txt
+SHIP;4;0.95;ship_data_(recon_carrier_1).txt
+SHIP;5;0.93;ship_data_(battle_cruiser_1).txt
+SHIP;6;0.95;ship_data_(transport_cruiser_1).txt
+SHIP;7;1.09;ship_data_(support_utility_1).txt
+SHIP;8;1.07;ship_data_(excavation_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

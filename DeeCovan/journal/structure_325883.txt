@@ -1,0 +1,28 @@
+scan_title;Small Laser Platform 198174
+scan_image;structure_gun_1.png
+scan_sector;Ballast Crow
+<color='cyan'>OVERVIEW</color>
+The Small Laser Platform is a defensive structure capable of holding 2 laser modules. These structures are specifically designed to deliver automated defensive firepower to raiders and enemies of the operator that owns it.
+
+Timestamp: 4278.094
+<color='cyan'>DETAILS</color>
+Level: 1
+Type: Defensive Platform
+Class: Combat
+Current HP: 10000
+Max HP: 10000
+AOE Effect: none
+AOE Range: 500
+AOE Value: 0
+<color='cyan'>OWNER</color>
+Telyoupea Akpi
+Faction: Enforcement
+Mission Obj: True
+
+<color='cyan'>LOCATION</color>
+x:-1232
+y:-1996
+z:3749
+<color='cyan'>OPERATION: </color> True
+Charge: 0 Drain: 2.5
+Power: 742 of 1,000

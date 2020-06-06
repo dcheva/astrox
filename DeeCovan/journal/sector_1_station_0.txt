@@ -1,0 +1,41 @@
+[s:30][c:yellow]Quantex[/c][/s]
+Production Factory
+Binohom Xadnortisfall
+Labor
+[c:lime]Dock fee 100[/c]
+Timestamp: 6613.22
+<Station Services>
+[c:lime]SUPPLY[/c]
+Nitrogen
+Oxygen
+Water
+Carbon
+Hydrogen
+[c:orange]DEMAND[/c]
+Acidic Residue
+Aluminium Shard
+Bio Carbon
+Calciate Residue
+Calcium
+Carbon
+Ceramic
+
+[c:cyan]SERVICES[/c]
+Refinery
+University
+Ship Hangar
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Launcher Damage Calibration
+Ship Shield Regeneration
+Projectile Cycle Mechanics
+Ship Cargo Stacker
+Salvager Basic Operation
+Market Auditor

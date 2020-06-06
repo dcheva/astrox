@@ -1,0 +1,41 @@
+[s:30][c:yellow]Blargg's[/c][/s]
+Patrol Annex Station
+Eligentis Faruk
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 21323.73
+<Station Services>
+[c:lime]SUPPLY[/c]
+Premium Afterburner
+Utility Salvager
+Generic Large Beam
+Basic Engine Core
+Prototype Energy Capacitor
+[c:orange]DEMAND[/c]
+Basic ECM Energy Coil
+Basic Mass Reduction
+Improved Explosive Armor
+Premium Thruster
+Advanced Shield Extender
+
+[c:cyan]SERVICES[/c]
+Ship Garage
+University
+Storage
+Fabricator
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Fleet Defensive Flight
+Module Mechanic
+Market Distributor
+Refinery Warehouse Management
+Ship Advanced Targeting Systems
+Fabrication Accountant
+Miner Basic Operation
+Miner Focal Range
+Salvager Energy Optimization
+Fabrication Engineer

@@ -1,0 +1,103 @@
+// SECTOR;Variable;Value
+SECTOR;id;83
+SECTOR;name;Kolkax Prime
+SECTOR;level;4.0
+SECTOR;faction;Pirate
+SECTOR;filename;sector_83.txt
+SECTOR;is_explored;False
+SECTOR;energy;20
+SECTOR;population;20
+SECTOR;habitation;20
+SECTOR;farming;20
+SECTOR;economy;20
+SECTOR;production;20
+SECTOR;defense;20
+SECTOR;environment;20
+
+// SECTORXYZ;Variable;Value
+SECTORXYZ;location;1914.80;-1108.52;256.66
+
+// FOG;Variable;Value
+FOG;foggy;True
+FOG;distance;0.00239845
+FOG;alpha;0.2724332
+FOG;color_1;0.32;0.24;0.16;0.42
+FOG;color_2;0.39;0.40;0.36;1.00
+
+// NEBULA;Variable;Cloud id;Red;Green;Blue;Alpha;Size;Rotation
+NEBULA;cloud_1;3;0.77;0.71;0.43;0.89;50000;3
+NEBULA;cloud_2;3;0.94;0.60;0.00;0.94;50000;1
+NEBULA;cloud_3;3;1.00;0.37;0.21;1.00;50000;2
+NEBULA;cloud_4;4;1.00;1.00;0.27;0.00;50000;5
+NEBULA;cloud_5;5;0.62;0.00;0.67;0.17;50000;5
+NEBULA;cloud_6;6;0.00;0.00;0.00;0.00;50000;5
+NEBULA;cloud_7;7;0.00;0.21;0.18;0.50;50000;5
+NEBULA;cloud_8;8;0.43;0.69;0.91;0.00;50000;0
+NEBULA;cloud_9;9;0.94;0.55;0.30;0.00;50000;4
+NEBULA;cloud_10;10;1.00;0.86;1.00;0.00;50000;2
+NEBULA;cloud_11;11;0.13;0.43;0.76;0.00;50000;3
+NEBULA;cloud_12;12;1.00;1.00;0.98;0.03;50000;5
+
+// LIGHT;Variable;Red;Green;Blue;Alpha
+LIGHT;light_t;0.42;0.68;0.76;0.00
+LIGHT;light_b;0.57;0.46;0.27;0.00
+LIGHT;light_s;0.25;0.49;0.60;0.55
+
+// STAR;Variable;Star id;X position;Y position;Z position;
+STAR;object;1;0;0;60000;35.0;75000
+
+// LIFESUPPORT;type;value
+LIFESUPPORT;food;1.35
+LIFESUPPORT;water;1.3244074
+LIFESUPPORT;thermal;1.65
+LIFESUPPORT;waste;1.4698167
+
+// STARLIGHT;Variable;Red;Green;Blue;Alpha
+STARLIGHT;color_1;0.8;0.11;0.12;0.20;
+STARLIGHT;color_2;0.7;0.28;0.12;0.1;
+STARLIGHT;color_3;0.9;0.14;0.12;1.00;
+STARLIGHT;color_4;0.2;0.15;0.0;0.00;
+STARLIGHT;color_5;0.0;0.10;0.0;0.00;
+
+// STATION;Sector filename;X poisition;Y position;Z position
+STATION;sector_83_station_0.txt;2925.3;-96.2;-2202.9
+
+// STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_habitat_1.txt;1635.1;-308.4;-438.7
+STRUCTURE;structure_energy_gen_1.txt;1126.9;-613.2;181.5
+STRUCTURE;structure_recon_1.txt;-1602.5;318.2;950.4
+STRUCTURE;structure_medical_1.txt;726.7;-214.8;57.0
+STRUCTURE;structure_gun_platform_1.txt;1684.8;-162.9;547.0
+
+// CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
+CLUSTER;1;50;10;250;3000;-1706.2;473.8;-936.5;
+
+// RESOURCE;Resource id;X position;Y position;Z position;Max value;Current value
+RESOURCE;1;-2662.9;-396.9;-420.0;1000.0;1000.0
+RESOURCE;1;-1670.2;-238.6;945.7;1000.0;1000.0
+RESOURCE;1;-345.5;755.0;-739.7;1000.0;1000.0
+RESOURCE;1;-6759.3;-36.8;-7384.0;1000.0;1000.0
+RESOURCE;1;-1706.2;473.8;-936.5;1000.0;1000.0
+RESOURCE;1;-2720.7;502.2;-119.9;1000.0;1000.0
+RESOURCE;1;574.2;386.8;-931.0;1000;1000;
+
+// WARPGATE;Warpgate id ;Sector filename ; Exit Warpgate id;X position ;Y position ;Z position;Toll ;Faction ;Rotation;
+WARPGATE;1;sector_82.txt;2;2661.2;-302.3;54.1;0;Pirate;-0.9
+WARPGATE;2;sector_84.txt;1;-4879.1;-26.7;-2466.6;0;Pirate;0.6
+WARPGATE;3;sector_86.txt;1;-825.4;-495.2;-3913.2;0;Pirate;0.1
+
+// PROPS;Prefab Id;Xpos;Ypos;Zpos;Xrot;Yrot;Zrot;Value 1
+//PROP;0;0;0;0;0;0;0;lightning 1
+PROP;19;0;0;0;0;0;0;0.45,0.12,0.10,0.18;//fog
+PROP;43;0;0;60000;10;0;0;rocks
+
+// NPC_SHIP;ship_filename;xpos;ypos;zpos;faction_id;level
+NPC_SHIP;npc_ship_data_(excavation_escort_1);-194.49;-975.65;-318.06;14;7
+NPC_SHIP;npc_ship_data_(battle_cruiser_1);-1018.59;732.38;-288.36;4;10
+NPC_SHIP;npc_ship_data_(support_utility_1);520.31;871.92;-869.80;5;10
+NPC_SHIP;npc_ship_data_(transport_utility_1);215.59;569.81;-1251.65;1;9
+NPC_SHIP;npc_ship_data_(excavation_cruiser_1);-1289.83;97.54;585.83;3;5
+NPC_SHIP;npc_ship_data_(pirate_cruiser_1);1122.71;68.47;-321.34;15;9
+NPC_SHIP;npc_ship_data_(excavation_utility_1);-623.80;-205.38;-28.33;14;10
+NPC_SHIP;npc_ship_data_(support_shuttle_1);272.73;1175.99;544.31;8;10
+

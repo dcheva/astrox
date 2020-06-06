@@ -1,0 +1,185 @@
+[s:30][c:yellow]Lammassu Financial[/c][/s]
+Market Center
+Jelegus
+Trade
+[c:lime]Dock fee 25[/c]
+Timestamp: 16798.64
+<Station Services>
+[c:lime]SUPPLY[/c]
+Textile Fabrics
+Sporting Equipment
+Wine
+Storage Tank
+Aluminim Plates
+[c:orange]DEMAND[/c]
+Basic Food Rations
+Office Supplies
+Hydraulic Assembly
+AI Interface Drive
+Keypad
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Demands: (1) Items 
+ (164) x Hydraulic Assembly
+Fulfill order for [c:lime]44,925[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (133) x Basic Food Rations
+ (203) x Office Supplies
+ (192) x Keypad
+Fulfill order for [c:lime]20,635[/c]
+[c:red]SELL Order[/c] Market Items: (2) Items 
+ (117) x Wine
+ (216) x Aluminim Plates
+Buy items for [c:red]32,468[/c]
+[c:red]SELL Order[/c] Market Goods: (2) Items 
+ (146) x Textile Fabrics
+ (171) x Sporting Equipment
+Buy items for [c:red]27,377[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (35) x Hydraulic Assembly
+Fulfill order for [c:lime]9,588[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (3) Items 
+ (97) x Office Supplies
+ (113) x Hydraulic Assembly
+ (53) x Keypad
+Fulfill order for [c:lime]34,485[/c]
+[c:green]BUY Order[/c] Market Items Req: (3) Items 
+ (89) x Basic Food Rations
+ (112) x Office Supplies
+ (159) x Keypad
+Fulfill order for [c:lime]13,655[/c]
+[c:red]SELL Order[/c] Market Supply: (3) Items 
+ (20) x Textile Fabrics
+ (59) x Sporting Equipment
+ (50) x Aluminim Plates
+Buy items for [c:red]10,985[/c]
+
+
+<Station Market Items>
+(6) x Advanced Afterburner
+(6) x Advanced Cargo Expansion
+(28) x Advanced Energy Armor
+(26) x Advanced Filter
+(34) x Advanced Mass Reduction
+(32) x Advanced Scan Emitter
+(9) x Advanced Shield Extender
+(9) x Advanced Shield Generator
+(14) x Advanced Thruster
+(284) x Advanced Warp Drive Fuel
+(19) x Advanced Warp Drive Fuel Specs
+(9) x Aeo Particle X1 Beam
+(52) x Aluminim Plates
+(62) x Aluminium Rivets Specs
+(97) x Assorted Gaskets
+(5) x Assorted Springs Specs
+(50) x Ball Bearings Specs
+(5213) x Basic 20mm
+(9) x Basic Cargo Expansion
+(3231) x Basic Charged Cell
+(45) x Basic Energy Armor
+(2) x Basic Energy Generator
+(3) x Basic Engine Core
+(3) x Basic Filter
+(1322) x Basic Food Rations
+(3) x Basic Mass Reduction
+(4643) x Basic Missile
+(5) x Basic Shield Extender
+(117) x Basic Targeting System
+(8) x Basic Thruster
+(13) x Basic Turn Thrust
+(296) x Basic Warp Drive Fuel
+(10) x Basic Warp Drive Fuel Specs
+(78) x Capacitors
+(8) x Carbon Fiber Specs
+(4399) x Cleaning Chemicals
+(3313) x Colored Dye
+(57) x Containment Unit
+(1049) x Explosive 20mm
+(2368) x Explosive 60mm
+(48) x Explosive Missile Specs
+(49) x Generic Default Tractor
+(5) x Generic Gatling 20mm Gun
+(4) x Generic Light Beam
+(8) x Generic Light Laser
+(2) x Generic Single Launcher
+(26) x Generic Small Miner
+(44) x Generic Triple Launcher
+(2) x Ham Sandwich
+(182) x Hydrogen
+(15) x Improved Cargo Expansion
+(49) x Improved Energy Armor
+(3) x Improved Explosive Armor
+(48) x Improved Mass Reduction
+(5) x Improved Scan Booster
+(3) x Improved Scan Emitter
+(59) x Improved Shield Extender
+(9) x Improved Thruster
+(9) x Improved Turn Thrust
+(296) x Improved Warp Drive Fuel
+(52) x Improved Warp Drive Fuel Specs
+(31) x Industrial Salvager
+(5) x Inovex Single Launcher
+(315) x Iron Coring
+(9) x Janca Default Tractor
+(7) x Janca Z1 OreVac
+(4245) x Junk
+(6483) x Kinetic 20mm
+(4240) x Kinetic Missile
+(3) x Kinetics G-series 20mm Gun
+(41) x Kinetics M-series x1 Launcher
+(3778) x Kitchen Appliances
+(120) x Lubricant
+(37) x Mechanical Belts Specs
+(193) x Mechanical Switch
+(73) x Metal Brackets
+(45) x Metal Gears Specs
+(47) x Metal Valve Specs
+(86) x Nuts And Bolts
+(139) x Oxygen
+(5) x Plastic Caps Specs
+(95) x Protein Bar
+(36) x Protonic Light Laser
+(4122) x Quazor Ore
+(21) x Reinforced Rubber Specs
+(189) x Rubber Tubing
+(34) x SBC LI1 Harvester
+(1919) x Scrap
+(40) x Sporting Equipment
+(65) x Steelium Beams
+(35) x Storage Tank
+(26) x Temperature Genie
+(35) x Textile Fabrics
+(8) x Thermal Controller
+(5) x Thermal Insulation Specs
+(82) x Utility Salvager
+(2) x Vita Lightblade X1 Laser
+(60) x Vita Lightblade X2 Laser
+(3243) x Whiskey
+(2887) x Wine
+
+
+<Station University Skills>
+Market Auditor
+Market Distributor
+Merc Negotiations
+Merc Prospector
+Storage Accountant
+University Discount
+Refinery Accountant
+Max Mission Contracts
+Mission Negotiations
+Ship Engine Burner
+Tractor Energy Optimization
+Tractor Maintenance

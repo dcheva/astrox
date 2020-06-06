@@ -1,0 +1,112 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;SimKitten
+STATION;type;Tavern Station
+STATION;owner;Bruwhikadd Xenbue
+STATION;faction;Pirate
+STATION;material;station_material_Pirate.png
+STATION;color;1 , .1 , .1 , 1
+STATION;level;4
+STATION;icon;simkitten.png
+STATION;filename;sector_83_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-0-0-6-9-1-2-1-7-9-0-9-0-6-4-1-9-90
+STATION;interior_seed;4-1-30-1
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;False
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;7;1.47;npc_ship_data_(battle_shuttle_1).txt
+MERC;7;1.08;npc_ship_data_(battle_cruiser_1).txt
+MERC;4;1.90;npc_ship_data_(transport_cruiser_1).txt
+MERC;9;1.36;npc_ship_data_(recon_cruiser_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;2390;49;1.11
+ITEM;1552;19;1.07
+ITEM;1632;5;1.07
+ITEM;2285;1;0.96
+ITEM;1563;7;1.08
+ITEM;1618;14;1.00
+ITEM;1156;3;0.96
+ITEM;2305;45;1.05
+ITEM;1754;41;1.09
+ITEM;1207;5;1.01
+ITEM;2306;2;1.15
+ITEM;43;289;1.01
+ITEM;1563;7;1.07
+ITEM;2390;18;1.10
+ITEM;1512;6;1.09
+ITEM;1572;2;1.10
+ITEM;2333;2;1.03
+ITEM;310;3005;1.06
+ITEM;2058;81;1.09
+ITEM;2028;61;0.99
+ITEM;523;1;1.06
+ITEM;1502;37;1.03
+ITEM;1594;9;1.10
+ITEM;1102;6;1.03
+ITEM;2010;52;0.99
+ITEM;1553;6;1.15
+ITEM;2094;4655;1.13
+ITEM;1403;28;1.02
+ITEM;2116;1489;0.99
+ITEM;2146;2;0.97
+ITEM;1642;5;0.99
+ITEM;2360;1;1.10
+ITEM;52;2032;1.04
+ITEM;712;40;1.04
+ITEM;1700;49;1.14
+ITEM;2310;2;0.97
+ITEM;2307;1;1.15
+ITEM;1103;5;0.98
+ITEM;1207;6;1.03
+ITEM;2338;35;1.01
+ITEM;2256;2;1.11
+ITEM;2187;18;0.96
+ITEM;2280;1;1.00
+ITEM;1310;7;1.02
+ITEM;513;1;1.05
+ITEM;10;4325;1.14
+ITEM;2117;2525;1.12
+ITEM;1753;5;1.05
+ITEM;1307;42;1.10
+ITEM;2115;1626;1.08
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;25;1.80
+SKILL;212;0.97
+SKILL;211;1.03
+SKILL;3;1.59
+SKILL;27;1.68
+SKILL;58;1.56
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1;ship_data_(support_escort_3).txt
+SHIP;1;0.99;ship_data_(recon_carrier_1).txt
+SHIP;2;1.08;ship_data_(excavation_cruiser_1).txt
+SHIP;3;1.02;ship_data_(battle_shuttle_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

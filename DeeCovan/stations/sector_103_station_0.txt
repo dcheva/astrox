@@ -1,0 +1,138 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Temple of the Void
+STATION;type;Worship Center
+STATION;owner;Gobaz Jaliswen
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color;.60 , .20 , .80 , 1
+STATION;level;9
+STATION;icon;totv.png
+STATION;filename;sector_103_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;2-1-0-4-9-2-9-0-5-1-3-2-0
+STATION;interior_seed;3-3-45-0
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Spa Treatment;0.15,0.0;18500;Rest and Relaxation;entertain_spa.png;Send your crew to the spa, let them rest and relax for awhile. 15% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;0.90;npc_ship_data_(pirate_frigate_1).txt
+MERC;4;1.90;npc_ship_data_(transport_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;1731;240;1.04
+ITEM;1157;3;0.98
+ITEM;1532;3;1.09
+ITEM;2125;1;1.18
+ITEM;2177;131;1.01
+ITEM;1511;103;0.91
+ITEM;2359;27;0.96
+ITEM;61;4652;1.08
+ITEM;1573;32;1.25
+ITEM;2177;2;1.16
+ITEM;1624;7;0.98
+ITEM;1644;33;1.03
+ITEM;213;86;1.14
+ITEM;1614;9;0.99
+ITEM;2007;58;1.21
+ITEM;323;1762;1.06
+ITEM;1120;3;1.01
+ITEM;1111;2;1.02
+ITEM;2187;1;1.03
+ITEM;215;20;0.97
+ITEM;2023;86;1.04
+ITEM;2305;2;1.25
+ITEM;2091;2430;1.10
+ITEM;2019;82;1.03
+ITEM;204;78;1.08
+ITEM;1208;8;1.05
+ITEM;1060;52;1.15
+ITEM;2285;1;1.07
+ITEM;2304;39;1.14
+ITEM;2353;64;0.96
+ITEM;41;899;1.07
+ITEM;1110;5;1.06
+ITEM;1644;8;0.98
+ITEM;5;3754;1.05
+ITEM;1161;5;1.00
+ITEM;2004;68;0.98
+ITEM;2375;1;1.11
+ITEM;51;2556;1.09
+ITEM;2141;0;0.99
+ITEM;2013;76;1.07
+ITEM;42;2151;1.08
+ITEM;2118;4425;0.98
+ITEM;168;54;1.12
+ITEM;2356;1;1.10
+ITEM;330;1836;1.04
+ITEM;2028;97;1.18
+ITEM;312;2671;1.25
+ITEM;2166;153;0.99
+ITEM;2286;0;1.15
+ITEM;2257;1;1.18
+ITEM;217;76;1.05
+ITEM;2230;94;1.06
+ITEM;1161;100;1.11
+ITEM;208;146;1.13
+ITEM;2394;190;1.14
+ITEM;1151;5;1.27
+ITEM;1402;7;0.97
+ITEM;104;31;0.98
+ITEM;204;108;0.99
+ITEM;2248;1;1.21
+ITEM;2352;1;0.99
+ITEM;2024;27;1.11
+ITEM;219;55;1.04
+ITEM;512;2;1.15
+ITEM;2257;174;1.02
+ITEM;2248;1;1.04
+ITEM;2017;67;1.13
+ITEM;2010;70;1.22
+ITEM;1019;5;1.30
+ITEM;2389;2;1.05
+ITEM;2360;2;1.11
+ITEM;2092;4588;1.12
+ITEM;1616;241;1.12
+ITEM;2156;17;1.02
+ITEM;1583;109;1.00
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;76;1.08
+SKILL;24;1.81
+SKILL;234;1.98
+SKILL;33;0.88
+SKILL;15;1.21
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.06;ship_data_(pirate_utility_1).txt
+SHIP;2;0.94;ship_data_(pirate_frigate_1).txt
+SHIP;3;1.04;ship_data_(support_frigate_1).txt
+SHIP;4;0.99;ship_data_(support_carrier_1).txt
+SHIP;5;1.08;ship_data_(support_escort_1).txt
+SHIP;6;0.92;ship_data_(recon_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

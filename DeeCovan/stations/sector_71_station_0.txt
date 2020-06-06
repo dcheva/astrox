@@ -1,0 +1,130 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Inovex
+STATION;type;Fabrication Plant
+STATION;owner;Paxon Sipleskol
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.70 , 1, .23 , 1
+STATION;level;6
+STATION;icon;inovex.png
+STATION;filename;sector_71_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;3-1-1-2-8-0-7-1-7-7-3-3-1-6-7-2-7-0
+STATION;interior_seed;3-4-0-8
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;False
+SERVICES;fabricator;True
+SERVICES;contracts;True
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Deathmatch League;0.15,0.08;68500;Sport Fighting Event;entertain_fight.png;Tickets to the Deathmatch League, where your entire fleet will enjoy a evening of bloodsport. 15% Morale , 8% Loyalty bonus.
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+ENTERTAINMENT;Karaoke Night;0.15,0.05;15000;Musical Entertainment;entertain_show.png;Your fleet is treated to a night of karaoke at the local music tavern. 15% Morale , 5% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;2;1.76;npc_ship_data_(pirate_carrier_1).txt
+MERC;4;1.70;npc_ship_data_(battle_cruiser_1).txt
+MERC;5;1.75;npc_ship_data_(transport_utility_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+
+BUYORDER;Market Low Inventory: (4) Items ;108x153,123x296,102x271,105x82;16324;59634.45
+BUYORDER;Market Shortage: (3) Items ;112x203,123x30,104x86;2723;32133.01
+BUYORDER;Market Low Inventory: (4) Items ;108x35,112x98,102x44,105x49;2399;48977.33
+BUYORDER;Market Low Inventory: (2) Items ;123x86,105x188;4844;20215.33
+ITEM;9;4629;0.97
+ITEM;2036;92;1.00
+ITEM;1593;5;1.07
+ITEM;2167;2;1.12
+ITEM;1730;4;0.82
+ITEM;2016;57;1.05
+ITEM;2162;0;0.81
+ITEM;603;0;1.02
+ITEM;1019;6;1.04
+ITEM;1070;0;1.00
+ITEM;1312;0;0.98
+ITEM;107;162;0.95
+ITEM;2103;3803;0.86
+ITEM;323;948;1.13
+ITEM;2312;1;0.95
+ITEM;2315;1;1.02
+ITEM;2117;3532;1.02
+ITEM;2061;67;1.01
+ITEM;2038;71;1.03
+ITEM;2167;1;1.01
+ITEM;2042;71;1.09
+ITEM;1112;4;1.05
+ITEM;1306;9;0.96
+ITEM;2094;3816;0.98
+ITEM;2054;97;1.14
+ITEM;1024;7;1.13
+ITEM;2315;1;1.11
+ITEM;2212;1;0.98
+ITEM;2257;0;0.95
+ITEM;2020;54;1.00
+ITEM;1312;8;1.11
+ITEM;2381;0;1.05
+ITEM;2263;2;1.02
+ITEM;2049;86;1.03
+ITEM;2217;1;1.00
+ITEM;1165;0;0.96
+ITEM;604;0;1.12
+ITEM;1221;8;1.03
+ITEM;1312;8;0.98
+ITEM;1563;9;0.85
+ITEM;2038;44;1.01
+ITEM;1654;9;1.04
+ITEM;2011;69;1.10
+ITEM;2131;2;0.98
+ITEM;2011;63;0.96
+ITEM;1053;2;0.86
+ITEM;643;5;0.90
+ITEM;1059;0;1.12
+ITEM;2286;1;1.02
+ITEM;2284;0;0.96
+ITEM;320;3653;1.14
+ITEM;1111;6;1.03
+ITEM;1168;5;1.10
+ITEM;1165;8;0.96
+ITEM;2336;0;1.07
+ITEM;1025;4;1.08
+ITEM;1159;8;1.01
+ITEM;712;9;0.98
+ITEM;2382;1;0.94
+ITEM;1023;9;0.97
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;44;0.58
+SKILL;35;1.33
+SKILL;27;1.94
+SKILL;225;0.91
+SKILL;43;1.53
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.07;ship_data_(excavation_escort_1).txt
+SHIP;2;0.91;ship_data_(transport_shuttle_1).txt
+SHIP;3;1.02;ship_data_(battle_shuttle_1).txt
+SHIP;4;0.98;ship_data_(pirate_carrier_1).txt
+SHIP;5;1.07;ship_data_(support_escort_1).txt
+SHIP;6;0.95;ship_data_(battle_utility_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>

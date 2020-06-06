@@ -1,0 +1,178 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;Blargg's
+STATION;type;Patrol Annex Station
+STATION;owner;Eligentis Faruk
+STATION;faction;Law
+STATION;material;station_material_Law.png
+STATION;color;0 , .60 , 1 , 1
+STATION;level;3
+STATION;icon;ad_image_17.png
+STATION;filename;sector_36_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;lease;1
+STATION;seed;4-2-0-2-3-0-0-1-2-7-3-6-0-6-8-0-4-1-6-4-0-7-0
+STATION;interior_seed;5-6-15-7
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;False
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;True
+SERVICES;hangar;False
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;False
+
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;5;1.85;npc_ship_data_(transport_utility_1).txt
+MERC;4;0.93;npc_ship_data_(battle_carrier_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+ITEM;41;4962;1.00
+ITEM;2353;1;1.08
+ITEM;1621;9;1.05
+ITEM;1110;2;1.05
+ITEM;1532;9;1.07
+ITEM;1451;4;0.96
+ITEM;1001;8;1.02
+ITEM;1590;2;1.02
+ITEM;1600;2;1.03
+ITEM;1106;4;1.07
+ITEM;1008;3;1.06
+ITEM;2155;2;0.98
+ITEM;2186;1;1.00
+ITEM;5;4106;1.07
+ITEM;2244;1;1.08
+ITEM;2324;1;1.06
+ITEM;1511;2;1.05
+ITEM;4;741;0.98
+ITEM;4;1285;1.02
+ITEM;50;3813;1.13
+ITEM;2225;2;1.13
+ITEM;312;4645;0.98
+ITEM;2230;1;1.05
+ITEM;2221;2;0.97
+ITEM;1009;5;1.11
+ITEM;2247;2;0.95
+ITEM;2356;1;1.12
+ITEM;2140;1;0.96
+ITEM;2175;1;1.13
+ITEM;41;725;1.12
+ITEM;100;173;1.12
+ITEM;154;89;1.08
+ITEM;1582;3;0.95
+ITEM;691;2;1.06
+ITEM;101;139;1.02
+ITEM;1520;2;1.14
+ITEM;2304;1;0.95
+ITEM;212;69;1.03
+ITEM;2;324;1.04
+ITEM;1620;6;1.13
+ITEM;602;5;1.08
+ITEM;1570;3;1.06
+ITEM;2090;4972;1.04
+ITEM;2120;3334;1.02
+ITEM;1011;8;0.98
+ITEM;1602;3;0.96
+ITEM;2211;1;1.01
+ITEM;1570;3;0.97
+ITEM;2221;1;1.10
+ITEM;607;6;1.03
+ITEM;2392;2;1.08
+ITEM;215;71;1.04
+ITEM;166;86;1.04
+ITEM;2353;1;1.05
+ITEM;2324;1;1.06
+ITEM;2175;1;1.00
+ITEM;302;2636;0.95
+ITEM;102;193;1.04
+ITEM;606;6;0.98
+ITEM;2221;1;1.11
+ITEM;2233;2;1.05
+ITEM;2304;1;1.04
+ITEM;2247;2;0.98
+ITEM;2247;1;1.02
+ITEM;1018;7;0.99
+ITEM;1652;9;1.15
+ITEM;2398;2;1.10
+ITEM;2326;1;1.11
+ITEM;2328;1;0.96
+ITEM;2372;1;1.02
+ITEM;1007;7;1.09
+ITEM;1052;6;1.12
+ITEM;215;57;1.01
+ITEM;2351;2;1.13
+ITEM;161;95;1.02
+ITEM;2235;1;1.14
+ITEM;1552;5;1.14
+ITEM;155;81;0.96
+ITEM;1612;9;1.04
+ITEM;2351;2;0.97
+ITEM;2225;1;1.11
+ITEM;2372;1;0.95
+ITEM;216;50;0.96
+ITEM;2084;2107;0.96
+ITEM;2322;1;1.10
+ITEM;2323;2;1.06
+ITEM;1512;4;1.00
+ITEM;691;8;1.07
+ITEM;2227;1;0.96
+ITEM;2394;1;1.13
+ITEM;1451;9;0.99
+ITEM;170;79;1.13
+ITEM;1155;7;1.04
+ITEM;601;8;1.07
+ITEM;156;80;1.05
+ITEM;2353;1;0.98
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;212;1.69
+SKILL;230;1.68
+SKILL;224;1.51
+SKILL;220;0.75
+SKILL;57;1.84
+SKILL;228;1.60
+SKILL;41;1.29
+SKILL;43;1.85
+SKILL;74;1.28
+SKILL;227;0.78
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;120;120;990778;CHAT_PILOT#sector_0_station_1.txt#sector_38.txt#Sir Sihgilla Vajdaefon#npc_ship_data_(recon_utility_1)#13#missions_debt_collection.txt#0#null;Collect a small debt from Sir Sihgilla Vajdaefon in Equalias Val and return to Lammassu Financial in Void Starcross;0;Pijag Anyan has requested that debt be collected from Sir Sihgilla Vajdaefon. After 3 payments to the Alpha faction for transport fines, Sir Sihgilla Vajdaefon has refused to make any further payments. Last known sighting of Sir Sihgilla Vajdaefon was in the vicinity of the Equalias Val system. Have a chat with them, collect the debt, and return to the Lammassu Financial in the Void Starcross system to deliver the payment.;101516
+MISSION;31;240;368157;TRANSPORT#134#6#sector_36_station_0.txt#sector_13_station_0.txt#null#null#null#null;Head to Blargg's in Beacon Spita, pick up 134 Plasite Ore(s) for a light shipment to Gemini Mining in Jala;15;The Law faction advisor Paco Xifondie has placed a light shipment transport order to move 134 Plasite Ore(s) from the Blargg's storage in Beacon Spita, to the Gemini Mining in Jala.;17940
+MISSION;120;120;281249;CHAT_PILOT#sector_42_station_0.txt#sector_77.txt#Govenor Benuh Buefe#npc_ship_data_(transport_frigate_2)#2#missions_debt_collection.txt#0#null;Collect a small debt from Govenor Benuh Buefe in Ballast Crow and return to Desban in Ellisar;3;Poesi Peiyi has requested that debt be collected from Govenor Benuh Buefe. After 3 payments to the Trade faction for transport fines, Govenor Benuh Buefe has refused to make any further payments. Last known sighting of Govenor Benuh Buefe was in the vicinity of the Ballast Crow system. Have a chat with them, collect the debt, and return to the Desban in the Ellisar system to deliver the payment.;119421
+MISSION;50;120;582799;SCAN_STRUCTURE#sector_3_station_0.txt#sector_1.txt#Office Center#structure_office_1.txt#1#null#null#null;Locate and scan the Office Center structure in Dellis Primeria and return to Daemon Ammunitions in Starfort Ramos;12;A recent construction permit was delivered by the Labor faction. They are demanding a survey of a new structure that has been constructed by Poebel Binbaz. Scan the Office Center structure and return back to the Daemon Ammunitions located in the Starfort Ramos with the survey data. Once the data is verified, payment will be rendered.;32927
+MISSION;71;180;524833;ESCORT#sector_77_station_0.txt#sector_0_station_4.txt#Captain Biraved Sopoewho#npc_ship_data_(law_enforcer_1)#23#null#null#null;Captain Biraved Sopoewho requests an escort from Lacuna Bandits in Ballast Crow to Starbase Corporate Center in Void Starcross;12;The Astrox Security Patrol has posted a contract for the safe delivery of a Captain Biraved Sopoewho, wanted for questioning in a non-violent incident a few cycles ago in the Ballast Crow system. Escort Captain Biraved Sopoewho from Lacuna Bandits to Starbase Corporate Center in the Void Starcross system.;13648
+MISSION;120;120;833809;CHAT_PILOT#sector_56_station_0.txt#sector_14.txt#Major Mozeno Bidso#npc_ship_data_(recon_shuttle_1)#24#missions_debt_collection.txt#0#null;Collect a small debt from Major Mozeno Bidso in Gate of Alpharis and return to Transporteers in Hunu;8;Dayer Wocorgot has requested that debt be collected from Major Mozeno Bidso. After 3 payments to the Sovereign faction for transport fines, Major Mozeno Bidso has refused to make any further payments. Last known sighting of Major Mozeno Bidso was in the vicinity of the Gate of Alpharis system. Have a chat with them, collect the debt, and return to the Transporteers in the Hunu system to deliver the payment.;46325
+MISSION;72;180;188762;ESCORT#sector_14_station_0.txt#sector_14_station_1.txt#Govenor Xadzeta Adades#npc_ship_data_(support_frigate_3)#3#null#null#null;A ship in Imperium Republica  in Gate of Alpharis needs an escort to Horizons in Gate of Alpharis;15;After being selected for an academic grant, Dr. Govenor Xadzeta Adades has requested an escort to the Horizons station in the Gate of Alpharis system. Govenor Xadzeta Adades has posted his pick-up location as Imperium Republica  in Gate of Alpharis. Be sure to protect the doctor at all cost, and under no circumstances are you to abandon him.;15260
+MISSION;121;120;448398;CHAT_PILOT#sector_0_station_5.txt#sector_14.txt#Fabricator Duewho Bovesmi#npc_ship_data_(excavation_carrier_1)#5#missions_debt_collection.txt#0#null;Chat with Fabricator Duewho Bovesmi about his debt in Gate of Alpharis and return to Proctors Center in Void Starcross;0;Caehom Eina has requested that debt be collected from Fabricator Duewho Bovesmi. After 3 payments to the Alpha faction for transport fines, Fabricator Duewho Bovesmi has refused to make any further payments. Last known sighting of Fabricator Duewho Bovesmi was in the vicinity of the Gate of Alpharis system. Have a chat with them, collect the debt, and return to the Proctors Center in the Void Starcross system to deliver the payment.;57790
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;0.97;ship_data_(excavation_frigate_1).txt
+SHIP;2;1.04;ship_data_(recon_utility_1).txt
+SHIP;3;1.01;ship_data_(transport_shuttle_1).txt
+SHIP;4;0.98;ship_data_(support_escort_1).txt
+SHIP;5;0.97;ship_data_(recon_carrier_1).txt
+SHIP;6;1.01;ship_data_(transport_shuttle_1).txt
+SHIP;7;1.02;ship_data_(support_carrier_1).txt
+SHIP;8;0.91;ship_data_(support_cruiser_1).txt
+</HANGAR>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+
+

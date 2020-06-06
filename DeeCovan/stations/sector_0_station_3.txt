@@ -1,0 +1,192 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;StarShepards Headquarters
+STATION;type;Worship Center
+STATION;owner;Temple Of the Void
+STATION;faction;Temple
+STATION;material;station_material_Temple.png
+STATION;color; 1.0 , 0.0 , 1.0 , 1.0
+STATION;level;7
+STATION;icon;star_shepards.png
+STATION;filename;sector_0_station_3.txt
+STATION;max_hp;25000
+STATION;dockfee;25
+STATION;lease;1
+STATION;seed;2-2-0-1-4-0-4-1-3-0-0-4-1-3-6-1-5-1-1-3-1-3-0
+STATION;interior_seed;3-3-15-3
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+// SERVICES;servicename;bool
+SERVICES;lounge;False
+SERVICES;market;True
+SERVICES;refinery;False
+SERVICES;garage;True
+SERVICES;university;False
+SERVICES;hangar;True
+SERVICES;storage;True
+SERVICES;fabricator;True
+SERVICES;contracts;False
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Pod Racing event;0.25,0.0;40000;Sport Racing Event;entertain_race.png;All expense paid trip to the weekly 'Astrox Pod Racing' (APR) event. 25% Morale Boost.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(support_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(support_escort_1).txt
+MERC;9;1.93;npc_ship_data_(support_utility_1).txt
+MERC;12;1.23;npc_ship_data_(support_utility_2).txt
+MERC;15;1.47;npc_ship_data_(support_frigate_1).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+SELLORDER;Market Stock: (1) Items ;2063x77;55990;21124.64
+BUYORDER;Market Shortage: (3) Items ;332x269,303x186,324x121;47795.00;42675.43
+BUYORDER;Market Shortage: (2) Items ;332x99,324x238;23766.00;86000.91
+BUYORDER;Market Out of Stock: (1) Items ;332x70;9803.00;46831.74
+ITEM;1;6489;2.50
+ITEM;1522;9;2.50
+ITEM;1622;260;2.50
+ITEM;1642;20;2.50
+ITEM;1582;193;2.50
+ITEM;1652;53;2.50
+ITEM;641;7;2.50
+ITEM;1617;151;2.50
+ITEM;1602;8;2.50
+ITEM;1562;8;2.50
+ITEM;1592;53;2.50
+ITEM;402;281;2.50
+ITEM;422;58;2.50
+ITEM;1156;214;2.50
+ITEM;302;2279;2.50
+ITEM;153;40;2.50
+ITEM;40;5721;2.50
+ITEM;500;2;2.50
+ITEM;50;3805;2.50
+ITEM;1520;172;2.50
+ITEM;1620;4;2.50
+ITEM;1530;40;2.50
+ITEM;1570;41;2.50
+ITEM;1510;201;2.50
+ITEM;60;3259;2.50
+ITEM;1615;9;2.50
+ITEM;1600;104;2.50
+ITEM;1590;26;2.50
+ITEM;400;250;2.50
+ITEM;420;125;2.50
+ITEM;101;165;2.50
+ITEM;200;86;2.50
+ITEM;301;1446;2.50
+ITEM;332;0;2.50
+ITEM;661;97;2.50
+ITEM;2439;5;2.50
+ITEM;42;2602;2.50
+ITEM;52;6805;2.50
+ITEM;62;6481;2.50
+ITEM;522;143;2.50
+ITEM;204;12;2.50
+ITEM;2063;83;1.03
+ITEM;343;0;2.50
+ITEM;303;0;2.50
+ITEM;324;0;2.50
+ITEM;1300;91;2.50
+ITEM;1051;9;2.50
+ITEM;1150;75;2.50
+ITEM;1100;3;2.50
+ITEM;1200;10;2.50
+ITEM;1152;2;2.50
+ITEM;1202;5;2.50
+ITEM;1002;323;2.50
+ITEM;1050;149;2.50
+ITEM;1151;181;2.50
+ITEM;1101;101;2.50
+ITEM;1201;133;2.50
+ITEM;1450;10;2.50
+ITEM;1052;27;2.50
+ITEM;313;7530;2.50
+ITEM;2;4130;2.50
+ITEM;602;5;2.50
+ITEM;102;214;2.50
+ITEM;1521;5;2.50
+ITEM;1621;132;2.50
+ITEM;1641;79;2.50
+ITEM;1581;6;2.50
+ITEM;1651;16;2.50
+ITEM;1631;130;2.50
+ITEM;1601;31;2.50
+ITEM;1551;21;2.50
+ITEM;1501;69;2.50
+ITEM;1591;3;2.50
+ITEM;401;158;2.50
+ITEM;421;10;2.50
+ITEM;1402;15;2.50
+ITEM;1060;2;2.50
+ITEM;1160;23;2.50
+ITEM;105;255;2.50
+ITEM;1303;9;2.50
+ITEM;1205;8;2.50
+ITEM;1206;6;2.50
+ITEM;51;4567;2.50
+ITEM;1007;196;2.50
+ITEM;2432;165;2.50
+ITEM;2430;119;2.50
+ITEM;305;10104;2.50
+ITEM;158;131;2.50
+ITEM;155;239;2.50
+ITEM;104;216;2.50
+ITEM;2435;99;2.50
+ITEM;2431;6;2.50
+ITEM;2433;189;2.50
+ITEM;601;64;2.50
+ITEM;150;84;2.50
+ITEM;103;150;2.50
+ITEM;6;2187;2.50
+ITEM;2434;5;2.50
+ITEM;1013;31;2.50
+ITEM;3;7432;2.50
+ITEM;154;164;2.50
+ITEM;1210;6;2.50
+ITEM;21;7016;2.50
+ITEM;2437;77;2.50
+ITEM;2438;5;2.50
+ITEM;2436;126;2.50
+ITEM;152;257;2.50
+ITEM;640;21;2.50
+ITEM;202;134;2.50
+ITEM;5;1207;2.50
+ITEM;1401;4;2.50
+ITEM;662;2;2.50
+ITEM;100;372;2.50
+ITEM;660;1;0.15
+ITEM;600;1;0.15
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;234;1.04
+SKILL;212;1.93
+SKILL;102;1.66
+SKILL;225;1.15
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+MISSION;41;120;809793;SCAN_PILOT#sector_13_station_0.txt#sector_56.txt#Miner Arsdee Ribrastso#npc_ship_data_(excavation_frigate_3)#21#null#null#null;Find Miner Arsdee Ribrastso in Hunu, scan their ship, and return to Gemini Mining in Jala;0;Miner Arsdee Ribrastso has recently been paroled for a capital crime, and their parole officer has received information about a possible raid in Hunu. Head to Hunu and perform a scan of Miner Arsdee Ribrastso's ship and return to Gemini Mining in Jala with the scan data for review.;33438
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.1;ship_data_(support_shuttle_1).txt
+SHIP;1;1.1;ship_data_(support_escort_1).txt
+SHIP;1;1.1;ship_data_(support_escort_2).txt
+SHIP;4;1.02;ship_data_(support_utility_1).txt
+SHIP;4;1.02;ship_data_(support_utility_2).txt
+SHIP;4;1.02;ship_data_(support_frigate_1).txt
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+

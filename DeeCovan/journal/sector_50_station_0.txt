@@ -1,0 +1,38 @@
+[s:30][c:yellow]Astrox Security Patrol[/c][/s]
+Training Post
+Bidres Oisedar
+Law
+[c:lime]Dock fee 100[/c]
+Timestamp: 20630.21
+<Station Services>
+[c:lime]SUPPLY[/c]
+Basic Afterburner
+Basic Thruster
+Basic Drone Command Bay
+Improved Armor Exterior
+Basic Energy Capacitor
+[c:orange]DEMAND[/c]
+Optical Network
+Targeting Computer
+Tracking Computer
+Sensor Array
+Radar System
+
+[c:cyan]SERVICES[/c]
+University
+Ship Hangar
+Storage
+Mission Contracts
+
+
+<Station Market Orders>
+
+
+<Station University Skills>
+Ship Shield Systems
+Module Mechanic
+Miner Basic Operation
+Laser Basic Operation
+Market Auditor
+Beam Cycle Mechanics
+Projectile Advanced Systems

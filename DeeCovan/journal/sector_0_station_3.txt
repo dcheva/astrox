@@ -1,0 +1,155 @@
+[s:30][c:yellow]StarShepards Headquarters[/c][/s]
+Worship Center
+Temple Of the Void
+Temple
+[c:lime]Dock fee 25[/c]
+Timestamp: 16497.88
+<Station Services>
+[c:lime]SUPPLY[/c]
+Flight Control Computer
+[c:orange]DEMAND[/c]
+Colored Dye
+Communication Devices
+Foodservice Equipment
+Furniture
+Gaming Devices
+
+[c:cyan]SERVICES[/c]
+Market
+Ship Garage
+Ship Hangar
+Storage
+Fabricator
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (269) x Communication Devices
+ (186) x Furniture
+ (121) x Gaming Devices
+Fulfill order for [c:lime]50,732[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (99) x Communication Devices
+ (238) x Gaming Devices
+Fulfill order for [c:lime]23,773[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (70) x Communication Devices
+Fulfill order for [c:lime]6,072[/c]
+
+
+<Station Market Items>
+(6489) x Adamyte Ore
+(9) x Advanced Afterburner
+(260) x Advanced Armor Exterior
+(20) x Advanced Energy Armor
+(193) x Advanced Energy Generator
+(53) x Advanced Explosive Armor
+(7) x Advanced Regulator
+(151) x Advanced Scan Booster
+(8) x Advanced Scan Emitter
+(8) x Advanced Shield Generator
+(53) x Advanced Turn Thrust
+(281) x Advanced Warp Drive Fuel
+(58) x Advanced Warp Drive Fuel Specs
+(214) x Aeo Particle X2 Beam
+(2279) x Anti-Freeze
+(40) x Assorted Gaskets
+(5721) x Basic 20mm
+(2) x Basic 20mm Specs
+(3805) x Basic 60mm
+(172) x Basic Afterburner
+(4) x Basic Armor Exterior
+(40) x Basic Cargo Expansion
+(41) x Basic Energy Capacitor
+(201) x Basic Engine Core
+(3259) x Basic Missile
+(9) x Basic Scan Booster
+(104) x Basic Scan Emitter
+(26) x Basic Turn Thrust
+(250) x Basic Warp Drive Fuel
+(125) x Basic Warp Drive Fuel Specs
+(165) x Carbon
+(86) x Circuit Board
+(1446) x Colored Dye
+(97) x Containment Unit
+(5) x Copperi Cables Specs
+(2602) x Explosive 20mm
+(6805) x Explosive 60mm
+(6481) x Explosive Missile
+(143) x Explosive Missile Specs
+(12) x Fiber Optic Cables
+(83) x Flight Control Computer
+(91) x Generic Default Tractor
+(9) x Generic Dual Launcher
+(75) x Generic Light Beam
+(3) x Generic Light Laser
+(10) x Generic Light Miner
+(2) x Generic Medium Beam
+(5) x Generic Medium Miner
+(323) x Generic Single 20mm Gun
+(149) x Generic Single Launcher
+(181) x Generic Small Beam
+(101) x Generic Small Laser
+(133) x Generic Small Miner
+(10) x Generic Spotlight
+(27) x Generic Triple Launcher
+(7530) x Gourmet Food Rations
+(4130) x Gradeon Ore
+(5) x Ham Sandwich
+(214) x Hydrogen
+(5) x Improved Afterburner
+(132) x Improved Armor Exterior
+(79) x Improved Energy Armor
+(6) x Improved Energy Generator
+(16) x Improved Explosive Armor
+(130) x Improved Impact Armor
+(31) x Improved Scan Emitter
+(21) x Improved Shield Extender
+(69) x Improved Thruster
+(3) x Improved Turn Thrust
+(158) x Improved Warp Drive Fuel
+(10) x Improved Warp Drive Fuel Specs
+(15) x Industrial Salvager
+(2) x Inovex Single Launcher
+(23) x Ion Light Beam
+(255) x Iron Coring
+(9) x Janca Default Tractor
+(8) x Janca Z1 OreVac
+(6) x Janca Z2 OreVac
+(4567) x Kinetic 60mm
+(196) x Kinetics G-series Dual 20mm
+(165) x Large Processor Specs
+(119) x LED Lights Specs
+(10104) x Lighting
+(131) x Liquid Coolant
+(239) x Lubricant
+(216) x Magnetic Quartz
+(99) x Memory Chip Specs
+(6) x Micro Processor Specs
+(189) x Motion Sensor Specs
+(64) x Noodles
+(84) x Nuts And Bolts
+(150) x Oxygen
+(2187) x Plasite Ore
+(5) x Pressure Sensor Specs
+(31) x Quantex  x-2 20mm Gun
+(7432) x Quazor Ore
+(164) x Rubber Tubing
+(6) x SBC LI1 Harvester
+(7016) x Scrap
+(77) x Small Heatsink Specs
+(5) x Small Motor Specs
+(126) x Small Pump Specs
+(257) x Steelium Beams
+(21) x Thermal Controller
+(134) x Thermal Sensor
+(1207) x Torim Ore
+(4) x Utility Salvager
+(2) x Waste Processor
+(372) x Water
+(1) x Disposables
+(1) x Protein Bar
+
+
+<Station University Skills>
