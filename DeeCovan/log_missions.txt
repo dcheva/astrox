@@ -1,4 +1,5 @@
 //;LOG DATA FILE (Astrox Imperium)
+COMPLETED;Dialog;Collect a small debt from...;116,983;Horizons
 ACCEPTED;Dialog;Collect a small debt from...;-0;Astrox Security Patrol
 COMPLETED;Dialog;Chat with Fabricator Hass...;49,932;Legistron
 COMPLETED;Dialog;Chat with Commander Bastn...;57,685;Proctors Center

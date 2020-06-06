@@ -1,4 +1,24 @@
 //;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;ValueStar Station - 100 Dock Fee.;You have been charged a docking fee for entry into the ValueStar station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Hunu;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Horizons Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Horizons station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Gate of Alpharis;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Felishar;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
 notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
 //;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
@@ -24,24 +44,4 @@ notify_merc_dock.png;DOCK command received. ;All selected Mercs will now proceed
 notify_payroll.png;300 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
 //;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Beacon Spita;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-notify_payroll.png;300 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Felishar;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Proctors Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Proctors Center station.
-//;LOG DATA FILE (Astrox Imperium)
-gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
-//;LOG DATA FILE (Astrox Imperium)
-notify_payroll.png;300 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
-//;LOG DATA FILE (Astrox Imperium)
-gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Felishar;Your ship has actived the warp gate, and has arrived safely on the other side.
 //;LOG DATA FILE (Astrox Imperium)

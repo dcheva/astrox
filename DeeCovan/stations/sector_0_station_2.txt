@@ -267,6 +267,7 @@ SKILL;144;1.04
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.658024;ship_data_(kj_shuttle_1).txt
 SHIP;1;1.0;ship_data_(pirate_shuttle_1).txt
 SHIP;1;1.0;ship_data_(pirate_escort_1).txt
 SHIP;1;1.0;ship_data_(pirate_escort_2).txt

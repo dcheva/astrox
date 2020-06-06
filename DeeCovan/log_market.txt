@@ -1,4 +1,7 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;76;Kinetic 60mm  <color='yellow'>22.00</color>;1672;Horizons
+BUY;76;Kinetic 60mm  <color='yellow'>22.00</color>;1672;Horizons
+BUY;76;Kinetic 60mm  <color='yellow'>17.50</color>;1330;Horizons
 BUY;34;Explosive Missile  <color='yellow'>55.00</color>;1870;Proctors Center
 BUY;1;Containment Unit  <color='yellow'>16,272</color>;16272;Proctors Center
 SELL;1;Basic Filter  <color='yellow'>575</color>;575;Proctors Center
@@ -42,6 +45,3 @@ SELL;1550;Hydrogen  <color='yellow'>2.91</color>;4511;Starbase Corporate Center
 SELL;930;Carbon  <color='yellow'>2.08</color>;1931;Biomate University
 BUY;142;Explosive 20mm  <color='yellow'>11.75</color>;1669;Starbase Corporate Center
 SELL;597;Carbon  <color='yellow'>0.10</color>;58;Starbase Corporate Center
-BUY;270;Kinetic 20mm  <color='yellow'>7.25</color>;1958;Starbase Corporate Center
-BUY;2;Kinetics G-series 20mm Gun  <color='yellow'>13,596</color>;27192;Starbase Corporate Center
-SELL;995;Hydrogen  <color='yellow'>2.91</color>;2895;Starbase Corporate Center

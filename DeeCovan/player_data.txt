@@ -2,13 +2,13 @@
 <PLAYER>
 PLAYER;name;DeeCovan
 PLAYER;level;5
-PLAYER;xp;9107.00
+PLAYER;xp;9607.00
 PLAYER;next_level_xp;14100.00
 PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;26019.52
-PLAYER;skill_points;24
-PLAYER;playtime;26830.47
+PLAYER;credits;137278.35
+PLAYER;skill_points;27
+PLAYER;playtime;27637.35
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -18,17 +18,18 @@ PLAYER;profession_id;0
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
 
-PLAYER;sector;sector_36.txt
-PLAYER;sector_id;36
-PLAYER;station;sector_36_station_0.txt
+PLAYER;sector;sector_56.txt
+PLAYER;sector_id;56
+PLAYER;station;sector_56_station_1.txt
 PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;1544.73;-437.94;1603.98
+SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;2990.89;530.29;-165.07
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
+MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(recon_carrier_1)_62239.txt;Active;sector_14_station_1.txt;sector_14.txt;2990.89;530.29;-165.07;
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
@@ -56,7 +57,6 @@ MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your fir
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;120;33;225749;CHAT_PILOT#sector_14_station_1.txt#sector_36.txt#Govenor Hinda Rescouwhe#npc_ship_data_(excavation_escort_2)#12#missions_debt_collection.txt#0#null;Collect a small debt from Govenor Hinda Rescouwhe in Beacon Spita and return to Horizons in Gate of Alpharis;7;0;True;116983;0;Bidwho Sefall has requested that debt be collected from Govenor Hinda Rescouwhe. After 3 payments to the Outlaw faction for transport fines, Govenor Hinda Rescouwhe has refused to make any further payments. Last known sighting of Govenor Hinda Rescouwhe was in the vicinity of the Beacon Spita system. Have a chat with them, collect the debt, and return to the Horizons in the Gate of Alpharis system to deliver the payment.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -86,7 +86,7 @@ STAT;22;Junk Collected;0;Excavation
 STAT;23;Scraps Collected;0;Excavation
 STAT;24;Salvage Collected;0;Excavation
 STAT;25;Derelicts Collected;0;Excavation
-STAT;26;Missions Complete;8;Missions
+STAT;26;Missions Complete;9;Missions
 STAT;27;Missions Expired;0;Missions
 STAT;28;Missions Aborted;0;Missions
 STAT;29;Transport Missions Complete;0;Missions
@@ -99,10 +99,10 @@ STAT;35;Recover Missions Complete;0;Missions
 STAT;36;Kill Missions Complete;0;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
 STAT;38;Sectors Explored;10;Navigation
-STAT;39;Warp gate Jumps;45;Navigation
+STAT;39;Warp gate Jumps;50;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
-STAT;42;Dialog Missions Complete;4;Missions
+STAT;42;Dialog Missions Complete;5;Missions
 STAT;43;;0;
 STAT;44;;0;
 STAT;45;;0;
@@ -111,7 +111,7 @@ STAT;47;;0;
 STAT;48;;0;
 STAT;49;;0;
 STAT;50;Skill Levels Trained;12;Skills
-STAT;51;Skill Points Earned;71;Skills
+STAT;51;Skill Points Earned;74;Skills
 STAT;52;Skill Points Spent;97;Skills
 STAT;53;;0;
 STAT;54;;0;

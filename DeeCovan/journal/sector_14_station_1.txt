@@ -3,7 +3,7 @@ Headquaters
 Serzokom Qireno
 Alpha
 [c:lime]Dock fee 100[/c]
-Timestamp: 2348.246
+Timestamp: 27497.19
 <Station Services>
 [c:lime]SUPPLY[/c]
 Calibration Tools
@@ -29,70 +29,124 @@ Offices
 
 
 <Station Market Orders>
+[c:red]SELL Order[/c] Market Goods: (2) Items 
+ (377) x Calibration Tools
+ (393) x Cleaning Chemicals
+Buy items for [c:red]61,887[/c]
+[c:red]SELL Order[/c] Market Production: (3) Items 
+ (380) x Assembly Tools
+ (52) x Basic Food Rations
+ (305) x Cleaning Chemicals
+Buy items for [c:red]73,223[/c]
+[c:red]SELL Order[/c] Market Inventory: (3) Items 
+ (97) x Calibration Tools
+ (133) x Anti-Freeze
+ (372) x Basic Food Rations
+Buy items for [c:red]57,164[/c]
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (97) x Calibration Tools
+ (173) x Basic Food Rations
+ (329) x Cleaning Chemicals
+Buy items for [c:red]54,381[/c]
+[c:red]SELL Order[/c] Market Inventory: (4) Items 
+ (120) x Calibration Tools
+ (69) x Anti-Freeze
+ (384) x Assembly Tools
+ (206) x Basic Food Rations
+Buy items for [c:red]77,296[/c]
+[c:red]SELL Order[/c] Market Surplus: (4) Items 
+ (366) x Anti-Freeze
+ (330) x Assembly Tools
+ (149) x Basic Food Rations
+ (294) x Cleaning Chemicals
+Buy items for [c:red]106,609[/c]
+[c:green]BUY Order[/c] Market Items Req: (1) Items 
+ (151) x Foodservice Products
+Fulfill order for [c:lime]12,627[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (288) x Clothing
+ (122) x Toys
+Fulfill order for [c:lime]28,655[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (63) x Clothing
+ (251) x Entertainment Electronics
+ (73) x Foodservice Products
+Fulfill order for [c:lime]70,170[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (1) Items 
+ (223) x Toys
+Fulfill order for [c:lime]5,553[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (31) x Transport Units
+ (210) x Toys
+Fulfill order for [c:lime]16,289[/c]
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (283) x Anti-Freeze
+ (156) x Assembly Tools
+ (166) x Cleaning Chemicals
+Buy items for [c:red]54,152[/c]
+[c:red]SELL Order[/c] Market Supply: (2) Items 
+ (121) x Assembly Tools
+ (202) x Cleaning Chemicals
+Buy items for [c:red]30,812[/c]
 
 
 <Station Market Items>
-(3) x Generic Single Launcher
-(114) x Oxygen
-(7) x Generic Single Launcher
-(3233) x Kitchen Appliances
-(2) x Generic Light Laser
-(2) x Basic Energy Generator
-(1) x Basic Energy Generator Specs
-(7) x Improved Targeting System
-(1) x Basic Heavy Beam Specs
-(4052) x Junk Engine Module
-(3488) x Kinetic 60mm
-(82) x Metal Valve
-(2) x Basic Missile Specs
-(1265) x Junk Power Module
+(78) x Aluminium Rivets
+(74) x Anti-Freeze
+(84) x Assembly Tools
 (88) x Ball Bearings
-(1) x Basic Targeting System Specs
 (4745) x Basic 20mm
-(8) x Small Combat Drone
-(2986) x Junk Engine Module
-(6) x Generic Small Beam
-(1143) x Colored Dye
-(5) x Small Salvage Drone
-(3) x Generic Single 60mm Cannon
-(2801) x Junk Flight Module
-(69) x Regulator
-(3872) x Colored Dye
-(2) x Generic Gatling 20mm Gun
-(69) x Circuit Board
-(4) x Kinetics G-series 20mm Gatling
-(1) x Basic Afterburner Specs
-(81) x Plastic Caps
-(9) x Kinetics M-series x1 Launcher
-(1629) x Junk Support Module
-(7) x Improved Explosive Armor
-(2) x Basic Laser Energy Mod Specs
-(1) x Basic Targeting System Specs
-(3494) x Scrap Support Module
-(2) x Basic Light Laser Specs
-(3) x Utility Salvager
-(1) x Basic Ion Impact Mod Specs
-(1) x Basic Projectile Energy Mod Specs
-(4) x Improved Afterburner
-(2) x Basic Small Miner Specs
-(1) x Dual 60mm Cannon Specs
-(66) x Aluminium Rivets
-(4) x Basic Energy Armor
-(3) x Kinetics M-series x1 Launcher
-(2) x Janca Z1 OreVac
-(79) x Fasteners
-(90) x Basic Sensor
-(79) x Liquid Coolant
-(7) x Improved Filter
-(1569) x Kinetic 20mm
-(75) x Basic Sensor
-(1) x Light 20mm Gun Specs
-(6) x Inovex 60mm Auto Cannon
-(8) x Improved Energy Armor
-(2) x Basic Heavy Beam Specs
-(6) x Small Combat Drone
-(157) x Water
 (8) x Basic Armor Exterior
+(163) x Basic Energy Armor
+(2) x Basic Energy Generator
+(119) x Basic Energy Generator Specs
+(61) x Basic Food Rations
+(69) x Basic Heavy Beam Specs
+(167) x Basic Laser Energy Mod Specs
+(27) x Basic Light Laser Specs
+(2) x Basic Missile Specs
+(1) x Basic Projectile Energy Mod Specs
+(165) x Basic Sensor
+(7) x Basic Small Miner Specs
+(97) x Basic Targeting System Specs
+(71) x Calibration Tools
+(69) x Circuit Board
+(72) x Cleaning Chemicals
+(4994) x Colored Dye
+(14) x Dual 60mm Cannon Specs
+(79) x Fasteners
+(2) x Generic Gatling 20mm Gun
+(2) x Generic Light Laser
+(3) x Generic Single 60mm Cannon
+(69) x Generic Single Launcher
+(6) x Generic Small Beam
+(4) x Improved Afterburner
+(8) x Improved Energy Armor
+(2) x Improved Explosive Armor
+(83) x Improved Filter
+(56) x Improved Targeting System
+(6) x Inovex 60mm Auto Cannon
+(2) x Janca Z1 OreVac
+(7038) x Junk Engine Module
+(2801) x Junk Flight Module
+(1275) x Junk Power Module
+(1665) x Junk Support Module
+(1551) x Kinetic 20mm
+(3260) x Kinetic 60mm
+(199) x Kinetics G-series 20mm Gatling
+(61) x Kinetics M-series x1 Launcher
+(3233) x Kitchen Appliances
+(174) x Light 20mm Gun Specs
+(79) x Liquid Coolant
+(66) x Metal Valve
+(156) x Oxygen
+(81) x Plastic Caps
+(44) x Regulator
+(3494) x Scrap Support Module
+(14) x Small Combat Drone
+(5) x Small Salvage Drone
+(3) x Utility Salvager
+(154) x Water
 
 
 <Station University Skills>

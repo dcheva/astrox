@@ -38,6 +38,8 @@ MERC;3;0.55;npc_ship_data_(support_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Items Req: (1) Items ;208x383;68513;61511.18
+BUYORDER;Market Items Req: (1) Items ;203x263;15249;40858.18
 SELLORDER;Market Production: (1) Items ;2067x392;206270;96763.13
 BUYORDER;Market Shortage: (1) Items ;209x149;2861;71110.10
 BUYORDER;Market Low Inventory: (1) Items ;209x278;3823;77176.10
