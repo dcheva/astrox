@@ -37,6 +37,7 @@ MERC;9;1.00;npc_ship_data_(battle_escort_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (4) Items ;117x109,124x308,155x358,156x314;38206;68557.09
 SELLORDER;Market Stock: (1) Items ;50x213;805;27807.79
 BUYORDER;Market Items Req: (1) Items ;155x262;7702;99741.03
 BUYORDER;Market Low Inventory: (1) Items ;117x381;8523;38804.03

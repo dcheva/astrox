@@ -40,6 +40,8 @@ MERC;6;0.72;npc_ship_data_(pirate_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (2) Items ;200x353,206x147;69586;41545.09
+BUYORDER;Market Needs Goods: (2) Items ;167x382,200x126;40540;110896.10
 BUYORDER;Market Items Req: (1) Items ;167x147;6661;77695.13
 BUYORDER;Market Low Inventory: (3) Items ;200x351,201x300,206x63;60638;100552.90
 SELLORDER;Market Surplus: (1) Items ;166x185;1097.00;89107.59
@@ -143,6 +145,7 @@ SHIP;3;1.04;ship_data_(pirate_frigate_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 
 
 

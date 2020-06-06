@@ -150,7 +150,6 @@ SKILL;44;0.66
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
 MISSION;62;140;627869;HARVEST#184#2#sector_40.txt#sector_56_station_0.txt#null#null#null#null;Excavate special Gradeon Ore in Dogstar Prime and return with 184 to Transporteers in Hunu;14;Hindo Foris has discovered a light deposit of Gradeon Ore in Dogstar Prime. He is currently unable to mine the Gradeon Ore, and has requested a pilot to head over and harvest the 184 Gradeon Ore. Once complete, head over and meet Hindo Foris at the Transporteers station located in the Hunu.;39123
-MISSION;70;180;578353;ESCORT#sector_14_station_0.txt#sector_0_station_4.txt#Foreman Qukom Yaino#npc_ship_data_(Testship)#17#null#null#null;Escort Foreman Qukom Yaino from Imperium Republica  in Gate of Alpharis to Starbase Corporate Center in Void Starcross;10;A wealthy council member from the Missionary faction has set up an escort for his oldest son Foreman Qukom Yaino. He was recently released from a rehab center for bliss addiction, and Yails Vispae, his father, would prefer he doesn't travel alone. You can meet up with Foreman Qukom Yaino at the Imperium Republica  station before heading over to Starbase Corporate Center.;10268
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -162,6 +161,8 @@ SHIP;5;1.04;ship_data_(support_escort_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
+
 
 
 

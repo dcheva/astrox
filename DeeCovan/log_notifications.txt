@@ -1,4 +1,30 @@
 //;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+gamespeed_3.png;Game speed Turbo;The gamespeed has been set to turbo speed. (x3) 
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+escort_ship.png;Escort Target has joined Fleet.;Foreman Qukom Yaino has temporarily joined your fleet. Escort this ship to the specified location to complete the mission objective.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Imperium Republica  Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Imperium Republica  station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_payroll.png;2,400 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Gate of Alpharis;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
+//;LOG DATA FILE (Astrox Imperium)
+notify_payroll.png;2,400 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
+//;LOG DATA FILE (Astrox Imperium)
+notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Transporteers Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Transporteers station.
+//;LOG DATA FILE (Astrox Imperium)
 dock_fee.png;ValueStar Station - 100 Dock Fee.;You have been charged a docking fee for entry into the ValueStar station.
 //;LOG DATA FILE (Astrox Imperium)
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
@@ -18,30 +44,4 @@ warpgate.png;Warp to Gate of Alpharis;Your ship has actived the warp gate, and h
 warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Felishar;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
-//;LOG DATA FILE (Astrox Imperium)
-add_credits.png;5,857 Credits Recovered;The crate contained a digital wallet with 5,857 credits. The wallet has been recovered and the credits have been transfered to your account. Spend your new fortune wisely.
-//;LOG DATA FILE (Astrox Imperium)
-notify_raider_kill.png;The raider Sedop Fedaleyou has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen PF-1 Pirate Frigate, all that remains is his memory. The Law rating has raised +0.25
-//;LOG DATA FILE (Astrox Imperium)
-notify_energy_low.png;Warning! Energy systems low.;Your ship's Energy is below 25%. If possible, it is recommended you power down the engines and give the core a few moments to recharge.
-//;LOG DATA FILE (Astrox Imperium)
-notify_energy_low.png;Warning! Energy systems low.;Your ship's Energy is below 25%. If possible, it is recommended you power down the engines and give the core a few moments to recharge.
-//;LOG DATA FILE (Astrox Imperium)
-add_credits.png;8,693 Credits Recovered;The crate contained a digital wallet with 8,693 credits. The wallet has been recovered and the credits have been transfered to your account. Spend your new fortune wisely.
-//;LOG DATA FILE (Astrox Imperium)
-notify_raider_kill.png;The raider Horeves Oino has been dispatched.;The lowly criminal will not be bother anyone any longer. With the destruction of his stolen PF-1 Pirate Frigate, all that remains is his memory. The Law rating has raised +0.25
-//;LOG DATA FILE (Astrox Imperium)
-mission_obj_complete.png;Mission Objectives Complete;Collect a small debt from Govenor Hinda Rescouwhe in Beacon Spita and return to Horizons in Gate of Alpharis
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_merc_dock.png;DOCK command received. ;All selected Mercs will now proceed to the nearest station, unless otherwise instructed.
-//;LOG DATA FILE (Astrox Imperium)
-notify_payroll.png;300 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Blargg's Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Blargg's station.
 //;LOG DATA FILE (Astrox Imperium)

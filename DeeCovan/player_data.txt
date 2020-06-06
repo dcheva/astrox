@@ -6,9 +6,9 @@ PLAYER;xp;9607.00
 PLAYER;next_level_xp;14100.00
 PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;137278.35
+PLAYER;credits;132278.35
 PLAYER;skill_points;27
-PLAYER;playtime;27637.35
+PLAYER;playtime;28375.89
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -18,18 +18,19 @@ PLAYER;profession_id;0
 PLAYER;passive_scanner_settings;True,True,True,True,True,True,True,True,True
 PLAYER;autopilot_settings;True,False,True,True,False
 
-PLAYER;sector;sector_56.txt
-PLAYER;sector_id;56
-PLAYER;station;sector_56_station_1.txt
-PLAYER;isdocked;True
+PLAYER;sector;sector_14.txt
+PLAYER;sector_id;14
+PLAYER;station;null
+PLAYER;isdocked;False
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;2990.89;530.29;-165.07
+SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;-4145.12;-3118.48;2862.70
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
-MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(recon_carrier_1)_62239.txt;Active;sector_14_station_1.txt;sector_14.txt;2990.89;530.29;-165.07;
+MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(recon_carrier_1)_62239.txt;Active;sector_14_station_1.txt;sector_14.txt;-4145.12;-3118.48;2862.70;
+MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(Testship)_77803.txt;Active;sector_14_station_0.txt;sector_14.txt;-4145.12;-3118.48;2862.70;578353##Foreman Qukom Yaino
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
@@ -57,6 +58,7 @@ MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your fir
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
+MISSION;70;173;578353;ESCORT#sector_14_station_0.txt#sector_0_station_4.txt#Foreman Qukom Yaino#npc_ship_data_(Testship)#17#null#null#null;Escort Foreman Qukom Yaino from Imperium Republica  in Gate of Alpharis to Starbase Corporate Center in Void Starcross;10;1;False;10268;0;A wealthy council member from the Missionary faction has set up an escort for his oldest son Foreman Qukom Yaino. He was recently released from a rehab center for bliss addiction, and Yails Vispae, his father, would prefer he doesn't travel alone. You can meet up with Foreman Qukom Yaino at the Imperium Republica  station before heading over to Starbase Corporate Center.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
@@ -99,7 +101,7 @@ STAT;35;Recover Missions Complete;0;Missions
 STAT;36;Kill Missions Complete;0;Missions
 STAT;37;Kill Recover Missions Complete;0;Missions
 STAT;38;Sectors Explored;10;Navigation
-STAT;39;Warp gate Jumps;50;Navigation
+STAT;39;Warp gate Jumps;52;Navigation
 STAT;40;Tractor Beams Fired;0;Utility
 STAT;41;Active Shield Cycles;0;Shields
 STAT;42;Dialog Missions Complete;5;Missions

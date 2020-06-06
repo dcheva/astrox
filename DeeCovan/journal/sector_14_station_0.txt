@@ -1,0 +1,146 @@
+[s:30][c:yellow]Imperium Republica [/c][/s]
+Civil Housing Facility
+Fonmi Duemelze
+Alpha
+[c:lime]Dock fee 100[/c]
+Timestamp: 28375.26
+<Station Services>
+[c:lime]SUPPLY[/c]
+Clothing
+Entertainment Electronics
+Foodservice Products
+Transport Units
+Toys
+[c:orange]DEMAND[/c]
+Foodservice Products
+Kitchen Appliances
+Gourmet Food Rations
+Furniture
+Oil
+
+[c:cyan]SERVICES[/c]
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:green]BUY Order[/c] Market Needs Goods: (3) Items 
+ (316) x Foodservice Products
+ (155) x Gourmet Food Rations
+ (147) x Oil
+Fulfill order for [c:lime]59,983[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (1) Items 
+ (183) x Foodservice Products
+Fulfill order for [c:lime]15,302[/c]
+[c:red]SELL Order[/c] Market Goods: (3) Items 
+ (249) x Clothing
+ (65) x Transport Units
+ (99) x Toys
+Buy items for [c:red]62,352[/c]
+[c:red]SELL Order[/c] Market Stock: (3) Items 
+ (100) x Clothing
+ (101) x Transport Units
+ (199) x Toys
+Buy items for [c:red]65,066[/c]
+[c:red]SELL Order[/c] Market Surplus: (2) Items 
+ (220) x Entertainment Electronics
+ (268) x Foodservice Products
+Buy items for [c:red]96,068[/c]
+[c:red]SELL Order[/c] Market Inventory: (2) Items 
+ (219) x Entertainment Electronics
+ (289) x Foodservice Products
+Buy items for [c:red]98,054[/c]
+[c:green]BUY Order[/c] Market Needs Goods: (2) Items 
+ (114) x Kitchen Appliances
+ (111) x Furniture
+Fulfill order for [c:lime]27,170[/c]
+[c:green]BUY Order[/c] Market Shortage: (1) Items 
+ (76) x Foodservice Products
+Fulfill order for [c:lime]6,355[/c]
+[c:red]SELL Order[/c] Market Stock: (2) Items 
+ (48) x Foodservice Products
+ (98) x Transport Units
+Buy items for [c:red]50,840[/c]
+[c:red]SELL Order[/c] Market Supply: (4) Items 
+ (60) x Clothing
+ (93) x Entertainment Electronics
+ (82) x Foodservice Products
+ (25) x Transport Units
+Buy items for [c:red]55,793[/c]
+[c:green]BUY Order[/c] Market Items Req: (2) Items 
+ (72) x Kitchen Appliances
+ (27) x Furniture
+Fulfill order for [c:lime]13,204[/c]
+
+
+<Station Market Items>
+(4527) x Basic Missile
+(694) x Basic 20mm
+(2511) x Junk Shield Module
+(5) x Basic Scan Emitter
+(3382) x Quazor Ore
+(359) x Kinetic Missile
+(52) x Reinforced Rubber
+(1) x Thermal Controller
+(137) x Oxygen
+(49) x Metal Gears
+(7) x Basic Energy Armor
+(57) x Basic Small Miner Specs
+(1) x Basic Laser Energy Mod Specs
+(3) x Basic Energy Armor
+(3637) x Radiated Core Torpedo
+(54) x Metal Gears
+(9) x Improved Scan Booster
+(95) x Improved Targeting System
+(4) x Noodles
+(9) x Advanced Regulator
+(2) x Basic Laser Impact Mod Specs
+(2187) x Junk
+(4) x Improved Targeting System
+(2537) x Basic 60mm
+(64) x Improved Active Scanner
+(83) x Nuts And Bolts
+(1) x Improved Shield Generator
+(2757) x Junk Shield Module
+(7) x Small Defense Drone
+(1) x Basic Shield Generator Specs
+(8) x Improved Energy Generator
+(2) x Basic Large Beam Specs
+(325) x Basic 60mm
+(36) x Fasteners
+(3983) x Junk Flight Module
+(62) x Generic 20mm Auto Specs
+(1493) x Cleaning Chemicals
+(1068) x Junk Engine Module
+(734) x Junk Shield Module
+(5) x Generic Light Miner
+(4470) x Kitchen Appliances
+(9) x Kinetics G-series 20mm Gun
+(3038) x Lokken Ore
+(9) x Improved Afterburner
+(3640) x Anti-Freeze
+(1962) x Explosive Core Torpedo
+(2) x Basic Single Launcher Specs
+(62) x Circuit Board
+(2) x Inovex 60mm Dual Cannon
+(2761) x Junk Flight Module
+(2) x Basic 60mm Specs
+(44) x Mechanical Belts
+(2033) x Kinetic 60mm
+(7) x Improved Engine Core
+(104) x Basic Small Miner Specs
+(2) x Basic Light Beam Specs
+
+
+<Station University Skills>
+Passive Scanner Systems
+Projectile Advanced Systems
+Miner Energy Optimization
+Laser Cycle Mechanics
+Storage Manager

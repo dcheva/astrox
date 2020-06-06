@@ -51,11 +51,11 @@ SHIP_xp;0
 SHIP_next_level_xp;8000
 SHIP_level;8
 SHIP_talent;Recon
-SHIP_loyalty;0.1017394
+SHIP_loyalty;0.1071741
 SHIP_payroll;2400
 SHIP_pilot_face_1;female_11.png
 SHIP_pilot_face_2;accessory_14.png
-SHIP_morale;0.9993298
+SHIP_morale;0.9972414
 //; --------------------------------- SHIP PARTS -----------------------------------
 //; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr-----------------------------
 <ITEM>

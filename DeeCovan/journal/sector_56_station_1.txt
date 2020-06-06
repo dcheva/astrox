@@ -3,7 +3,7 @@ Trade Floor Facility
 Binofesiv Sedkeesed
 Trade
 [c:lime]Dock fee 100[/c]
-Timestamp: 16913.28
+Timestamp: 27763.86
 <Station Services>
 [c:lime]SUPPLY[/c]
 Mechanical Belts
@@ -28,6 +28,14 @@ Fabricator
 
 
 <Station Market Orders>
+[c:green]BUY Order[/c] Market Items Req: (1) Items 
+ (147) x Assorted Springs
+Fulfill order for [c:lime]4,860[/c]
+[c:green]BUY Order[/c] Market Low Inventory: (3) Items 
+ (351) x Circuit Board
+ (300) x Basic Sensor
+ (63) x Optical Interface
+Fulfill order for [c:lime]61,990[/c]
 [c:red]SELL Order[/c] Market Surplus: (1) Items 
  (185) x Mechanical Belts
 Buy items for [c:red]2,948[/c]

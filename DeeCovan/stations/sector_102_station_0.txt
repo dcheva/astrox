@@ -40,6 +40,8 @@ MERC;1;0.89;npc_ship_data_(transport_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (2) Items ;343x417,324x438;77716;37609.79
+BUYORDER;Market Needs Goods: (4) Items ;301x333,332x425,343x412,324x349;149475;91673.79
 BUYORDER;Market Out of Stock: (4) Items ;301x157,332x160,343x344,324x131;89268;105050.00
 BUYORDER;Market Low Inventory: (3) Items ;301x81,332x348,303x67;40646;88053.05
 BUYORDER;Market Out of Stock: (3) Items ;343x182,303x188,324x362;93433;38980.03
@@ -172,6 +174,7 @@ SKILL;233;1.92
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1;ship_data_(pirate_frigate_1).txt
 SHIP;1;1.05;ship_data_(pirate_carrier_1).txt
 SHIP;2;0.92;ship_data_(battle_frigate_1).txt
 SHIP;3;0.93;ship_data_(battle_utility_1).txt

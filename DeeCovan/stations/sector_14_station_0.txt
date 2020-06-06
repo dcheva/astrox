@@ -15,6 +15,8 @@ STATION;dockfee;100
 STATION;lease;1
 STATION;seed;4-2-0-2-3-3-7-0-7-1-0-3-0-2-5-1-2-0-4-9-0-8-0
 STATION;interior_seed;3-4-45-9
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
 // SERVICES;servicename;bool
 SERVICES;lounge;False
 SERVICES;market;True
@@ -128,6 +130,9 @@ SKILL;231;1.57
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
+MISSION;52;120;564492;SCAN_STRUCTURE#sector_77_station_0.txt#sector_53.txt#Public Energy Generator#structure_energy_gen_1.txt#1#null#null#null;Track and scan the target Public Energy Generator structure in Heliojen and return to Lacuna Bandits in Ballast Crow;17;The Judicial faction has commissioned scientific survey of a strange vibration taking place at Public Energy Generator in the Heliojen sector. Head over to Heliojen and scan the Public Energy Generator structure. Once complete, return to the Lacuna Bandits station located in the Ballast Crow with the scan data.;30736
+MISSION;50;120;330427;SCAN_STRUCTURE#sector_36_station_0.txt#sector_45.txt#Office Center#structure_office_1.txt#1#null#null#null;Locate and scan the Office Center structure in Itsobvi-Emma and return to Blargg's in Beacon Spita;8;A recent construction permit was delivered by the Sovereign faction. They are demanding a survey of a new structure that has been constructed by Arsqo Fataqa. Scan the Office Center structure and return back to the Blargg's located in the Beacon Spita with the survey data. Once the data is verified, payment will be rendered.;75364
+MISSION;72;180;644509;ESCORT#sector_0_station_5.txt#sector_56_station_1.txt#Lieutenant Akrib Dornlindofar#npc_ship_data_(kj_utility_2)#19#null#null#null;A ship in Proctors Center in Void Starcross needs an escort to ValueStar in Hunu;0;After being selected for an academic grant, Dr. Lieutenant Akrib Dornlindofar has requested an escort to the ValueStar station in the Hunu system. Lieutenant Akrib Dornlindofar has posted his pick-up location as Proctors Center in Void Starcross. Be sure to protect the doctor at all cost, and under no circumstances are you to abandon him.;29338
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -139,3 +144,4 @@ SHIP;4;0.91;ship_data_(recon_utility_1).txt
 </HANGAR>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
