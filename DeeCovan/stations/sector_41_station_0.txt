@@ -39,6 +39,7 @@ MERC;4;0.69;npc_ship_data_(pirate_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Out of Stock: (3) Items ;101x170,107x93,117x179;4335;33977.79
 BUYORDER;Market Low Inventory: (4) Items ;2000x389,101x84,107x360,122x184;10966;51092.72
 BUYORDER;Market Shortage: (3) Items ;101x217,107x322,122x153;7559;51683.72
 BUYORDER;Market Low Inventory: (3) Items ;105x188,101x260,117x285;4136;96052.46
