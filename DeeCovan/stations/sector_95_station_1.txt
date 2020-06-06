@@ -37,6 +37,9 @@ MERC;7;0.99;npc_ship_data_(support_carrier_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Supply: (3) Items ;302x223,351x272,300x492;50819;101660.60
+BUYORDER;Market Low Inventory: (1) Items ;341x98;7705;59095.61
+BUYORDER;Market Needs Goods: (2) Items ;341x226,325x252;28616;101067.60
 SELLORDER;Market Items: (4) Items ;353x241,351x71,312x177,300x61;27959;110534.20
 SELLORDER;Market Production: (3) Items ;353x283,302x181,351x326;29664;48758.30
 SELLORDER;Market Supply: (1) Items ;353x364;18906;99786.30

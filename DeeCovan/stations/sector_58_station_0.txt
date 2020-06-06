@@ -39,6 +39,8 @@ MERC;3;1.62;npc_ship_data_(excavation_utility_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Goods: (2) Items ;205x310,206x397;22883;44935.94
+SELLORDER;Market Stock: (1) Items ;205x351;23660;39327.94
 BUYORDER;Market Needs Goods: (2) Items ;108x226,112x336;4620;57425.79
 BUYORDER;Market Needs Goods: (2) Items ;108x80,119x87;3104;91735.09
 BUYORDER;Market Shortage: (1) Items ;108x323;2158;63855.09

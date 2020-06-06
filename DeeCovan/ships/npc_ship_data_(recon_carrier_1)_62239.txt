@@ -51,11 +51,11 @@ SHIP_xp;0
 SHIP_next_level_xp;8000
 SHIP_level;8
 SHIP_talent;Recon
-SHIP_loyalty;0.1071741
+SHIP_loyalty;0.1140141
 SHIP_payroll;2400
 SHIP_pilot_face_1;female_11.png
 SHIP_pilot_face_2;accessory_14.png
-SHIP_morale;0.9972414
+SHIP_morale;0.9946083
 //; --------------------------------- SHIP PARTS -----------------------------------
 //; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr-----------------------------
 <ITEM>
@@ -106,3 +106,4 @@ CARGO; 150 ; 60
 CARGO; 66 ; 61
 CARGO; 72 ; 2118
 CARGO; 228 ; 51
+CARGO; 223 ; 62

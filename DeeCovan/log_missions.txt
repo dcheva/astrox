@@ -1,4 +1,7 @@
 //;LOG DATA FILE (Astrox Imperium)
+ACCEPTED;Scan;Track down and scan Rooki...;-0;Lammassu Financial
+ACCEPTED;Scan;Track down and scan Enfor...;-0;Lammassu Financial
+COMPLETED;Escort;Escort Foreman Qukom Yain...;10,268;Starbase Corporate Center
 ACCEPTED;Escort;Escort Foreman Qukom Yain...;-0;Transporteers
 COMPLETED;Dialog;Collect a small debt from...;116,983;Horizons
 ACCEPTED;Dialog;Collect a small debt from...;-0;Astrox Security Patrol

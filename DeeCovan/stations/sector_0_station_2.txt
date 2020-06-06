@@ -15,6 +15,8 @@ STATION;dockfee;25
 STATION;lease;20
 STATION;seed;4-5-0-1-9-0-9-1-3-0-0-4-1-3-8-1-9-1-1-3-1-3-90
 STATION;interior_seed;7-5-15-3
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
 // SERVICES;servicename;bool
 SERVICES;lounge;True
 SERVICES;market;True
@@ -283,3 +285,4 @@ OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;m
 </OFFICE>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+

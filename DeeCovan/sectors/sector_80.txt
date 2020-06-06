@@ -1,7 +1,7 @@
 // SECTOR;Variable;Value
 SECTOR;id;80
 SECTOR;name;Blades of Dandrow
-SECTOR;level;0.1
+SECTOR;level;0.0
 SECTOR;faction;Pirate
 SECTOR;filename;sector_80.txt
 SECTOR;is_explored;False

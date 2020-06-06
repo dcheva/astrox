@@ -43,159 +43,157 @@ MERC;15;1.47;npc_ship_data_(excavation_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
-BUYORDER;Market Out of Stock: (3) Items ;106x128,118x130,120x470;26736;42282.09
-BUYORDER;Market Shortage: (2) Items ;118x382,122x203;13719;97866.09
-BUYORDER;Market Shortage: (3) Items ;106x376,103x419,120x137;12382;46468.18
-BUYORDER;Market Demands: (3) Items ;106x498,120x448,122x156;30086;110345.20
-SELLORDER;Market Surplus: (1) Items ;162x394;4231;28936.99
-
-BUYORDER;Market Demands: (3) Items ;106x170,103x200,118x195;2319;86393.87
-BUYORDER;Market Out of Stock: (4) Items ;106x252,118x151,120x119,122x271;15127;60128.87
-BUYORDER;Market Out of Stock: (2) Items ;118x269,120x156;5607;78567.87
-BUYORDER;Market Shortage: (3) Items ;106x388,118x310,120x150;13841;29000.87
-SELLORDER;Market Stock: (2) Items ;215x309,2028x51;46340;48181.14
-SELLORDER;Market Stock: (4) Items ;162x53,215x323,2034x62,2016x248;30328;32767.77
-
-BUYORDER;Market Shortage: (3) Items ;103x89,118x315,122x252;10168;20340.77
-BUYORDER;Market Items Req: (3) Items ;118x367,120x52,122x200;18520;86419.10
-BUYORDER;Market Out of Stock: (3) Items ;118x213,120x193,122x269;20126;48280.39
+BUYORDER;Market Shortage: (2) Items ;103x426,120x381;18541;40013.61
+BUYORDER;Market Out of Stock: (3) Items ;106x128,118x130,120x470;26736.00;42282.09
+BUYORDER;Market Shortage: (2) Items ;118x382,122x203;13719.00;97866.09
+BUYORDER;Market Shortage: (3) Items ;106x376,103x419,120x137;12382.00;46468.18
+BUYORDER;Market Demands: (3) Items ;106x498,120x448,122x156;30086.00;110345.20
+SELLORDER;Market Surplus: (1) Items ;162x394;4231.00;28936.99
+BUYORDER;Market Demands: (3) Items ;106x170,103x200,118x195;2319.00;86393.87
+BUYORDER;Market Out of Stock: (4) Items ;106x252,118x151,120x119,122x271;15127.00;60128.87
+BUYORDER;Market Out of Stock: (2) Items ;118x269,120x156;5607.00;78567.87
+BUYORDER;Market Shortage: (3) Items ;106x388,118x310,120x150;13841.00;29000.87
+SELLORDER;Market Stock: (2) Items ;215x309,2028x51;46340.00;48181.14
+SELLORDER;Market Stock: (4) Items ;162x53,215x323,2034x62,2016x248;30328.00;32767.77
+BUYORDER;Market Items Req: (3) Items ;118x367,120x52,122x200;18520.00;86419.10
+BUYORDER;Market Out of Stock: (3) Items ;118x213,120x193,122x269;20126.00;48280.39
 ITEM;1522;6;2.50
-ITEM;1642;51;2.20
-ITEM;1572;22;2.25
-ITEM;1582;8;2.25
-ITEM;1512;15;2.25
-ITEM;1652;4;2.22
-ITEM;622;11;2.25
-ITEM;1632;13;2.25
+ITEM;1642;51;2.50
+ITEM;1572;22;2.50
+ITEM;1582;8;2.50
+ITEM;1512;15;2.50
+ITEM;1652;4;2.50
+ITEM;622;11;2.50
+ITEM;1632;13;2.50
 ITEM;1542;12;2.50
-ITEM;641;52;2.25
-ITEM;1617;37;2.25
-ITEM;1602;41;2.15
-ITEM;1552;6;2.25
-ITEM;1562;26;2.25
-ITEM;1502;47;2.25
-ITEM;1592;12;2.25
-ITEM;402;328;2.25
-ITEM;422;10;2.25
-ITEM;1155;15;2.25
-ITEM;1156;6;2.25
+ITEM;641;52;2.50
+ITEM;1617;37;2.50
+ITEM;1602;41;2.50
+ITEM;1552;6;2.50
+ITEM;1562;26;2.50
+ITEM;1502;47;2.50
+ITEM;1592;12;2.50
+ITEM;402;328;2.50
+ITEM;422;10;2.50
+ITEM;1155;15;2.50
+ITEM;1156;6;2.50
 ITEM;2441;5;2.50
-ITEM;2028;341;1.49
+ITEM;2028;386;1.51
 ITEM;153;66;2.50
-ITEM;50;9161;2.17
-ITEM;1520;9;2.25
-ITEM;1620;4;2.25
-ITEM;1570;15;2.25
-ITEM;1580;6;2.25
-ITEM;620;9;2.25
-ITEM;312;8134;2.23
-ITEM;1630;191;2.18
-ITEM;60;3401;2.25
+ITEM;50;9161;2.50
+ITEM;1520;9;2.50
+ITEM;1620;4;2.50
+ITEM;1570;15;2.50
+ITEM;1580;6;2.50
+ITEM;620;9;2.50
+ITEM;312;8134;2.50
+ITEM;1630;191;2.50
+ITEM;60;3401;2.50
 ITEM;520;4;2.50
-ITEM;201;50;2.16
-ITEM;1550;41;2.25
-ITEM;1610;9;2.25
-ITEM;1500;4;2.25
-ITEM;1590;18;2.25
-ITEM;400;250;2.25
-ITEM;420;48;2.20
-ITEM;101;597;2.15
-ITEM;661;42;2.25
-ITEM;2442;5;2.25
-ITEM;2443;5;2.25
-ITEM;660;144;2.17
-ITEM;2034;321;1.52
+ITEM;201;50;2.50
+ITEM;1550;41;2.50
+ITEM;1610;9;2.50
+ITEM;1500;4;2.50
+ITEM;1590;18;2.50
+ITEM;400;250;2.50
+ITEM;420;48;2.50
+ITEM;101;597;2.50
+ITEM;661;42;2.50
+ITEM;2442;5;2.50
+ITEM;2443;5;2.50
+ITEM;660;144;2.50
+ITEM;2034;369;1.53
 ITEM;2444;5;2.50
-ITEM;2445;29;2.25
-ITEM;42;4340;2.25
-ITEM;52;1444;2.25
-ITEM;62;5920;2.50
-ITEM;522;21;2.25
-ITEM;151;169;2.25
+ITEM;2445;29;2.50
+ITEM;42;4340;2.50
+ITEM;52;1444;2.50
+ITEM;62;5737;2.50
+ITEM;522;21;2.50
+ITEM;151;169;2.50
 ITEM;204;241;2.50
-ITEM;303;3472;2.25
-ITEM;735;72;2.22
+ITEM;303;3472;2.50
+ITEM;735;72;2.50
 ITEM;1300;7;2.50
 ITEM;1001;4;2.50
-ITEM;1051;101;2.20
-ITEM;1003;36;2.17
+ITEM;1051;101;2.50
+ITEM;1003;36;2.50
 ITEM;1100;6;2.50
-ITEM;1152;38;2.25
-ITEM;1102;13;2.25
-ITEM;1202;75;2.18
-ITEM;1002;7;2.25
+ITEM;1152;38;2.50
+ITEM;1102;13;2.50
+ITEM;1202;75;2.50
+ITEM;1002;7;2.50
 ITEM;1050;8;2.50
 ITEM;1151;9;2.50
 ITEM;1201;17;2.50
-ITEM;1450;8;2.25
-ITEM;1052;98;2.19
-ITEM;2446;71;2.19
-ITEM;313;7511;2.25
-ITEM;2;2785;2.20
-ITEM;602;51;2.25
-ITEM;2447;197;2.20
-ITEM;2448;5;2.25
-ITEM;102;9609;2.25
-ITEM;1521;90;2.25
-ITEM;1621;104;2.25
-ITEM;1531;99;2.25
+ITEM;1450;8;2.50
+ITEM;1052;98;2.50
+ITEM;2446;71;2.50
+ITEM;313;7511;2.50
+ITEM;2;2785;2.50
+ITEM;602;51;2.50
+ITEM;2447;197;2.50
+ITEM;2448;5;2.50
+ITEM;102;9609;2.50
+ITEM;1521;90;2.50
+ITEM;1621;104;2.50
+ITEM;1531;99;2.50
 ITEM;1641;3;2.50
-ITEM;1571;20;2.21
+ITEM;1571;20;2.50
 ITEM;1511;7;2.50
-ITEM;1651;13;2.25
-ITEM;621;9;2.25
-ITEM;1631;8;2.24
-ITEM;1541;37;2.25
-ITEM;1601;99;2.20
-ITEM;1551;5;2.25
+ITEM;1651;13;2.50
+ITEM;621;9;2.50
+ITEM;1631;8;2.50
+ITEM;1541;37;2.50
+ITEM;1601;99;2.50
+ITEM;1551;5;2.50
 ITEM;1561;10;2.50
-ITEM;1591;46;2.25
-ITEM;401;281;2.25
-ITEM;421;10;2.25
-ITEM;1402;16;2.25
-ITEM;1060;15;2.25
-ITEM;105;147;2.25
-ITEM;2449;61;2.19
-ITEM;1303;117;2.16
-ITEM;1206;125;2.25
-ITEM;20;549;2.25
-ITEM;2440;12;2.25
-ITEM;41;6547;2.25
-ITEM;51;8168;2.25
+ITEM;1591;46;2.50
+ITEM;401;281;2.50
+ITEM;421;10;2.50
+ITEM;1402;16;2.50
+ITEM;1060;15;2.50
+ITEM;105;147;2.50
+ITEM;2449;61;2.50
+ITEM;1303;117;2.50
+ITEM;1206;125;2.50
+ITEM;20;549;2.50
+ITEM;2440;12;2.50
+ITEM;41;6547;2.50
+ITEM;51;8168;2.50
 ITEM;61;5030;2.50
-ITEM;521;2;2.25
+ITEM;521;2;2.50
 ITEM;1008;12;2.50
-ITEM;1007;196;2.23
+ITEM;1007;196;2.50
 ITEM;1055;3;2.50
 ITEM;304;6767;2.50
-ITEM;158;62;2.25
-ITEM;4;4281;2.25
-ITEM;155;140;2.18
-ITEM;104;337;2.20
-ITEM;203;155;2.25
-ITEM;157;97;2.25
-ITEM;106;63;2.25
-ITEM;206;77;2.25
-ITEM;103;97;2.25
-ITEM;6;3474;2.25
-ITEM;118;81;2.25
-ITEM;120;29;2.25
-ITEM;600;2;2.25
-ITEM;1013;3;2.25
+ITEM;158;62;2.50
+ITEM;4;4281;2.50
+ITEM;155;140;2.50
+ITEM;104;337;2.50
+ITEM;203;155;2.50
+ITEM;157;97;2.50
+ITEM;106;32;2.50
+ITEM;206;77;2.50
+ITEM;103;61;2.50
+ITEM;6;3474;2.50
+ITEM;118;67;2.50
+ITEM;120;23;2.50
+ITEM;600;2;2.50
+ITEM;1013;3;2.50
 ITEM;154;63;2.50
-ITEM;1210;185;2.20
-ITEM;21;2618;2.25
-ITEM;2016;347;1.52
-ITEM;215;297;1.52
-ITEM;156;60;2.25
-ITEM;642;3;2.25
-ITEM;162;327;1.52
+ITEM;1210;185;2.50
+ITEM;21;2618;2.50
+ITEM;2016;389;1.53
+ITEM;215;337;1.53
+ITEM;156;60;2.50
+ITEM;642;3;2.50
+ITEM;162;368;1.53
 ITEM;122;0;2.50
 ITEM;1105;13;2.50
-ITEM;662;26;2.25
-ITEM;100;11721;2.25
-ITEM;311;6426;2.17
-ITEM;310;2935;2.25
+ITEM;662;26;2.50
+ITEM;100;11721;2.50
+ITEM;311;6426;2.50
+ITEM;310;2935;2.50
 </MARKET>
 // SKILLS;Skill_id;Price_modifier
 <SKILLS>
@@ -221,8 +219,6 @@ SKILL;253;1.13
 </SKILLS>
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
-MISSION;71;180;700053;ESCORT#sector_0_station_0.txt#sector_0_station_4.txt#Professor Zeto Velea#npc_ship_data_(battle_cruiser_1)#19#null#null#null;Professor Zeto Velea requests an escort from Biomate University in Void Starcross to Starbase Corporate Center in Void Starcross;16;The Astrox Security Patrol has posted a contract for the safe delivery of a Professor Zeto Velea, wanted for questioning in a non-violent incident a few cycles ago in the Void Starcross system. Escort Professor Zeto Velea from Biomate University to Starbase Corporate Center in the Void Starcross system.;11961
-MISSION;30;240;246631;TRANSPORT#2#1016#sector_35_station_0.txt#sector_3_station_0.txt#null#null#null#null;Transport a light shipment of 2 Acrondia 60mm Howtizer(s) from Astrox Security Patrol in Felishar to Daemon Ammunitions in Starfort Ramos;10;Transport manager Madbar Beckop has requested a transport of a light shipment of 2 Acrondia 60mm Howtizer(s). They need to be picked up at the storage facility at Astrox Security Patrol in Felishar, and transported to Daemon Ammunitions in Starfort Ramos. Madbar Beckop will be waiting at Daemon Ammunitions to receive the shipment. ;16104
 MISSION;120;120;229305;CHAT_PILOT#sector_56_station_1.txt#sector_16.txt#Captain Bellow Paekeesip#npc_ship_data_(kj_frigate_2)#22#missions_debt_collection.txt#0#null;Collect a small debt from Captain Bellow Paekeesip in Entropy and return to ValueStar in Hunu;16;Zovis Beemi has requested that debt be collected from Captain Bellow Paekeesip. After 3 payments to the Enforcement faction for transport fines, Captain Bellow Paekeesip has refused to make any further payments. Last known sighting of Captain Bellow Paekeesip was in the vicinity of the Entropy system. Have a chat with them, collect the debt, and return to the ValueStar in the Hunu system to deliver the payment.;41529
 MISSION;60;140;567152;HARVEST#50#1#sector_1.txt#sector_14_station_0.txt#null#null#null#null;Harvest special Adamyte Ore in Dellis Primeria and return with 50 ore to Imperium Republica  in Gate of Alpharis;13;A local prospector, Vessih Mibastmi of the Contractor faction has located a light quantity of special Adamyte Ore in the Dellis Primeria sector. Head over there and harvest all of the special Adamyte Ore, and meet Vessih Mibastmi back at Imperium Republica  station located in the Gate of Alpharis.;30805
 MISSION;70;180;867194;ESCORT#sector_0_station_2.txt#sector_56_station_0.txt#Govenor Lesmole Daxon#npc_ship_data_(transport_shuttle_1)#18#null#null#null;Escort Govenor Lesmole Daxon from StarGypsy Warehouse in Void Starcross to Transporteers in Hunu;12;A wealthy council member from the Labor faction has set up an escort for his oldest son Govenor Lesmole Daxon. He was recently released from a rehab center for bliss addiction, and Deepei Siqidie, his father, would prefer he doesn't travel alone. You can meet up with Govenor Lesmole Daxon at the StarGypsy Warehouse station before heading over to Transporteers.;10325
@@ -236,6 +232,7 @@ MISSION;60;140;112770;HARVEST#99#2#sector_13.txt#sector_0_station_0.txt#null#nul
 MISSION;70;180;360310;ESCORT#sector_14_station_0.txt#sector_0_station_4.txt#General Falldorn Peaaoada#npc_ship_data_(kj_frigate_1)#9#null#null#null;Escort General Falldorn Peaaoada from Imperium Republica  in Gate of Alpharis to Starbase Corporate Center in Void Starcross;13;A wealthy council member from the Contractor faction has set up an escort for his oldest son General Falldorn Peaaoada. He was recently released from a rehab center for bliss addiction, and Voqo Vitadao, his father, would prefer he doesn't travel alone. You can meet up with General Falldorn Peaaoada at the Imperium Republica  station before heading over to Starbase Corporate Center.;10501
 MISSION;40;120;509555;SCAN_PILOT#sector_56_station_0.txt#sector_1.txt#Watchman Heani Zasivaj#npc_ship_data_(recon_escort_raider)#5#null#null#null;Locate and scan Watchman Heani Zasivaj in Dellis Primeria and return to Transporteers in Hunu;13;Aojid Mesnostra has requested a location verification on a recent employee. Watchman Heani Zasivaj is supposed to be running a survey in Dellis Primeria. Please verify the location of this pilot by scanning their ship and return to Transporteers in Hunu.;11875
 MISSION;70;180;686616;ESCORT#sector_14_station_1.txt#sector_42_station_0.txt#Watchman Lomla Serwhabru#npc_ship_data_(recon_utility_3)#17#null#null#null;Escort Watchman Lomla Serwhabru from Horizons in Gate of Alpharis to Desban in Ellisar;2;A wealthy council member from the Civil faction has set up an escort for his oldest son Watchman Lomla Serwhabru. He was recently released from a rehab center for bliss addiction, and Eroso Leifousa, his father, would prefer he doesn't travel alone. You can meet up with Watchman Lomla Serwhabru at the Horizons station before heading over to Desban.;23011
+MISSION;42;120;625404;SCAN_PILOT#sector_1_station_0.txt#sector_42.txt#Accountant Yelxa Foufae#npc_ship_data_(battle_escort_3)#13#null#null#null;Track down and scan Accountant Yelxa Foufae in Ellisar and return to Quantex in Dellis Primeria;6;Pirate faction has requested that we verify the whereabouts of a Accountant Yelxa Foufae. After a recent ban order from the high court minister Komxon Xulbo, Ellisar officials are worried that Accountant Yelxa Foufae might cause problems for the local merchants. Scan Accountant Yelxa Foufae's ship and return to Quantex in Dellis Primeria with the scan record.;80575
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>

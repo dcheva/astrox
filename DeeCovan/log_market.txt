@@ -1,4 +1,5 @@
 //;LOG DATA FILE (Astrox Imperium)
+BUY;183;Explosive Missile  <color='yellow'>55.00</color>;10065;Starbase Corporate Center
 BUY;76;Kinetic 60mm  <color='yellow'>22.00</color>;1672;Horizons
 BUY;76;Kinetic 60mm  <color='yellow'>22.00</color>;1672;Horizons
 BUY;76;Kinetic 60mm  <color='yellow'>17.50</color>;1330;Horizons
@@ -44,4 +45,3 @@ SELL;1860;Water  <color='yellow'>1.94</color>;3608;Starbase Corporate Center
 SELL;1550;Hydrogen  <color='yellow'>2.91</color>;4511;Starbase Corporate Center
 SELL;930;Carbon  <color='yellow'>2.08</color>;1931;Biomate University
 BUY;142;Explosive 20mm  <color='yellow'>11.75</color>;1669;Starbase Corporate Center
-SELL;597;Carbon  <color='yellow'>0.10</color>;58;Starbase Corporate Center

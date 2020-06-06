@@ -1,4 +1,18 @@
 //;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;StarGypsy Warehouse Station - 25 Dock Fee.;You have been charged a docking fee for entry into the StarGypsy Warehouse station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_payroll.png;2,400 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Lammassu Financial Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Lammassu Financial station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_payroll.png;2,400 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
+//;LOG DATA FILE (Astrox Imperium)
+escort_ship.png;Mission Escort objectives complete.;You have successfully escorted Foreman Qukom Yaino to their destination.
+//;LOG DATA FILE (Astrox Imperium)
+dock_fee.png;Starbase Corporate Center Station - 25 Dock Fee.;You have been charged a docking fee for entry into the Starbase Corporate Center station.
+//;LOG DATA FILE (Astrox Imperium)
+notify_payroll.png;2,400 in Payroll has been deducted.; Your MERC employees cost money, and they must be paid often. Payroll checks for your active MERCS have been deducted from your account.
+//;LOG DATA FILE (Astrox Imperium)
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
@@ -30,18 +44,4 @@ dock_fee.png;ValueStar Station - 100 Dock Fee.;You have been charged a docking f
 notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
 //;LOG DATA FILE (Astrox Imperium)
 warpgate.png;Warp to Hunu;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_on.png;GPS Autopilot Active;Your ship is currently being controlled by the Galactic Positioning System. You can turn this off at any time via the System Nav panel.
-//;LOG DATA FILE (Astrox Imperium)
-dock_fee.png;Horizons Station - 100 Dock Fee.;You have been charged a docking fee for entry into the Horizons station.
-//;LOG DATA FILE (Astrox Imperium)
-notify_gps_off.png;GPS Autopilot Disabled;Control of your ship has now been handed over to the pilot. GPS has been disabled.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Gate of Alpharis;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Void Starcross;Your ship has actived the warp gate, and has arrived safely on the other side.
-//;LOG DATA FILE (Astrox Imperium)
-warpgate.png;Warp to Felishar;Your ship has actived the warp gate, and has arrived safely on the other side.
 //;LOG DATA FILE (Astrox Imperium)

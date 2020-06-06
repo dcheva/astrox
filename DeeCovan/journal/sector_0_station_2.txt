@@ -1,0 +1,259 @@
+[s:30][c:yellow]StarGypsy Warehouse[/c][/s]
+Tavern Station
+Pinratus Flake
+Pirate
+[c:lime]Dock fee 25[/c]
+Timestamp: 29428.96
+<Station Services>
+[c:lime]SUPPLY[/c]
+Ball Bearings
+[c:orange]DEMAND[/c]
+Whiskey
+Gourmet Food Rations
+HVAC System
+Cooling Unit
+Salt Crystal
+
+[c:cyan]SERVICES[/c]
+Lounge
+Market
+Refinery
+Ship Garage
+University
+Ship Hangar
+Storage
+Fabricator
+Mission Contracts
+Offices
+
+
+<Station Market Orders>
+[c:red]SELL Order[/c] Market Stock: (1) Items 
+ (182) x Ball Bearings
+Buy items for [c:red]3,690[/c]
+[c:red]SELL Order[/c] Market Items: (1) Items 
+ (258) x Ball Bearings
+Buy items for [c:red]5,231[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (70) x Whiskey
+ (292) x Salt Crystal
+Fulfill order for [c:lime]6,883[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (1) Items 
+ (30) x Gourmet Food Rations
+Fulfill order for [c:lime]7,356[/c]
+
+
+<Station Market Items>
+(21) x Advanced Turn Thrust
+(8) x Vita Lightblade X2 Laser
+(7) x Basic Shield Extender
+(6) x Janca Z2 OreVac
+(178) x Thermal Sensor
+(3377) x Gradeon Ore
+(3) x Ion Light Beam
+(5) x Generic Spotlight
+(1) x Explosive Missile Specs
+(4) x Disposables
+(117) x Hydrogen
+(880) x Colored Dye
+(183) x Lubricant
+(2330) x Kinetic 20mm
+(2993) x Gradeon Ore
+(37) x Basic Scan Booster
+(3) x Generic Medium Miner
+(6) x Basic Filter
+(166) x Capacitors
+(44) x Steelium Pipes
+(81) x Generic Light Miner
+(16) x Basic Mass Reduction
+(65) x Nuts And Bolts
+(59) x Thermal Sensor
+(142) x Kinetics G-series Dual 20mm
+(7) x Noodles
+(8) x Advanced Scan Booster
+(138) x Iron Coring
+(9) x Advanced Turn Thrust
+(88) x Explosive Missile Specs
+(2) x Explosive Missile Specs
+(3) x Improved Turn Thrust
+(4) x Advanced Mass Reduction
+(161) x Generic Single 20mm Gun
+(3) x Temperature Genie
+(1422) x Basic Missile
+(6) x Thermal Controller
+(2) x SBC LI1 Harvester
+(5) x Janca Default Tractor
+(75) x Basic Mass Reduction
+(71) x Containment Unit
+(2) x Protonic Light Laser
+(7) x Basic Armor Exterior
+(63) x Liquid Coolant
+(56) x Explosive Missile Specs
+(3374) x Torim Ore
+(2) x Advanced Thruster
+(51) x Fasteners
+(6) x Advanced Impact Armor
+(6) x Improved Energy Generator
+(435) x Wine
+(4080) x Wine
+(8) x Kinetics G-series Dual 20mm
+(4) x Improved Scan Booster
+(57) x Industrial Salvager
+(2) x Improved Afterburner
+(105) x Carbon
+(23) x Waste Processor
+(2) x Explosive 20mm Specs
+(53) x Steelium Pipes
+(7) x Basic Energy Armor
+(168) x Improved Engine Core
+(4) x Advanced Mass Reduction
+(71) x Advanced Armor Exterior
+(3336) x Furniture
+(51) x Improved Thruster
+(1759) x Whiskey
+(106) x SBC LI1 Harvester
+(7) x Advanced Scan Booster
+(7) x Advanced Shield Generator
+(4) x Improved Scan Emitter
+(471) x Basic Charged Cell
+(5) x Generic Medium Beam
+(4) x Advanced Explosive Armor
+(67) x Fasteners
+(185) x Advanced Armor Exterior
+(8) x Generic Single Launcher
+(4706) x Anti-Freeze
+(4) x Generic Medium Laser
+(6) x Generic Spotlight
+(8) x Quantex  x-2 20mm Gun
+(169) x Advanced Filter
+(55) x Metal Brackets
+(109) x Carbon
+(4854) x Kitchen Appliances
+(5) x Advanced Scan Booster
+(7) x Advanced Energy Armor
+(11) x Improved Thruster
+(7) x Advanced Filter
+(4) x Improved Scan Emitter
+(3) x Improved Shield Extender
+(144) x Improved Armor Exterior
+(6) x Janca Default Tractor
+(4) x Kinetics G-series 20mm Gun
+(2) x Kinetic 20mm Specs
+(9) x Improved Shield Extender
+(5) x Improved Explosive Armor
+(16) x Disposables
+(7) x Advanced Mass Reduction
+(5) x Waste Processor
+(2523) x Torim Ore
+(7) x Improved Scan Emitter
+(3) x Kinetics G-series 20mm Gun
+(116) x Basic Missile Specs
+(59) x Mechanical Switch
+(77) x Generic Gatling 20mm Gun
+(2) x Janca Z1 OreVac
+(9) x Improved Engine Core
+(190) x Advanced Cargo Expansion
+(1) x Basic Missile Specs
+(2395) x Gourmet Food Rations
+(80) x Kinetics G-series 20mm Gun
+(8) x Basic Shield Extender
+(1) x Basic 20mm Specs
+(2) x Generic Small Miner
+(171) x Magnetic Quartz
+(2) x Advanced Engine Core
+(4643) x Torim Ore
+(7) x Basic Scan Emitter
+(2) x Advanced Energy Armor
+(115) x Carbon
+(63) x Industrial Salvager
+(2) x Explosive 20mm Specs
+(4) x Basic Scan Emitter
+(3663) x Anti-Freeze
+(125) x Advanced Shield Generator
+(5) x Protonic Light Laser
+(4) x Vita Lightblade X1 Laser
+(9) x Improved Impact Armor
+(50) x Liquid Coolant
+(53) x Metal Brackets
+(74) x Steelium Beams
+(7) x Aeo Particle X2 Beam
+(1) x Explosive 20mm Specs
+(23) x Protein Bar
+(3) x Generic Medium Beam
+(3378) x Lighting
+(86) x Fiber Optic Cables
+(7) x Advanced Scan Booster
+(9) x Generic Single Launcher
+(2) x Improved Turn Thrust
+(54) x Basic Sensor
+(3172) x Kinetic 20mm
+(23) x ECM Magweb
+(23) x ECM Target Scrambler
+(90) x ECM Sensors Jammer
+(23) x ECM Mod Disruptor
+(23) x Basic ECM Resistance Field
+(23) x Advanced ECM Resistance Field
+(112) x Prototype ECM Resistance Field
+(23) x Basic ECM Power Boost
+(23) x Advanced ECM Power Boost Field
+(23) x Prototype ECM Power Boost Field
+(23) x Basic ECM Energy Coil
+(60) x Advanced ECM Energy Coil
+(29) x Prototype ECM Energy Coil
+(58) x Basic ECM Range Lock
+(23) x Advanced ECM Range Lock
+(23) x Prototype ECM Range Lock
+(199) x ECM Magweb
+(20) x ECM Target Scrambler
+(20) x ECM Sensors Jammer
+(107) x ECM Mod Disruptor
+(58) x Basic Cloak Field Generator
+(185) x Cloak Field Resistance
+(158) x Cloak Booster
+(197) x Cloak Energy Core
+(64) x Cloak Range Extender
+(13) x Basic ECM Resistance Field
+(46) x Basic ECM Power Boost
+(20) x Basic ECM Energy Coil
+(57) x Basic ECM Range Lock
+(166) x Basic Warp Drive Fuel
+(250) x Improved Warp Drive Fuel
+(250) x Advanced Warp Drive Fuel
+(10) x Basic Warp Drive Fuel Specs
+(10) x Improved Warp Drive Fuel Specs
+(10) x Advanced Warp Drive Fuel Specs
+(5) x Polymere Specs
+(5) x Circuit Board Specs
+(5) x Basic Sensor Specs
+(5) x Thermal Sensor Specs
+(5) x Mechanical Switch Specs
+(125) x Fiber Optic Cables Specs
+(5) x Capacitors Specs
+(5) x Optical Interface Specs
+(97) x Regulator Specs
+(5) x Battery Core Specs
+
+
+<Station University Skills>
+Passive Scanner Systems
+Passive Scanner Focal Range
+Ship Gyroscopic Control
+Ship Shield Regeneration
+Ship Energy Regeneration
+Ship LS System Maintenance
+Advanced Food Systems
+Advanced Water Systems
+Advanced Thermal Systems
+Advanced Waste Systems
+Fleet Combat Training
+Ship Advanced Targeting Systems
+ECM Module Operation
+ECM Power System
+ECM Energy Management
+ECM Focus Range
+ECM Resistance
+Cloak Field Operation
+Cloak Power System
+Cloak Energy Management
+Cloak Field Range
+Cloak Sensors

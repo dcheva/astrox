@@ -175,6 +175,7 @@ SKILL;117;1.20
 // MISSION , dbid , timer, id, data, title, factionid
 <MISSIONS>
 MISSION;60;140;498127;HARVEST#69#10#sector_46.txt#sector_0_station_0.txt#null#null#null#null;Harvest special Zai Ore in Jonijo Lexa and return with 69 ore to Biomate University in Void Starcross;16;A local prospector, Laszeta Poezaeyit of the Enforcement faction has located a light quantity of special Zai Ore in the Jonijo Lexa sector. Head over there and harvest all of the special Zai Ore, and meet Laszeta Poezaeyit back at Biomate University station located in the Void Starcross.;26861
+MISSION;60;140;682964;HARVEST#80#1#sector_1.txt#sector_35_station_0.txt#null#null#null#null;Harvest special Adamyte Ore in Dellis Primeria and return with 80 ore to Astrox Security Patrol in Felishar;3;A local prospector, Lockibun Wheawhe of the Trade faction has located a light quantity of special Adamyte Ore in the Dellis Primeria sector. Head over there and harvest all of the special Adamyte Ore, and meet Lockibun Wheawhe back at Astrox Security Patrol station located in the Felishar.;24327
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
@@ -193,4 +194,5 @@ OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;m
 </OFFICE>
 // STORAGE;item_id;Qty;0
 <STORAGE>
+
 

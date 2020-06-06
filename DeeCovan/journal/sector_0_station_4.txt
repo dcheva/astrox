@@ -3,7 +3,7 @@ Assembly Station
 Vajeana
 Labor
 [c:lime]Dock fee 25[/c]
-Timestamp: 8559.854
+Timestamp: 28847.78
 <Station Services>
 [c:lime]SUPPLY[/c]
 Thermal Insulation
@@ -32,145 +32,207 @@ Offices
 
 
 <Station Market Orders>
-[c:green]BUY Order[/c] Market Low Inventory: (2) Items 
- (106) x Nitrogen
- (96) x Prometheum
-Fulfill order for [c:lime]4,023[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (128) x Nitrogen
+ (130) x Plastix Strands
+ (470) x Prometheum
+Fulfill order for [c:lime]18,487[/c]
+[c:green]BUY Order[/c] Market Shortage: (2) Items 
+ (382) x Plastix Strands
+ (203) x Uranium
+Fulfill order for [c:lime]10,239[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (376) x Nitrogen
+ (419) x Oxygen
+ (137) x Prometheum
+Fulfill order for [c:lime]7,273[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (498) x Nitrogen
+ (448) x Prometheum
+ (156) x Uranium
+Fulfill order for [c:lime]25,848[/c]
+[c:red]SELL Order[/c] Market Surplus: (1) Items 
+ (394) x Thermal Insulation
+Buy items for [c:red]12,175[/c]
+[c:green]BUY Order[/c] Market Demands: (3) Items 
+ (170) x Nitrogen
+ (200) x Oxygen
+ (195) x Plastix Strands
+Fulfill order for [c:lime]1,520[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (4) Items 
+ (252) x Nitrogen
+ (151) x Plastix Strands
+ (119) x Prometheum
+ (271) x Uranium
+Fulfill order for [c:lime]18,150[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (2) Items 
+ (269) x Plastix Strands
+ (156) x Prometheum
+Fulfill order for [c:lime]6,589[/c]
+[c:green]BUY Order[/c] Market Shortage: (3) Items 
+ (388) x Nitrogen
+ (310) x Plastix Strands
+ (150) x Prometheum
+Fulfill order for [c:lime]8,033[/c]
+[c:red]SELL Order[/c] Market Stock: (2) Items 
+ (309) x Small Pump
+ (51) x Armor Plating
+Buy items for [c:red]132,931[/c]
+[c:red]SELL Order[/c] Market Stock: (4) Items 
+ (53) x Thermal Insulation
+ (323) x Small Pump
+ (62) x Duct Work
+ (248) x Small Electronics
+Buy items for [c:red]138,535[/c]
+[c:green]BUY Order[/c] Market Items Req: (3) Items 
+ (367) x Plastix Strands
+ (52) x Prometheum
+ (200) x Uranium
+Fulfill order for [c:lime]12,011[/c]
+[c:green]BUY Order[/c] Market Out of Stock: (3) Items 
+ (213) x Plastix Strands
+ (193) x Prometheum
+ (269) x Uranium
+Fulfill order for [c:lime]19,994[/c]
 
 
 <Station Market Items>
 (6) x Advanced Afterburner
-(14) x Advanced Energy Armor
+(51) x Advanced Energy Armor
 (22) x Advanced Energy Capacitor
 (8) x Advanced Energy Generator
 (15) x Advanced Engine Core
-(9) x Advanced Explosive Armor
+(4) x Advanced Explosive Armor
 (11) x Advanced Filter
 (13) x Advanced Impact Armor
 (12) x Advanced Mass Reduction
-(3) x Advanced Regulator
-(2) x Advanced Scan Booster
-(21) x Advanced Scan Emitter
+(52) x Advanced Regulator
+(37) x Advanced Scan Booster
+(41) x Advanced Scan Emitter
 (6) x Advanced Shield Extender
-(10) x Advanced Shield Generator
-(6) x Advanced Thruster
+(26) x Advanced Shield Generator
+(47) x Advanced Thruster
 (12) x Advanced Turn Thrust
-(250) x Advanced Warp Drive Fuel
+(328) x Advanced Warp Drive Fuel
 (10) x Advanced Warp Drive Fuel Specs
 (15) x Aeo Particle X1 Beam
 (6) x Aeo Particle X2 Beam
 (5) x Aluminim Plates Specs
-(309) x Armor Plating
+(386) x Armor Plating
 (66) x Assorted Gaskets
-(9084) x Basic 60mm
+(9161) x Basic 60mm
 (9) x Basic Afterburner
 (4) x Basic Armor Exterior
-(14) x Basic Energy Capacitor
+(15) x Basic Energy Capacitor
 (6) x Basic Energy Generator
 (9) x Basic Filter
-(8120) x Basic Food Rations
-(7) x Basic Impact Armor
-(3395) x Basic Missile
+(8134) x Basic Food Rations
+(191) x Basic Impact Armor
+(3401) x Basic Missile
 (4) x Basic Missile Specs
-(136) x Basic Sensor
-(2) x Basic Shield Extender
+(50) x Basic Sensor
+(41) x Basic Shield Extender
 (9) x Basic Targeting System
 (4) x Basic Thruster
 (18) x Basic Turn Thrust
 (250) x Basic Warp Drive Fuel
-(10) x Basic Warp Drive Fuel Specs
+(48) x Basic Warp Drive Fuel Specs
 (597) x Carbon
-(9) x Containment Unit
+(42) x Containment Unit
 (5) x Copperi Pipes Specs
 (5) x Copperi Plates Specs
-(13) x Disposables
-(321) x Duct Work
+(144) x Disposables
+(369) x Duct Work
 (5) x Dynex Crystal Resonator Specs
-(5) x Electronic Switch Specs
-(4294) x Explosive 20mm
-(1434) x Explosive 60mm
-(5920) x Explosive Missile
-(1) x Explosive Missile Specs
+(29) x Electronic Switch Specs
+(4340) x Explosive 20mm
+(1444) x Explosive 60mm
+(5737) x Explosive Missile
+(21) x Explosive Missile Specs
 (169) x Fasteners
 (241) x Fiber Optic Cables
 (3472) x Furniture
-(25) x Generic Construction Platform
+(72) x Generic Construction Platform
 (7) x Generic Default Tractor
 (4) x Generic Dual 20mm Gun
-(7) x Generic Dual Launcher
-(24) x Generic Gatling 20mm Gun
+(101) x Generic Dual Launcher
+(36) x Generic Gatling 20mm Gun
 (6) x Generic Light Laser
-(10) x Generic Medium Beam
+(38) x Generic Medium Beam
 (13) x Generic Medium Laser
-(9) x Generic Medium Miner
+(75) x Generic Medium Miner
 (7) x Generic Single 20mm Gun
 (8) x Generic Single Launcher
 (9) x Generic Small Beam
 (17) x Generic Small Miner
 (8) x Generic Spotlight
-(2) x Generic Triple Launcher
-(5) x Glass Panels Specs
+(98) x Generic Triple Launcher
+(71) x Glass Panels Specs
 (7511) x Gourmet Food Rations
-(2823) x Gradeon Ore
-(6) x Ham Sandwich
-(5) x Hand Tools Specs
+(2785) x Gradeon Ore
+(51) x Ham Sandwich
+(197) x Hand Tools Specs
 (5) x Hardened Glass Panels Specs
 (9609) x Hydrogen
-(5) x Improved Afterburner
-(5) x Improved Armor Exterior
-(27) x Improved Cargo Expansion
+(90) x Improved Afterburner
+(104) x Improved Armor Exterior
+(99) x Improved Cargo Expansion
 (3) x Improved Energy Armor
-(7) x Improved Energy Capacitor
+(20) x Improved Energy Capacitor
 (7) x Improved Engine Core
-(8) x Improved Explosive Armor
+(13) x Improved Explosive Armor
 (9) x Improved Filter
-(9) x Improved Impact Armor
-(2) x Improved Mass Reduction
-(8) x Improved Scan Emitter
+(8) x Improved Impact Armor
+(37) x Improved Mass Reduction
+(99) x Improved Scan Emitter
 (5) x Improved Shield Extender
 (10) x Improved Shield Generator
-(28) x Improved Turn Thrust
-(250) x Improved Warp Drive Fuel
+(46) x Improved Turn Thrust
+(281) x Improved Warp Drive Fuel
 (10) x Improved Warp Drive Fuel Specs
 (16) x Industrial Salvager
 (15) x Inovex Single Launcher
 (147) x Iron Coring
-(5) x Iron Coring Beams Specs
-(20) x Janca Default Tractor
-(23) x Janca Z2 OreVac
+(61) x Iron Coring Beams Specs
+(117) x Janca Default Tractor
+(125) x Janca Z2 OreVac
 (549) x Junk
-(5) x Keypad Specs
+(12) x Keypad Specs
 (6547) x Kinetic 20mm
-(8129) x Kinetic 60mm
+(8168) x Kinetic 60mm
 (5030) x Kinetic Missile
 (2) x Kinetic Missile Specs
 (12) x Kinetics G-series 20mm Gun
-(8) x Kinetics G-series Dual 20mm
+(196) x Kinetics G-series Dual 20mm
 (3) x Kinetics M-series x1 Launcher
 (6767) x Kitchen Appliances
 (62) x Liquid Coolant
 (4281) x Lokken Ore
-(230) x Lubricant
-(278) x Magnetic Quartz
+(140) x Lubricant
+(337) x Magnetic Quartz
 (155) x Mechanical Switch
-(78) x Metal Brackets
+(97) x Metal Brackets
+(32) x Nitrogen
 (77) x Optical Interface
-(3414) x Plasite Ore
+(61) x Oxygen
+(3474) x Plasite Ore
+(67) x Plastix Strands
+(23) x Prometheum
 (2) x Protein Bar
 (3) x Quantex  x-2 20mm Gun
 (63) x Rubber Tubing
-(16) x SBC LI1 Harvester
-(2616) x Scrap
-(324) x Small Electronics
-(297) x Small Pump
+(185) x SBC LI1 Harvester
+(2618) x Scrap
+(389) x Small Electronics
+(337) x Small Pump
 (60) x Steelium Pipes
 (3) x Temperature Genie
-(327) x Thermal Insulation
+(368) x Thermal Insulation
 (13) x Vita Lightblade X1 Laser
 (26) x Waste Processor
-(11701) x Water
-(6435) x Whiskey
-(2947) x Wine
+(11721) x Water
+(6426) x Whiskey
+(2935) x Wine
 
 
 <Station University Skills>
