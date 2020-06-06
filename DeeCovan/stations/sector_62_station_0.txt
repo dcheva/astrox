@@ -116,6 +116,7 @@ SKILL;24;1.16
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1;ship_data_(recon_shuttle_1).txt
 SHIP;1;0.98;ship_data_(battle_cruiser_1).txt
 SHIP;2;1.09;ship_data_(battle_carrier_1).txt
 SHIP;3;1.05;ship_data_(support_carrier_1).txt

@@ -21,7 +21,7 @@ SERVICES;market;False
 SERVICES;refinery;False
 SERVICES;garage;True
 SERVICES;university;True
-SERVICES;hangar;False
+SERVICES;hangar;True
 SERVICES;storage;False
 SERVICES;fabricator;True
 SERVICES;contracts;True
@@ -112,6 +112,7 @@ SKILL;75;1.07
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;0.8053733;ship_data_(support_carrier_1).txt
 SHIP;1;0.93;ship_data_(battle_shuttle_1).txt
 SHIP;2;1.07;ship_data_(pirate_cruiser_1).txt
 SHIP;3;1.01;ship_data_(support_cruiser_1).txt

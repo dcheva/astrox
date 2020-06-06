@@ -43,6 +43,8 @@ MERC;15;1.47;npc_ship_data_(excavation_frigate_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Needs Goods: (2) Items ;120x172,122x360;26688;64295.38
+BUYORDER;Market Needs Goods: (4) Items ;106x405,103x436,118x330,120x224;13357;45682.38
 BUYORDER;Market Shortage: (2) Items ;103x426,120x381;18541;40013.61
 BUYORDER;Market Out of Stock: (3) Items ;106x128,118x130,120x470;26736.00;42282.09
 BUYORDER;Market Shortage: (2) Items ;118x382,122x203;13719.00;97866.09

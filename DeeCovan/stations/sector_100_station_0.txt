@@ -36,6 +36,7 @@ MERC;4;1.42;npc_ship_data_(transport_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Supply: (2) Items ;200x169,206x172;13375;58382.38
 SELLORDER;Market Supply: (3) Items ;200x253,201x53,206x90;17848;28485.99
 SELLORDER;Sell Order Request for (1) Items ;1106x4;17813;46134.45
 SELLORDER;Market Inventory: (1) Items ;206x238;4689;55104.74

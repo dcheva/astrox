@@ -6,9 +6,9 @@ PLAYER;xp;10107.00
 PLAYER;next_level_xp;14100.00
 PLAYER;last_level_xp;9100.00
 PLAYER;avatar;none.jpg
-PLAYER;credits;125206.35
+PLAYER;credits;122806.35
 PLAYER;skill_points;29
-PLAYER;playtime;29429.61
+PLAYER;playtime;29601.08
 PLAYER;fleet_formation;Broad
 PLAYER;fleet_formation_distance;1
 PLAYER;max_missions;2
@@ -20,16 +20,16 @@ PLAYER;autopilot_settings;True,False,True,True,False
 
 PLAYER;sector;sector_0.txt
 PLAYER;sector_id;0
-PLAYER;station;null
-PLAYER;isdocked;False
+PLAYER;station;sector_0_station_0.txt
+PLAYER;isdocked;True
 
 // SHIP;filename;isActive;isDocked;station;sector;position_x;position_y;position_z;
 <SHIPS>
-SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;-5213.05;20.84;2562.60
+SHIP;/MOD/saves/DeeCovan/ships/ship_data_(excavation_escort_1_startship).txt;True;True;sector_0_station_0.txt;sector_0.txt;-719.27;-59.81;-4857.08
 
 // MERC;filename;isactive;station;sector;position_x;position_y;position_z;
 <MERC>
-MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(recon_carrier_1)_62239.txt;Active;sector_14_station_1.txt;sector_14.txt;-5213.05;20.84;2562.60;
+MERC;/MOD/saves/DeeCovan/ships/npc_ship_data_(recon_carrier_1)_62239.txt;Active;sector_14_station_1.txt;sector_14.txt;-719.27;-59.81;-4857.08;
 
 // SKILL; skill id, skill lvl, train time remaining, total time
 <SKILLS>
@@ -57,8 +57,8 @@ MEDAL;7;True;medal_12.png;First Raider Destroyed;Awarded for destroying your fir
 
 // MISSION , id , timer, img, data, desc
 <MISSIONS>
-MISSION;42;116;195450;SCAN_PILOT#sector_42_station_0.txt#sector_40.txt#Enforcer Mellel Sipjaliszae#npc_ship_data_(excavation_shuttle_1)#10#null#null#null;Track down and scan Enforcer Mellel Sipjaliszae in Dogstar Prime and return to Desban in Ellisar;16;0;False;84006;0;Enforcement faction has requested that we verify the whereabouts of a Enforcer Mellel Sipjaliszae. After a recent ban order from the high court minister Pacie Measnostra, Dogstar Prime officials are worried that Enforcer Mellel Sipjaliszae might cause problems for the local merchants. Scan Enforcer Mellel Sipjaliszae's ship and return to Desban in Ellisar with the scan record.
-MISSION;42;116;790782;SCAN_PILOT#sector_35_station_0.txt#sector_53.txt#Rookie Hasrib Yittibar#npc_ship_data_(pirate_shuttle_1)#20#null#null#null;Track down and scan Rookie Hasrib Yittibar in Heliojen and return to Astrox Security Patrol in Felishar;11;0;False;86596;0;Orthodox faction has requested that we verify the whereabouts of a Rookie Hasrib Yittibar. After a recent ban order from the high court minister Telme Whifu, Heliojen officials are worried that Rookie Hasrib Yittibar might cause problems for the local merchants. Scan Rookie Hasrib Yittibar's ship and return to Astrox Security Patrol in Felishar with the scan record.
+MISSION;42;113;195450;SCAN_PILOT#sector_42_station_0.txt#sector_40.txt#Enforcer Mellel Sipjaliszae#npc_ship_data_(excavation_shuttle_1)#10#null#null#null;Track down and scan Enforcer Mellel Sipjaliszae in Dogstar Prime and return to Desban in Ellisar;16;0;False;84006;0;Enforcement faction has requested that we verify the whereabouts of a Enforcer Mellel Sipjaliszae. After a recent ban order from the high court minister Pacie Measnostra, Dogstar Prime officials are worried that Enforcer Mellel Sipjaliszae might cause problems for the local merchants. Scan Enforcer Mellel Sipjaliszae's ship and return to Desban in Ellisar with the scan record.
+MISSION;42;113;790782;SCAN_PILOT#sector_35_station_0.txt#sector_53.txt#Rookie Hasrib Yittibar#npc_ship_data_(pirate_shuttle_1)#20#null#null#null;Track down and scan Rookie Hasrib Yittibar in Heliojen and return to Astrox Security Patrol in Felishar;11;0;False;86596;0;Orthodox faction has requested that we verify the whereabouts of a Rookie Hasrib Yittibar. After a recent ban order from the high court minister Telme Whifu, Heliojen officials are worried that Rookie Hasrib Yittibar might cause problems for the local merchants. Scan Rookie Hasrib Yittibar's ship and return to Astrox Security Patrol in Felishar with the scan record.
 
 // STAT; Stat id, Stat Name ,Stat Value , Stat Type
 <STATS>
