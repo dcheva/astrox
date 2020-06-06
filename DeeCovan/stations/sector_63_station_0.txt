@@ -38,6 +38,7 @@ MERC;7;1.21;npc_ship_data_(pirate_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+BUYORDER;Market Low Inventory: (1) Items ;1153x81;88984;87578.42
 ITEM;2211;1;1.07
 ITEM;2309;2;1.09
 ITEM;2112;667;1.02
@@ -136,6 +137,7 @@ SKILL;36;1.26
 </MISSIONS>
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
+SHIP;1;1.274956;ship_data_(battle_escort_1).txt
 SHIP;1;0.96;ship_data_(support_cruiser_1).txt
 SHIP;2;0.93;ship_data_(pirate_frigate_1).txt
 SHIP;3;1.01;ship_data_(pirate_shuttle_1).txt

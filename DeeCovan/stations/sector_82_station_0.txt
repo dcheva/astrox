@@ -37,6 +37,9 @@ MERC;7;1.73;npc_ship_data_(battle_cruiser_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Goods: (4) Items ;41x373,42x194,43x348,61x182;3469;68141.05
+SELLORDER;Market Stock: (2) Items ;60x296,61x209;5054;59794.05
+SELLORDER;Market Items: (4) Items ;40x87,43x259,60x118,62x54;3639;86089.05
 BUYORDER;Market Shortage: (3) Items ;155x383,158x168,200x103;34514;84518.45
 BUYORDER;Market Needs Goods: (2) Items ;167x154,200x380;31529;22001.45
 BUYORDER;Market Out of Stock: (2) Items ;155x69,200x312;46694;40155.45

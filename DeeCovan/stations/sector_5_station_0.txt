@@ -41,6 +41,8 @@ MERC;8;1.00;npc_ship_data_(battle_shuttle_1).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
+SELLORDER;Market Surplus: (4) Items ;106x329,103x54,100x314,101x398;502;38309.05
+SELLORDER;Market Items: (3) Items ;106x367,103x73,101x181;1690;51284.05
 BUYORDER;Market Shortage: (3) Items ;2000x95,111x221,115x329;4398;80871.79
 BUYORDER;Market Shortage: (3) Items ;115x262,109x202,101x119;3452;53784.79
 BUYORDER;Market Needs Goods: (2) Items ;115x176,109x343;3588;36955.79
